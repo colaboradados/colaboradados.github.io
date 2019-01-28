@@ -1,0 +1,55 @@
+</div>
+</div>
+<!-- Footer -->
+<footer id="footer">
+	<div class="inner">
+		<section>
+			<h2>Conhece uma base de dados diferente? Manda pra gente! Ou colabore em nosso <a href="https://github.com/andrewbanchich/phantom-jekyll-theme">github</a>.</h2>
+			<form method="post" action="https://formspree.io/{{ site.email }}"
+      method="POST">
+				<div class="field half first">
+					<input type="text" name="name" id="name" placeholder="Seu nome" />
+				</div>
+				<div class="field half">
+					<input type="email" name="_replyto" id="email" placeholder="E-mail" />
+				</div>
+				<div class="field">
+					<textarea name="message" id="message" placeholder="Mensagem"></textarea>
+				</div>
+				<ul class="actions">
+					<li>
+						<input type="submit" value="Enviar" class="special" />
+					</li>
+				</ul>
+			</form>
+		</section>
+		<section>
+			<h2>Siga-nos</h2>
+			<ul class="icons">
+				{% if site.twitter_username %}
+				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+				{% endif %}
+
+				{% if site.github_username %}
+				<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+				{% endif %}
+
+			</ul>
+		</section>
+		<ul class="copyright">
+			<li>&copy; {{ site.title }} 2019. Todos os direitos reservados. </li>
+			<li> Para a comunidade, com amor. Por <a href="https://juditecypreste.github.io/">Judite Cypreste</a> </li>
+			<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+			<li>Jekyll integration: <a href="https://github.com/andrewbanchich/phantom-jekyll-theme">Andrew Banchich</a></li>
+		</ul>
+	</div>
+</footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
