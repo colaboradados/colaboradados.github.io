@@ -23,4 +23,9 @@ categories: jekyll update
 <li><b><a href="http://www2.camara.leg.br/transparencia">Transparência Câmara dos Deputados</a></b>: http://www2.camara.leg.br/transparencia</li>
 </ul>
 
+<h2>Tribunal Superior Eleitoral</h2>
+<ul>
+<li><b><a href="http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados">Filiação partidária</a></b>: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados</li>
+</ul>
+
 </section>
