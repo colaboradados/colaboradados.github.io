@@ -136,6 +136,11 @@ categories: jekyll update
 
 <h2>Rio Grande do Norte</h2>
 
+<h3>Ceará-Mirim</h3>
+<ul>
+<li><b><a href="http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx">Prefeitura de Ceará-Mirim</a></b>: http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx</li>
+</ul>
+
 <h3>Natal</h3>
 <ul>
 <li><b><a href="https://www.natal.rn.gov.br/transparencia/">Prefeitura do Natal</a></b>: https://www.natal.rn.gov.br/transparencia/</li>
