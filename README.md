@@ -29,7 +29,22 @@ gem "jekyll"
 gem "jekyll-gist"`
 Se tudo deu certo, a etapa prossiga para a etapa **5**.
 
-5. Abra o seu navagador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador. 
+5. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador. 
+
+## Instalando no Linux Ubuntu
+
+- [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
+- [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
+- [**GitBash**](https://git-scm.com/download/linux)
+
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
+2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependencias que são requeridas para rodar o projeto.
+3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
+4. Instale tambem o Git, digite `$ sudo apt-get install git`
+5. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
+6. Vá até a pasta onde você clonou o repositório em seu computador. 
+7. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
+8. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
 
 ## Colaborando com a bases de dados (e sendo uma pessoa muito legal)
 
