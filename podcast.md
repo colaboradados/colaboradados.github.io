@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Colaboradados
+title: Podcast
 ---
 
 {% include tiles.html %}
