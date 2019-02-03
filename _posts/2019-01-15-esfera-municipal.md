@@ -132,6 +132,8 @@ categories: jekyll update
 <h3>Rio de Janeiro</h3>
 <ul>
 <li><b><a href="http://prefeitura.rio/web/transparenciacarioca">Prefeitura do Rio de Janeiro</a></b>: http://prefeitura.rio/web/transparenciacarioca</li>
+
+<li><b><a href="http://www.data.rio/">DATA.Rio</a></b>: http://www.data.rio/</li>
 </ul>
 
 <h2>Rio Grande do Norte</h2>
