@@ -11,6 +11,7 @@ categories: jekyll update
 <ul>
 <li><b><a href="http://dados.gov.br/">Dados Abertos</a></b>: http://dados.gov.br/</li>
 <li><b><a href="http://portaldatransparencia.gov.br/">Portal da Transparência</a></b>: http://portaldatransparencia.gov.br/</li>
+<li><b><a href="http://www.in.gov.br/web/guest/inicio">Diário Oficial da União</a></b>: http://www.in.gov.br/web/guest/inicio</li>
 </ul>
 
 <h2>Senado Federal</h2>
