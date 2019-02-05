@@ -175,7 +175,17 @@
 				}
 			}
 
+			&.style9 {
+				> .image:before {
+					background-color: _palette(accent9);
+				}
+			}
 
+			&.style10 {
+				> .image:before {
+					background-color: _palette(accent10);
+				}
+			
 
 
 
