@@ -5,196 +5,163 @@ date:   2019-01-15 12:00:00 -0400
 categories: jekyll update
 ---
 
-<section>
+## ACRE
 
-<h2>Acre</h2>
+### RIO BRANCO
 
-<h3>Rio Branco</h3>
+-   **[Prefeitura de Rio Branco](http://transparencia.riobranco.ac.gov.br/)**: http://transparencia.riobranco.ac.gov.br/
 
-<ul>
-<li><b><a href="http://transparencia.riobranco.ac.gov.br/">Prefeitura de Rio Branco</a></b>: http://transparencia.riobranco.ac.gov.br/</li>
-</ul>
+## ALAGOAS
 
-<h2>Alagoas</h2>
+### MACEIÓ
 
-<h3>Maceió</h3>
-<ul>
-<li><b><a href="http://www.transparencia.maceio.al.gov.br/">Prefeitura de Maceió</a></b>: http://www.transparencia.maceio.al.gov.br/</li>
-</ul>
+-   **[Prefeitura de Maceió](http://www.transparencia.maceio.al.gov.br/)**: http://www.transparencia.maceio.al.gov.br/
 
-<h2>Amapá</h2>
+## AMAPÁ
 
-<h3>Macapá</h3>
-<ul>
-<li><b><a href="http://transparencia.macapa.ap.gov.br">Prefeitura de Macapá</a></b>: http://transparencia.macapa.ap.gov.br</li>
-</ul>
+### MACAPÁ
 
-<h2>Amazonas</h2>
+-   **[Prefeitura de Macapá](http://transparencia.macapa.ap.gov.br/)**: http://transparencia.macapa.ap.gov.br
 
-<h3>Manaus</h3>
-<ul>
-<li><b><a href="https://transparencia.manaus.am.gov.br">Prefeitura de Manaus</a></b>: https://transparencia.manaus.am.gov.br</li>
-</ul>
+## AMAZONAS
 
-<h2>Bahia</h2>
+### MANAUS
 
-<h3>Salvador</h3>
-<ul>
-<li><b><a href="http://www.transparencia.salvador.ba.gov.br/">Prefeitura de Salvador</a></b>: http://www.transparencia.salvador.ba.gov.br/</li>
-</ul>
+-   **[Prefeitura de Manaus](https://transparencia.manaus.am.gov.br/)**: https://transparencia.manaus.am.gov.br
 
-<h2>Ceará</h2>
+## BAHIA
 
-<h3>Fortaleza</h3>
-<ul>
-<li><b><a href="https://transparencia.fortaleza.ce.gov.br">Prefeitura de Fortaleza</a></b>: https://transparencia.fortaleza.ce.gov.br</li>
-</ul>
+### SALVADOR
 
-<h2>Espírito Santo</h2>
+-   **[Prefeitura de Salvador](http://www.transparencia.salvador.ba.gov.br/)**: http://www.transparencia.salvador.ba.gov.br/
 
-<h3>Vitória</h3>
-<ul>
-<li><b><a href="http://transparencia.vitoria.es.gov.br/">Prefeitura de Vitória</a></b>: http://transparencia.vitoria.es.gov.br/</li>
-</ul>
+## CEARÁ
 
-<h2>Goiás</h2>
+### FORTALEZA
 
-<h3>Goiania</h3>
-<ul>
-<li><b><a href="https://www10.goiania.go.gov.br/TransWeb/PortaldaTransparencia.aspx">Prefeitura de Goiania</a></b>: https://www10.goiania.go.gov.br/TransWeb/PortaldaTransparencia.aspx</li>
-</ul>
+-   **[Prefeitura de Fortaleza](https://transparencia.fortaleza.ce.gov.br/)**: https://transparencia.fortaleza.ce.gov.br
 
-<h2>Maranhão</h2>
+## ESPÍRITO SANTO
 
-<h3>São Luís</h3>
-<ul>
-<li><b><a href="http://transparencia.saoluis.ma.gov.br/">Prefeitura de São Luís</a></b>: http://transparencia.saoluis.ma.gov.br/</li>
-</ul>
+### VITÓRIA
 
-<h2>Mato Grosso</h2>
+-   **[Prefeitura de Vitória](http://transparencia.vitoria.es.gov.br/)**: http://transparencia.vitoria.es.gov.br/
 
-<h3>Cuiabá</h3>
-<ul>
-<li><b><a href="http://www.cuiaba.mt.gov.br">Prefeitura de Cuiabá</a></b>: http://www.cuiaba.mt.gov.br</li>
-</ul>
+## GOIÁS
 
-<h2>Mato Grosso do Sul</h2>
+### GOIANIA
 
-<h3>Campo Grande</h3>
-<ul>
-<li><b><a href="http://transparencia.campogrande.ms.gov.br/">Prefeitura de Campo Grande</a></b>: http://transparencia.campogrande.ms.gov.br/</li>
-</ul>
+-   **[Prefeitura de Goiania](https://www10.goiania.go.gov.br/TransWeb/PortaldaTransparencia.aspx)**: https://www10.goiania.go.gov.br/TransWeb/PortaldaTransparencia.aspx
 
-<h2>Minas Gerais</h2>
+## MARANHÃO
 
-<h3>Belo Horizonte</h3>
-<ul>
-<li><b><a href="https://prefeitura.pbh.gov.br/transparencia">Prefeitura de Belo Horizonte</a></b>: https://prefeitura.pbh.gov.br/transparencia/</li>
-</ul>
+### SÃO LUÍS
 
-<h2>Pará</h2>
+-   **[Prefeitura de São Luís](http://transparencia.saoluis.ma.gov.br/)**: http://transparencia.saoluis.ma.gov.br/
 
-<h3>Belém</h3>
-<ul>
-<li><b><a href="http://www.belem.pa.gov.br/transparencia/">Prefeitura de Belém</a></b>: http://www.belem.pa.gov.br/transparencia/</li>
-</ul>
+## MATO GROSSO
 
-<h2>Paraíba</h2>
+### CUIABÁ
 
-<h3>João Pessoa</h3>
-<ul>
-<li><b><a href="https://transparencia.joaopessoa.pb.gov.br">Prefeitura de João Pessoa</a></b>: https://transparencia.joaopessoa.pb.gov.br</li>
-</ul>
+-   **[Prefeitura de Cuiabá](http://www.cuiaba.mt.gov.br/)**: http://www.cuiaba.mt.gov.br
 
-<h2>Paraná</h2>
+## MATO GROSSO DO SUL
 
-<h3>Curitiba</h3>
-<ul>
-<li><b><a href="http://www.transparencia.curitiba.pr.gov.br/">Prefeitura de Curitiba</a></b>: http://www.transparencia.curitiba.pr.gov.br/</li>
-</ul>
+### CAMPO GRANDE
 
-<h2>Pernambuco</h2>
+-   **[Prefeitura de Campo Grande](http://transparencia.campogrande.ms.gov.br/)**: http://transparencia.campogrande.ms.gov.br/
 
-<h3>Recife</h3>
-<ul>
-<li><b><a href="http://www2.recife.pe.gov.br/servico/portal-da-transparencia">Prefeitura de Recife</a></b>: http://www2.recife.pe.gov.br/servico/portal-da-transparencia</li>
-</ul>
+## MINAS GERAIS
 
-<h2>Piauí</h2>
+### BELO HORIZONTE
 
-<h3>Teresina</h3>
-<ul>
-<li><b><a href="http://transparencia.teresina.pi.gov.br/">Prefeitura de Teresina</a></b>: http://transparencia.teresina.pi.gov.br/</li>
-</ul>
+-   **[Prefeitura de Belo Horizonte](https://prefeitura.pbh.gov.br/transparencia)**: https://prefeitura.pbh.gov.br/transparencia/
 
-<h2>Rio de Janeiro</h2>
+## PARÁ
 
-<h3>Rio de Janeiro</h3>
-<ul>
-<li><b><a href="http://prefeitura.rio/web/transparenciacarioca">Prefeitura do Rio de Janeiro</a></b>: http://prefeitura.rio/web/transparenciacarioca</li>
+### BELÉM
 
-<li><b><a href="http://www.data.rio/">DATA.Rio</a></b>: http://www.data.rio/</li>
-</ul>
+-   **[Prefeitura de Belém](http://www.belem.pa.gov.br/transparencia/)**: http://www.belem.pa.gov.br/transparencia/
 
-<h2>Rio Grande do Norte</h2>
+## PARAÍBA
 
-<h3>Ceará-Mirim</h3>
-<ul>
-<li><b><a href="http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx">Prefeitura de Ceará-Mirim</a></b>: http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx</li>
-</ul>
+### JOÃO PESSOA
 
-<h3>Natal</h3>
-<ul>
-<li><b><a href="https://www.natal.rn.gov.br/transparencia/">Prefeitura do Natal</a></b>: https://www.natal.rn.gov.br/transparencia/</li>
-</ul>
+-   **[Prefeitura de João Pessoa](https://transparencia.joaopessoa.pb.gov.br/)**: https://transparencia.joaopessoa.pb.gov.br
 
-<h2>Rio Grande do Sul</h2>
+## PARANÁ
 
-<h3>Porto Alegre</h3>
-<ul>
-<li><b><a href="http://www2.portoalegre.rs.gov.br/transparencia">Prefeitura de Porto Alegre</a></b>: http://www2.portoalegre.rs.gov.br/transparencia</li>
-</ul>
+### CURITIBA
 
-<h2>Rondônia</h2>
+-   **[Prefeitura de Curitiba](http://www.transparencia.curitiba.pr.gov.br/)**: http://www.transparencia.curitiba.pr.gov.br/
 
-<h3>Porto Velho</h3>
-<ul>
-<li><b><a href="https://transparencia.portovelho.ro.gov.br/">Prefeitura de Porto Velho</a></b>: https://transparencia.portovelho.ro.gov.br/</li>
-</ul>
+## PERNAMBUCO
 
-<h2>Roraima</h2>
+### RECIFE
 
-<h3>Boa Vista</h3>
-<ul>
-<li><b><a href="http://transparencia.boavista.rr.gov.br/portal/">Prefeitura de Boa Vista</a></b>: http://transparencia.boavista.rr.gov.br/portal/</li>
-</ul>
+-   **[Prefeitura de Recife](http://www2.recife.pe.gov.br/servico/portal-da-transparencia)**: http://www2.recife.pe.gov.br/servico/portal-da-transparencia
 
-<h2>Santa Catarina</h2>
+## PIAUÍ
 
-<h3>Florianópolis</h3>
-<ul>
-<li><b><a href="http://www.pmf.sc.gov.br/transparencia/">Prefeitura de Florianópolis</a></b>: http://www.pmf.sc.gov.br/transparencia/</li>
-</ul>
+### TERESINA
 
-<h2>São Paulo</h2>
+-   **[Prefeitura de Teresina](http://transparencia.teresina.pi.gov.br/)**: http://transparencia.teresina.pi.gov.br/
 
-<h3>São Paulo</h3>
-<ul>
-<li><b><a href="http://transparencia.prefeitura.sp.gov.br/">Prefeitura de São Paulo</a></b>: http://transparencia.prefeitura.sp.gov.br/</li>
-</ul>
+## RIO DE JANEIRO
 
-<h2>Sergipe</h2>
+### RIO DE JANEIRO
 
-<h3>Aracaju</h3>
-<ul>
-<li><b><a href="https://transparencia.aracaju.se.gov.br/">Prefeitura de Aracaju</a></b>: https://transparencia.aracaju.se.gov.br/</li>
-</ul>
+-   **[Prefeitura do Rio de Janeiro](http://prefeitura.rio/web/transparenciacarioca)**: http://prefeitura.rio/web/transparenciacarioca
+-   **[DATA.Rio](http://www.data.rio/)**: http://www.data.rio/
 
-<h2>Tocantins</h2>
+## RIO GRANDE DO NORTE
 
-<h3>Palmas</h3>
-<ul>
-<li><b><a href="http://portaldatransparencia.palmas.to.gov.br/">Prefeitura de Palmas</a></b>: http://portaldatransparencia.palmas.to.gov.br/</li>
-</ul>
+### CEARÁ-MIRIM
 
-</section>
+-   **[Prefeitura de Ceará-Mirim](http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx)**: http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/despesas.aspx
+
+### NATAL
+
+-   **[Prefeitura do Natal](https://www.natal.rn.gov.br/transparencia/)**: https://www.natal.rn.gov.br/transparencia/
+
+## RIO GRANDE DO SUL
+
+### PORTO ALEGRE
+
+-   **[Prefeitura de Porto Alegre](http://www2.portoalegre.rs.gov.br/transparencia)**: http://www2.portoalegre.rs.gov.br/transparencia
+
+## RONDÔNIA
+
+### PORTO VELHO
+
+-   **[Prefeitura de Porto Velho](https://transparencia.portovelho.ro.gov.br/)**: https://transparencia.portovelho.ro.gov.br/
+
+## RORAIMA
+
+### BOA VISTA
+
+-   **[Prefeitura de Boa Vista](http://transparencia.boavista.rr.gov.br/portal/)**: http://transparencia.boavista.rr.gov.br/portal/
+
+## SANTA CATARINA
+
+### FLORIANÓPOLIS
+
+-   **[Prefeitura de Florianópolis](http://www.pmf.sc.gov.br/transparencia/)**: http://www.pmf.sc.gov.br/transparencia/
+
+## SÃO PAULO
+
+### SÃO PAULO
+
+-   **[Prefeitura de São Paulo](http://transparencia.prefeitura.sp.gov.br/)**: http://transparencia.prefeitura.sp.gov.br/
+
+## SERGIPE
+
+### ARACAJU
+
+-   **[Prefeitura de Aracaju](https://transparencia.aracaju.se.gov.br/)**: https://transparencia.aracaju.se.gov.br/
+
+## TOCANTINS
+
+### PALMAS
+
+-   **[Prefeitura de Palmas](http://portaldatransparencia.palmas.to.gov.br/)**: http://portaldatransparencia.palmas.to.gov.br/
