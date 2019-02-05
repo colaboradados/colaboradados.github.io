@@ -35,6 +35,10 @@ categories: jekyll update
 
 -   **[Prefeitura de Salvador](http://www.transparencia.salvador.ba.gov.br/)**: http://www.transparencia.salvador.ba.gov.br/
 
+### FEIRA DE SANTANA
+
+-   **[Prefeitura de Feira de Santana](http://www.transparencia.feiradesantana.ba.gov.br/)**: http://www.transparencia.feiradesantana.ba.gov.br/
+
 ## CEARÁ
 
 ### FORTALEZA
@@ -147,6 +151,8 @@ categories: jekyll update
 ### FLORIANÓPOLIS
 
 -   **[Prefeitura de Florianópolis](http://www.pmf.sc.gov.br/transparencia/)**: http://www.pmf.sc.gov.br/transparencia/
+
+-   **[Prefeitura de Joinville](https://transparencia.joinville.sc.gov.br/)**: https://transparencia.joinville.sc.gov.br/
 
 ## SÃO PAULO
 
