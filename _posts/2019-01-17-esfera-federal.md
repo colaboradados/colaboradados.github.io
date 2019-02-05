@@ -5,27 +5,19 @@ date:   2019-01-17 12:00:00 -0400
 categories: jekyll update
 ---
 
-<section>
+## GOVERNO FEDERAL
 
-<h2>Governo Federal</h2>
-<ul>
-<li><b><a href="http://dados.gov.br/">Dados Abertos</a></b>: http://dados.gov.br/</li>
-<li><b><a href="http://portaldatransparencia.gov.br/">Portal da Transparência</a></b>: http://portaldatransparencia.gov.br/</li>
-</ul>
+-   **[Dados Abertos](http://dados.gov.br/)**: http://dados.gov.br/
+-   **[Portal da Transparência](http://portaldatransparencia.gov.br/)**: http://portaldatransparencia.gov.br/
 
-<h2>Senado Federal</h2>
-<ul>
-<li><b><a href="https://www12.senado.leg.br/transparencia/">Transparência Senado Federal</a></b>: https://www12.senado.leg.br/transparencia/</li>
-</ul>
+## SENADO FEDERAL
 
-<h2>Câmara dos Deputados</h2>
-<ul>
-<li><b><a href="http://www2.camara.leg.br/transparencia">Transparência Câmara dos Deputados</a></b>: http://www2.camara.leg.br/transparencia</li>
-</ul>
+-   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
 
-<h2>Tribunal Superior Eleitoral</h2>
-<ul>
-<li><b><a href="http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados">Filiação partidária</a></b>: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados</li>
-</ul>
+## CÂMARA DOS DEPUTADOS
 
-</section>
+-   **[Transparência Câmara dos Deputados](http://www2.camara.leg.br/transparencia)**: http://www2.camara.leg.br/transparencia
+
+## TRIBUNAL SUPERIOR ELEITORAL
+
+-   **[Filiação partidária](http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados)**: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados

@@ -5,179 +5,121 @@ date:   2019-01-16 12:00:00 -0400
 categories: jekyll update
 ---
 
-<section>
+## REGIÃO NORTE
 
-<h2>Região Norte</h2>
+### ACRE
 
-<h3>Acre</h3>
+-   **[Governo do Estado do Acre](http://transparencia.ac.gov.br/acessoainformacao/index.php)**: http://transparencia.ac.gov.br
 
-<ul>
-<li><b><a href="http://transparencia.ac.gov.br/acessoainformacao/index.php">Governo do Estado do Acre</a></b>: http://transparencia.ac.gov.br</li>
-</ul>
+### AMAPÁ
 
-<h3>Amapá</h3>
+-   **[Governo do Estado do Amapá](http://www.transparencia.ap.gov.br/)**: http://www.transparencia.ap.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.ap.gov.br/">Governo do Estado do Amapá</a></b>: http://www.transparencia.ap.gov.br/</li>
-</ul>
+### AMAZONAS
 
-<h3>Amazonas</h3>
+-   **[Governo do Estado do Amazonas](http://www.transparencia.am.gov.br/)**: http://www.transparencia.am.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.am.gov.br/">Governo do Estado do Amazonas</a></b>: http://www.transparencia.am.gov.br/</li>
-</ul>
+### PARÁ
 
-<h3>Pará</h3>
+-   **[Governo do Estado do Pará](http://www.transparencia.pa.gov.br/)**: http://www.transparencia.pa.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.pa.gov.br/">Governo do Estado do Pará</a></b>: http://www.transparencia.pa.gov.br/</li>
-</ul>
+### RONDÔNIA
 
-<h3>Rondônia</h3>
+-   **[Governo do Estado de Rondônia](http://www.transparencia.ro.gov.br/)**: http://www.transparencia.ro.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.ro.gov.br/">Governo do Estado de Rondônia</a></b>: http://www.transparencia.ro.gov.br/</li>
-</ul>
+### RORAIMA
 
-<h3>Roraima</h3>
+-   **[Governo do Estado de Roraima](http://www.transparencia.rr.gov.br/)**: http://www.transparencia.rr.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.rr.gov.br/">Governo do Estado de Roraima</a></b>: http://www.transparencia.rr.gov.br/</li>
-</ul>
+### TOCANTINS
 
-<h3>Tocantins</h3>
+-   **[Governo do Estado do Tocantins](http://www.transparencia.to.gov.br/)**: http://www.transparencia.to.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.to.gov.br/">Governo do Estado do Tocantins</a></b>: http://www.transparencia.to.gov.br/</li>
-</ul>
+## REGIÃO NORDESTE
 
-<h2>Região Nordeste</h2>
+### ALAGOAS
 
-<h3>Alagoas</h3>
+-   **[Governo do Estado de Alagoas](http://transparencia.al.gov.br/)**: http://transparencia.al.gov.br/
 
-<ul>
-<li><b><a href="http://transparencia.al.gov.br/">Governo do Estado de Alagoas</a></b>: http://transparencia.al.gov.br/</li>
-</ul>
+### BAHIA
 
-<h3>Bahia</h3>
+-   **[Governo do Estado da Bahia](http://www.transparencia.ba.gov.br/)**: http://www.transparencia.ba.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.ba.gov.br/">Governo do Estado da Bahia</a></b>: http://www.transparencia.ba.gov.br/</li>
-</ul>
+### CEARÁ
 
-<h3>Ceará</h3>
+-   **[Governo do Estado do Ceará](https://cearatransparente.ce.gov.br/)**: https://cearatransparente.ce.gov.br/
 
-<ul>
-<li><b><a href="https://cearatransparente.ce.gov.br/">Governo do Estado do Ceará</a></b>: https://cearatransparente.ce.gov.br/</li>
-</ul>
+### MARANHÃO
 
-<h3>Maranhão</h3>
+-   **[Governo do Estado do Maranhão](http://www.transparencia.ma.gov.br/)**: http://www.transparencia.ma.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.ma.gov.br/">Governo do Estado do Maranhão</a></b>: http://www.transparencia.ma.gov.br/</li>
-</ul>
+### PARAÍBA
 
-<h3>Paraíba</h3>
+-   **[Portal da Transparência do Governo do Estado da Paraíba](http://transparencia.pb.gov.br/)**: http://transparencia.pb.gov.br/
+-   **[Dados do Governo do Estado da Paraíba](http://dados.pb.gov.br/)**: http://dados.pb.gov.br/
 
-<ul>
-<li><b><a href="http://transparencia.pb.gov.br/">Portal da Transparência do Governo do Estado da Paraíba</a></b>: http://transparencia.pb.gov.br/</li>
-<li><b><a href="http://dados.pb.gov.br/">Dados do Governo do Estado da Paraíba</a></b>: http://dados.pb.gov.br/</li>
-</ul>
+### PERNAMBUCO
 
-<h3>Pernambuco</h3>
+-   **[Governo do Estado de Pernambuco](http://web.transparencia.pe.gov.br/)**: http://web.transparencia.pe.gov.br/
 
-<ul>
-<li><b><a href="http://web.transparencia.pe.gov.br/">Governo do Estado de Pernambuco</a></b>: http://web.transparencia.pe.gov.br/</li>
-</ul>
+### PIAUÍ
 
-<h3>Piauí</h3>
+-   **[Governo do Estado do Piauí](http://transparencia.pi.gov.br/)**: http://transparencia.pi.gov.br
 
-<ul>
-<li><b><a href="http://transparencia.pi.gov.br">Governo do Estado do Piauí</a></b>: http://transparencia.pi.gov.br</li>
-</ul>
+### RIO GRANDE DO NORTE
 
-<h3>Rio Grande do Norte</h3>
+-   **[Governo do Estado do Rio Grande do Norte](http://www.transparencia.rn.gov.br/)**: http://www.transparencia.rn.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.rn.gov.br/">Governo do Estado do Rio Grande do Norte</a></b>: http://www.transparencia.rn.gov.br/</li>
-</ul>
+### SERGIPE
 
-<h3>Sergipe</h3>
+-   **[Governo do Estado de Sergipe](http://www.transparenciasergipe.se.gov.br/)**: http://www.transparenciasergipe.se.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparenciasergipe.se.gov.br/">Governo do Estado de Sergipe</a></b>: http://www.transparenciasergipe.se.gov.br/</li>
-</ul>
+## REGIÃO CENTRO-OESTE
 
-<h2>Região Centro-Oeste</h2>
+### GOIÁS
 
-<h3>Goiás</h3>
+-   **[Governo do Estado de Goiás](http://www.transparencia.go.gov.br/)**: http://www.transparencia.go.gov.br
 
-<ul>
-<li><b><a href="http://www.transparencia.go.gov.br">Governo do Estado de Goiás</a></b>: http://www.transparencia.go.gov.br</li>
-</ul>
+### MATO GROSSO
 
-<h3>Mato Grosso</h3>
+-   **[Governo do Estado do Mato Grosso](http://www.transparencia.mt.gov.br/)**: http://www.transparencia.mt.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.mt.gov.br/">Governo do Estado do Mato Grosso</a></b>: http://www.transparencia.mt.gov.br/</li>
-</ul>
+### MATO GROSSO DO SUL
 
-<h3>Mato Grosso do Sul</h3>
+-   **[Governo do Estado do Mato Grosso do Sul](http://www.transparencia.ms.gov.br/)**: http://www.transparencia.ms.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.ms.gov.br/">Governo do Estado do Mato Grosso do Sul</a></b>: http://www.transparencia.ms.gov.br/</li>
-</ul>
+### DISTRITO FEDERAL
 
-<h3>Distrito Federal</h3>
+-   **[Governo do Distrito Federal](http://www.transparencia.df.gov.br/)**: http://www.transparencia.df.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.df.gov.br/">Governo do Distrito Federal</a></b>: http://www.transparencia.df.gov.br/</li>
-</ul>
+## REGIÃO SUDESTE
 
-<h2>Região Sudeste</h2>
+### ESPÍRITO SANTO
 
-<h3>Espírito Santo</h3>
+-   **[Governo do Estado do Espírito Santo](https://transparencia.es.gov.br/)**: https://transparencia.es.gov.br/
 
-<ul>
-<li><b><a href="https://transparencia.es.gov.br/">Governo do Estado do Espírito Santo</a></b>: https://transparencia.es.gov.br/</li>
-</ul>
+### MINAS GERAIS
 
-<h3>Minas Gerais</h3>
+-   **[Governo do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/)**: http://www.transparencia.mg.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.mg.gov.br/">Governo do Estado de Minas Gerais</a></b>: http://www.transparencia.mg.gov.br/</li>
-</ul>
+### SÃO PAULO
 
-<h3>São Paulo</h3>
+-   **[Governo do Estado de São Paulo](http://www.transparencia.sp.gov.br/)**: http://www.transparencia.sp.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.sp.gov.br/">Governo do Estado de São Paulo</a></b>: http://www.transparencia.sp.gov.br/</li>
-</ul>
+### RIO DE JANEIRO
 
-<h3>Rio de Janeiro</h3>
+-   **[Governo do Estado do Rio de Janeiro](http://www.transparencia.rj.gov.br/)**: http://www.transparencia.rj.gov.br
 
-<ul>
-<li><b><a href="http://www.transparencia.rj.gov.br">Governo do Estado do Rio de Janeiro</a></b>: http://www.transparencia.rj.gov.br</li>
-</ul>
+## REGIÃO SUL
 
-<h2>Região Sul</h2>
+### PARANÁ
 
-<h3>Paraná</h3>
+-   **[Governo do Estado do Paraná](http://www.transparencia.pr.gov.br/)**: http://www.transparencia.pr.gov.br
 
-<ul>
-<li><b><a href="http://www.transparencia.pr.gov.br">Governo do Estado do Paraná</a></b>: http://www.transparencia.pr.gov.br</li>
-</ul>
+### RIO GRANDE DO SUL
 
-<h3>Rio Grande do Sul</h3>
+-   **[Governo do Estado do Rio Grande do Sul](http://www.transparencia.rs.gov.br/)**: http://www.transparencia.rs.gov.br/
 
-<ul>
-<li><b><a href="http://www.transparencia.rs.gov.br/">Governo do Estado do Rio Grande do Sul</a></b>: http://www.transparencia.rs.gov.br/</li>
-</ul>
+### SANTA CATARINA
 
-<h3>Santa Catarina</h3>
-
-<ul>
-<li><b><a href="http://www.transparencia.sc.gov.br/">Governo do Estado de Santa Catarina</a></b>: http://www.transparencia.sc.gov.br/</li>
-</ul>
-
-</section>
+-   **[Governo do Estado de Santa Catarina](http://www.transparencia.sc.gov.br/)**: http://www.transparencia.sc.gov.br/
