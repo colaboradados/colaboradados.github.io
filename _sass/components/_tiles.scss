@@ -126,70 +126,56 @@
 					}
 				}
 			}
-
 			&.style1 {
 				> .image:before {
 					background-color: _palette(accent1);
 				}
 			}
-
 			&.style2 {
 				> .image:before {
 					background-color: _palette(accent2);
 				}
 			}
-
 			&.style3 {
 				> .image:before {
 					background-color: _palette(accent3);
 				}
 			}
-
 			&.style4 {
 				> .image:before {
 					background-color: _palette(accent4);
 				}
 			}
-
 			&.style5 {
 				> .image:before {
 					background-color: _palette(accent5);
 				}
 			}
-
 			&.style6 {
 				> .image:before {
 					background-color: _palette(accent6);
 				}
 			}
-
 			&.style7 {
 				> .image:before {
 					background-color: _palette(accent7);
 				}
 			}
-
 			&.style8 {
 				> .image:before {
 					background-color: _palette(accent8);
 				}
 			}
-
 			&.style9 {
 				> .image:before {
 					background-color: _palette(accent9);
 				}
 			}
-
 			&.style10 {
 				> .image:before {
 					background-color: _palette(accent10);
 				}
-			
-
-
-
-
+			}
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
