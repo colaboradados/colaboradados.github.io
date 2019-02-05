@@ -10,7 +10,7 @@ title: Colaboradados
 author: "Judite Cypreste"
 keywords: "dados, bases de dados, jornalismo de dados, data science, analise de dados, judite cypreste"
 email: colaboradados@gmail.com
-description: A base colaborativa de dados
+description: "A base colaborativa de dados que tem como objetivo difundir informação. Pensando em auxiliar jornalistas de dados, cientistas de dados e a toda a sociedade, fizemos um banco de bases de dados, onde a ideia é simples: reunir links de bases de dados sérias e organizadas sobre vários assuntos em um só lugar."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://colaboradados.github.io" # the base hostname & protocol for your site
 
