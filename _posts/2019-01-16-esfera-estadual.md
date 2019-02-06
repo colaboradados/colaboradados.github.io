@@ -105,7 +105,7 @@ categories: jekyll update
 ### MATO GROSSO DO SUL
 
 -   **[Governo do Estado do Mato Grosso do Sul](http://www.transparencia.ms.gov.br/)**: http://www.transparencia.ms.gov.br/
--   **[Diário Oficial do Estado do Mato Grosso do Sul](http://www.spdo.ms.gov.br/diariodoe)**: http://www.transparencia.ms.gov.br/
+-   **[Diário Oficial do Estado do Mato Grosso do Sul](http://www.spdo.ms.gov.br/diariodoe)**: http://www.spdo.ms.gov.br/diariodoe
 
 ### DISTRITO FEDERAL
 
