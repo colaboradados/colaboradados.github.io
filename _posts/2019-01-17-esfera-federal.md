@@ -19,6 +19,10 @@ categories: jekyll update
 
 -   **[Perfil das famílias que sofreram repercussões sobre o benefício do PBF em decorrência do processo de revisão cadastral - Bolsa Familia](https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php?sl=1#)**: https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php?sl=1#
 
+#### MINISTÉRIO DA ECONOMIA
+
+ -   **[Receita Federal - Dados Abertos do CNPJ](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-abertos-do-cnpj)**: http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-abertos-do-cnpj
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
