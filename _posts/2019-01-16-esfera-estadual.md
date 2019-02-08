@@ -111,6 +111,7 @@ categories: jekyll update
 
 -   **[Governo do Distrito Federal](http://www.transparencia.df.gov.br/)**: http://www.transparencia.df.gov.br/
 -   **[Diário Oficial do Distrito Federal](http://www.buriti.df.gov.br/ftp/)**: http://www.buriti.df.gov.br/ftp/
+-   **[Portal de Dados Abertos](http://www.dados.df.gov.br/)**: http://www.dados.df.gov.br/
 
 ## REGIÃO SUDESTE
 
