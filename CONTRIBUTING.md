@@ -7,7 +7,7 @@ Segue ainda um [tutorial](https://docs.microsoft.com/pt-br/contribute/how-to-wri
 
 # Processo de Pull Request
 
-*  Antes de realizar o Pull Request é interessante ter a ultima versão do [repositório oficial](https://github.com/colaboradados/colaboradados.github.io.git) atualizada, para evitar conflitos na hora de submeter o commit, saiba como faze-lo [aqui](https://gist.github.com/).
+*  Antes de realizar o Pull Request é interessante ter a ultima versão do [repositório oficial](https://github.com/colaboradados/colaboradados.github.io.git) atualizada, para evitar conflitos na hora de submeter o commit, saiba como faze-lo [aqui](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/).
 
 # Issues
 
