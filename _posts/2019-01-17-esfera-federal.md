@@ -15,6 +15,12 @@ categories: jekyll update
 
  -   **[Microdados de pesquisas realizadas pela  Secretaria de Avaliação e Gestão da Informação do MDSA](https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php)**: https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php
 
+## MINISTÉRIO DA ECONOMIA
+### Receita Federal
+
+ -   **[Dados Abertos do CNPJ](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-abertos-do-cnpj)**: http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-abertos-do-cnpj
+
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
