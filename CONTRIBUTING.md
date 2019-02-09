@@ -11,7 +11,7 @@ Segue ainda um [tutorial](https://docs.microsoft.com/pt-br/contribute/how-to-wri
 
 # Issues
 
-No github é uma ótima maneira de manter o controle de tarefas, melhorias e reporte de bugs para o projeto, ficando assim mais fácil a correção de problemas e a obtenção das informações para simulação de erros na aplicação.
+No GitHub é uma ótima maneira de manter o controle de tarefas, melhorias e reporte de bugs para o projeto, ficando assim mais fácil a correção de problemas e a obtenção das informações para simulação de erros na aplicação.
 
 **Boas praticas na hora de trabalhar com `ISSUES`**
 
