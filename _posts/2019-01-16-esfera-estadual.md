@@ -58,6 +58,7 @@ categories: jekyll update
 
 -   **[Governo do Estado do Ceará](https://cearatransparente.ce.gov.br/)**: https://cearatransparente.ce.gov.br/
 -   **[Diário Oficial do Estado do Ceará](http://pesquisa.doe.seplag.ce.gov.br/doepesquisa/)**: http://pesquisa.doe.seplag.ce.gov.br
+-   **[Mapa Cultural do Ceará](http://mapa.cultura.ce.gov.br)**: http://mapa.cultura.ce.gov.br
 
 ### MARANHÃO
 
