@@ -98,7 +98,6 @@ categories: jekyll update
 ### CURITIBA
 
 -   **[Prefeitura de Curitiba](http://www.transparencia.curitiba.pr.gov.br/)**: http://www.transparencia.curitiba.pr.gov.br/
-
 -   **[Prefeitura de Curitiba - Dados Abertos](http://www.curitiba.pr.gov.br/dadosabertos/consulta/)**: http://www.curitiba.pr.gov.br/dadosabertos/consulta/
 
 ## PERNAMBUCO
@@ -162,7 +161,6 @@ categories: jekyll update
 ### FLORIANÓPOLIS
 
 -   **[Prefeitura de Florianópolis](http://www.pmf.sc.gov.br/transparencia/)**: http://www.pmf.sc.gov.br/transparencia/
-
 -   **[Prefeitura de Joinville](https://transparencia.joinville.sc.gov.br/)**: https://transparencia.joinville.sc.gov.br/
 
 ## SÃO PAULO
