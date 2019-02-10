@@ -176,6 +176,11 @@
 					background-color: _palette(accent10);
 				}
 			}
+			&.style11 {
+				> .image:before {
+					background-color: _palette(accent11);
+				}
+			}
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
