@@ -133,6 +133,11 @@ categories: jekyll update
 ### NATAL
 
 -   **[Prefeitura do Natal](https://www.natal.rn.gov.br/transparencia/)**: https://www.natal.rn.gov.br/transparencia/
+- **[Portal da Transparência da Mobilidade Urbana de Natal](http://dadosabertos.natal.br/)**: http://dadosabertos.natal.br/
+
+### PARNAMIRIM
+
+- **[Prefeitura de Parnamirim](http://www.parnamirim.rn.gov.br/transparencia.jsp)**: http://www.parnamirim.rn.gov.br/transparencia.jsp
 
 ## RIO GRANDE DO SUL
 
