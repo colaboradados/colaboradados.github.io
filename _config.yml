@@ -27,3 +27,7 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+collections:
+  podcasts:
+    output: true

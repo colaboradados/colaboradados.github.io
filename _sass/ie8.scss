@@ -49,6 +49,18 @@
 		}
 	}
 
+/* Rectangles */
+
+	.rectangles {
+		article {
+			> .image {
+				&:before, &:after {
+					display: none;
+				}
+			}
+		}
+	}
+
 /* Header */
 
 	#header {
