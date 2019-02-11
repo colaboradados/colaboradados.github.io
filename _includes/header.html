@@ -19,7 +19,7 @@
 
 					{% endif %}
 
-				</span><span class="title">{{ site.title }}</span>
+				</span><span class="title">{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</span>
 			</a>
 			</center>
 			<!-- Nav -->
