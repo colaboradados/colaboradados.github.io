@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Esfera Estadual"
-date:   2019-01-16 12:00:00 -0400
+date:   2019-01-20 12:00:00 -0400
 categories: jekyll update
 ---
 
