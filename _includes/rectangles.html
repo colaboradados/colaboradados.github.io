@@ -1,0 +1,17 @@
+<section class="rectangles">
+
+{% for podcast in site.podcasts limit:site.front-page-post %}
+	<article class="style">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+		</span>
+		<a href="{{ podcast.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ podcast.title }}</h2>
+			<div class="content">
+				<p>{{ podcast.description }}</p>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>
