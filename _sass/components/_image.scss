@@ -6,6 +6,11 @@
 
 /* Image */
 
+	img[src$="centerme"] {
+		display:block;
+		margin: 0 auto;
+	}
+
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;
