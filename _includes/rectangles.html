@@ -3,12 +3,12 @@
 {% for podcast in site.podcasts limit:site.front-page-post %}
 	<article class="style">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/images/coluna7.jpg" alt="" />
 		</span>
 		<a href="{{ podcast.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ podcast.title }}</h2>
 			<div class="content">
-				<p>{{ podcast.description }}</p>
+				<h5>{{ podcast.description }}</h5>
 			</div>
 		</a>
 	</article>
