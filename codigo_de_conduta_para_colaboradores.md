@@ -1,4 +1,7 @@
-# Código de Conduta para Colaboradores
+---
+layout: default
+title: Código de Conduta para Colaboradores
+---
 
 ## Nossa promessa
 
