@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: podcast
 title: Coluna 7
 ---
 

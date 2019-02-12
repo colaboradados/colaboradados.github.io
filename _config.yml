@@ -31,3 +31,5 @@ home-link-in-menu: yes
 collections:
   podcasts:
     output: true
+  states:
+    output: true

@@ -1,0 +1,17 @@
+<section class="rectangles">
+
+{% for state in site.states limit:site.front-page-states %}
+	<article class="style1">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+		</span>
+		<a href="{{ state.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ state.title }}</h2>
+			<div class="content">
+				<p>{{ state.excerpt }}</p>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>

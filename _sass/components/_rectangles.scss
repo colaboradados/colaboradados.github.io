@@ -138,6 +138,11 @@
 					background-color: black;
 				}
 			}
+			&.style1 {
+				> .image:before {
+					background-color: _palette(accent11);
+				}
+			}
 			body:not(.is-touch) & {
 				&:hover {
 					> .image {
