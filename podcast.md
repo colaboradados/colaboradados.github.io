@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Podcast
+title: Coluna 7
 ---
 
 {% include rectangles.html %}
