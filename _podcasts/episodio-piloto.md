@@ -4,9 +4,9 @@ title:  "Episodio Zero"
 description: "Teaser do que está por vir."
 ---
 # Episódio zero: Teaser do Coluna7
-O teaser do **Coluna7** vai ter dar uma ideia deste projeto encapusulado no **Colaboradados**.
+O teaser do **Coluna7** vai ter dar uma ideia deste projeto encapsulado no **Colaboradados**.
 
-Nossas apresentadoras [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua) vieram falar um pouco sobre o podcast e o que está por vir. 
+Nossas apresentadoras [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua) vão falar um pouco sobre o podcast **Coluna7** e o que está por vir. 
 
 ### EQUIPE COLUNA7
 
