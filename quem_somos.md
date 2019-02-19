@@ -7,7 +7,7 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 ![fotografia de Judite Cypreste]({{ site.url }}{{ site.baseurl }}/images/judite.png?style=centerme)
 
-[Judite Cypreste](https://juditecypreste.github.io/)  é a fundadora do  **Colaboradados**. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal Folha de S.Paulo e da agência de checagem Aos Fatos. Já foi keynote de três eventos Python (Python Nordeste, Python Cerrado e Python Brasil) e ama dar palestras. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o  **Colaboradados**. Atualmente vive adiando uma mudança do Rio de Janeiro para São Paulo.
+[Judite Cypreste](https://juditecypreste.github.io/) é a fundadora do **Colaboradados**. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal Folha de S.Paulo e da agência de checagem Aos Fatos. Já foi keynote de três eventos Python (Python Nordeste, Python Cerrado e Python Brasil) e ama dar palestras. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o  **Colaboradados**. Atualmente vive adiando uma mudança do Rio de Janeiro para São Paulo.
 
 ![fotografia de João Ernane]({{ site.url }}{{ site.baseurl }}/images/joao.png?style=centerme)
 

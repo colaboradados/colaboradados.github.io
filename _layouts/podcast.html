@@ -8,7 +8,7 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
-    <link rel="shortcut icon" href="images/coluna7.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
   </head>
   <body>
     <!-- Wrapper -->
@@ -22,7 +22,7 @@
               {% if site.font-awesome-icon-logo %}
               <div href="#" class="icon style1 {{ site.font-awesome-icon-logo }}"></div>
               {% else %}
-              <img src="{{ site.url }}{{ site.baseurl }}/images/coluna7.jpg" alt=""/>
+              <img src="{{ site.url }}{{ site.baseurl }}/images/coluna7_logo_transparente.png" alt=""/>
               {% endif %}
             </span>
             <span class="title">{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</span>
