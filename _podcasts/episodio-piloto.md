@@ -15,4 +15,4 @@ Edição – [João Ernane](https://twitter.com/ChofenAdulto)
 Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-00---Piloto-e38gfc/a-aam2q8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna-7/embed/episodes/Episdio-00---Piloto-e38r4v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
