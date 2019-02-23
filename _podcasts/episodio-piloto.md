@@ -16,3 +16,9 @@ Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letíc
 
 ### Escute agora!
 <iframe src="https://anchor.fm/coluna-7/embed/episodes/Episdio-00---Piloto-e38r4v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Créditos:
+Imagens - [Freepik.com](https://www.freepik.com/)
+Música - [Free Music Archive.org](https://freemusicarchive.org)
+Nome da música - Blue Dot Sessions / Greylock
+Efeitos de som - [ZapSplat](https://www.zapsplat.com/)
