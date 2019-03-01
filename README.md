@@ -19,8 +19,7 @@ Siga os formatos padrões de instalação. Ao fim, não se esqueça de abrir o G
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
 2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install
-$ bundle exec jekyll serve` no GitBash.
+3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.
 
 Caso não tenha dado nenhum erro, pule para a etapa **5**.
 
