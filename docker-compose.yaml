@@ -1,0 +1,14 @@
+version: '3.2'
+
+services:
+  colaboradados_site:
+    container_name: colaboradados-site
+    image: jekyll/builder
+    volumes:
+      - type: bind
+        source: ./
+        target: /home/jekyll
+    working_dir:  /home/jekyll
+    ports:
+      - 4000:4000
+    command: bash startup.sh
