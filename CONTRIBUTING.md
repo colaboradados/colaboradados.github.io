@@ -8,6 +8,19 @@ Segue ainda um [tutorial](https://docs.microsoft.com/pt-br/contribute/how-to-wri
 
 * Antes de realizar o Pull Request é interessante ter a ultima versão do [repositório oficial](https://github.com/colaboradados/colaboradados.github.io.git) atualizada, para evitar conflitos na hora de submeter o commit, saiba como faze-lo [aqui](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/).
 
+## Para manter o repositório local sincronizado com o repositório remoto
+
+    $  git remote  -v
+
+    $  git remote add upstream https://github.com/{originaluser}/{originalrepository}.git
+
+    $  git fetch upstream
+
+    $  git merge upstream/master
+
+    $  git push
+
+
 ### Issues
 
 No GitHub é uma ótima maneira de manter o controle de tarefas, melhorias e reporte de bugs para o projeto, ficando assim mais fácil a correção de problemas e a obtenção das informações para simulação de erros na aplicação.
