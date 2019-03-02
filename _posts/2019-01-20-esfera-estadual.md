@@ -147,6 +147,7 @@ categories: jekyll update
 
 -   **[Governo do Estado do Rio Grande do Sul](http://www.transparencia.rs.gov.br/)**: http://www.transparencia.rs.gov.br/
 -   **[Diário Oficial do Estado do Rio Grande do Sul](https://www.diariooficial.rs.gov.br/)**: https://www.diariooficial.rs.gov.br/
+-   **[Fundação de Economia e Estatística do Estado do Rio Grande do Sul](https://www.fee.rs.gov.br/)**: https://www.fee.rs.gov.br/
 
 ### SANTA CATARINA
 
