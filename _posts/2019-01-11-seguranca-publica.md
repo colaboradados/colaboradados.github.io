@@ -3,6 +3,7 @@ layout: default
 title:  "Segurança Pública"
 date:   2019-01-11 12:00:00 -0400
 categories: jekyll update
+img: seguranca-publica
 ---
 
 ## IPEA - FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA

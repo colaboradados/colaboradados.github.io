@@ -3,7 +3,7 @@
 {% for post in site.posts limit:site.front-page-posts %}
 	<article class="style{{ forloop.index }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.title }}.png" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.img }}.png" alt="" />
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
