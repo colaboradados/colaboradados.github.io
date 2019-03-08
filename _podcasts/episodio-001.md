@@ -9,6 +9,11 @@ Saudações, internautas!
 
 Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conheça a equipe do projeto Colaboradados e entenda (quase simultaneamente com o resto da equipe) de onde surgiu a vontade de criarmos a plataforma, quem somos, o que fazemos nos poucos momentos fora da internet e o que cada um espera nesta longa jornada que temos pela frente.
 
+### Escute agora!
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episodio-001---O-Comeo-e3db0n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
+
 ### Contato dos participantes deste episódio: 
 - Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
 - Ana Paula Mendes: [@ananoterminal](https://www.twitter.com/ananoterminal)
@@ -26,18 +31,12 @@ Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conhe
 - Edição – [João Ernane](https://twitter.com/ChofenAdulto)
 - Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
-### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episodio-001---O-Comeo-e3db0n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
-
 ### Créditos:
 Imagens:
 
 [Freepik.com](https://www.freepik.com/)  
 [Pexels.com](https://www.pexels.com)  
 [Unsplash.com](https://unsplash.com)
-
 
 Músicas:
 
