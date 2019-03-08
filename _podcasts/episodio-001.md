@@ -32,5 +32,18 @@ Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conhe
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
 ### Créditos:
-- Imagens - [Freepik.com](https://www.freepik.com/); [Pexels.com](https://www.pexels.com); [Unsplash.com](https://unsplash.com)
-- Música - [Youtube.com](Youtube.com); Nome das músicas: Technoaxe - Retro Future Nights e Saib. - When It Rains (Chove Chuva). [FreeMusicaArchive.com](FreeMusicArchive.com); Nome da música: Boxcat Games - Inspiration
+Imagens:
+
+[Freepik.com](https://www.freepik.com/)  
+[Pexels.com](https://www.pexels.com)  
+[Unsplash.com](https://unsplash.com)
+
+
+Músicas:
+
+- Technoaxe - Retro Future Nights
+- Technoaxe - Rogue on a Friday Night
+- Saib. - When It Rains (Chove Chuva)
+- Boxcat Games - Inspiration
+
+[Youtube.com](Youtube.com) e [FreeMusicaArchive.com](FreeMusicArchive.com)
