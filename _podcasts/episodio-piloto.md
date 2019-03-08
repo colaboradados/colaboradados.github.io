@@ -19,8 +19,18 @@ Nossas apresentadoras [Judite Cypreste](https://twitter.com/juditecypreste) e [L
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
 ### Créditos:
-- Imagens - [Freepik.com](https://www.freepik.com/)
-- Música - [Free Music Archive.org](https://freemusicarchive.org); Nome da música - Blue Dot Sessions / Greylock
-- Efeitos de som - [ZapSplat](https://www.zapsplat.com/)
+Imagens:
+
+[Freepik.com](https://www.freepik.com/)
+
+Música:
+
+- Blue Dot Sessions / Greylock
+
+[Free Music Archive.org](https://freemusicarchive.org)
+
+Efeitos de som:
+[ZapSplat](https://www.zapsplat.com/)
+
 
 
