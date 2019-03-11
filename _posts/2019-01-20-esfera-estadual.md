@@ -136,6 +136,7 @@ img: esfera-estadual
 
 -   **[Governo do Estado do Rio de Janeiro](http://www.transparencia.rj.gov.br/)**: http://www.transparencia.rj.gov.br
 -   **[Diário Oficial do Estado do Rio de Janeiro](http://www.ioerj.com.br/portal/modules/content/index.php?id=21)**: http://www.ioerj.com.br
+-   **[MP em Mapas (Ministério Público do Estado do Rio de Janeiro)](http://apps.mprj.mp.br/sistema/cadg/)**: http://apps.mprj.mp.br/sistema/cadg/
 
 ## REGIÃO SUL
 
