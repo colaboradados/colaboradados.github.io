@@ -35,6 +35,10 @@ title:  "Rio de Janeiro"
 
 -   **[Prefeitura de Barra Mansa](http://www.barramansa.rj.gov.br/transparencia/index.php/en/)**: http://www.barramansa.rj.gov.br/transparencia/index.php/en/
 
+### BELFORD ROXO
+
+-   **[Prefeitura de Belford Roxo](http://transparencia.prefeituradebelfordroxo.rj.gov.br/)**: http://transparencia.prefeituradebelfordroxo.rj.gov.br/
+
 ### BOM JARDIM
 
 -   **[Prefeitura de Bom Jardim](http://www.bomjardim.rj.gov.br/e-sic/)**: http://www.bomjardim.rj.gov.br/e-sic/
