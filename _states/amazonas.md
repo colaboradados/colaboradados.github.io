@@ -3,8 +3,7 @@ layout: default
 title:  "Amazonas"
 ---
 
-O Estado do Amazonas agregou a transparência de seus municípios em um único **[portal](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/. Alguns municípios fecharam os seus sites e usam apenas o site agregador. Outros ainda possuem sites autônomos. 
-
+O Estado do Amazonas agregou a transparência de seus municípios em um único **[portal](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/. Alguns municípios fecharam os seus sites e usam apenas o site agregador. Outros ainda possuem sites autônomos.  
 Se a cidade possuir um site à parte, este será colocado. Caso não possua, o site agregador estará no lugar. Alguns municípios não estão no site agregador. Por conta disso, nós do **Colaboradados** vamos listar todos os municípios nesta sessão, dando prioridade para os sites únicos de cada cidade.
 
 ### ALVARÃES
