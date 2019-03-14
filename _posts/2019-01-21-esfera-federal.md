@@ -21,6 +21,9 @@ img: esfera-federal
 
  -   **[Dados Abertos do CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)**: https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj
 
+### Instituto de Pesquisa Econômica Aplicada - IPEA
+
+- **[IPEAData](http://www.ipeadata.gov.br)**: http://www.ipeadata.gov.br
 
 ## SENADO FEDERAL
 
