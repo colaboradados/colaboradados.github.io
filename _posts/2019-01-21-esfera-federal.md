@@ -8,7 +8,7 @@ img: esfera-federal
 
 ## GOVERNO FEDERAL
 
--   **[Dados Abertos](http://dados.gov.br/)**: http://dados.gov.br/
+-   **[Portal Brasileiro de Dados Abertos](http://dados.gov.br/)**: http://dados.gov.br/
 -   **[Portal da Transparência](http://portaldatransparencia.gov.br/)**: http://portaldatransparencia.gov.br/
 -   **[Diário Oficial da União](http://www.in.gov.br/web/guest/inicio)**: http://www.in.gov.br/web/guest/inicio
 
