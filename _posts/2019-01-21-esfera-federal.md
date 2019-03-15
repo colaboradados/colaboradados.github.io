@@ -10,6 +10,7 @@ img: esfera-federal
 
 -   **[Portal Brasileiro de Dados Abertos](http://dados.gov.br/)**: http://dados.gov.br/
 -   **[Portal da Transparência](http://portaldatransparencia.gov.br/)**: http://portaldatransparencia.gov.br/
+  -   **[Dados Abertos do Portal da Transparência](http://www.transparencia.gov.br/download-de-dados)**: http://www.transparencia.gov.br/download-de-dados
 -   **[Diário Oficial da União](http://www.in.gov.br/web/guest/inicio)**: http://www.in.gov.br/web/guest/inicio
 
 ## MINISTÉRIO DA CIDADANIA
