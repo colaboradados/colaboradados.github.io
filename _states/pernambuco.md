@@ -3,6 +3,22 @@ layout: default
 title:  "Pernambuco"
 ---
 
+### Recife
+
+-   **[Portal de Dados Abertos do Município de Recife](http://dados.recife.pe.gov.br)**: http://dados.recife.pe.gov.br
+
+### Olinda
+
+-   **[Portal da Transparência do Município de Olinda](http://transparencia.olinda.pe.gov.br/pronimtb/)**: http://transparencia.olinda.pe.gov.br/pronimtb/
+
+### Caruaru
+
+-   **[Portal da Transparência do Município de Caruaru](http://caruarupe.transparencianomunicipio.com.br/)**: http://caruarupe.transparencianomunicipio.com.br/
+
+### Paulista
+
+-   **[Portal da Transparência do Município de Paulista](http://transparencia.paulista.pe.gov.br/codigos/web/geral/home.php)**: http://transparencia.paulista.pe.gov.br/codigos/web/geral/home.php
+
 ### SALGUEIRO
 
 - **[Prefeitura de Salgueiro](http://www.salgueiro.pe.gov.br/transparencia/index.htm)**: http://www.salgueiro.pe.gov.br/transparencia/index.htm
@@ -14,3 +30,4 @@ title:  "Pernambuco"
 ### JABOATÃO DOS GUARARAPES
 
 - **[Prefeitura de Jaboatão dos Guararapes](https://portaldatransparencia.jaboatao.pe.gov.br/)**: https://portaldatransparencia.jaboatao.pe.gov.br/
+
