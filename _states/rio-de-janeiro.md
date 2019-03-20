@@ -295,6 +295,7 @@ title:  "Rio de Janeiro"
 ### SÃO GONÇALO
 
 -   **[Prefeitura de São Gonçalo](http://www.pmsg.rj.gov.br/transparencia/)**: http://www.pmsg.rj.gov.br/transparencia/
+-   **[Portal da Transparência da Prefeitura de São Gonçalo](https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo)**: https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo
 
 ### SÃO JOÃO DA BARRA
 
@@ -371,3 +372,5 @@ title:  "Rio de Janeiro"
 ### VOLTA REDONDA
 
 -   **[Prefeitura de Volta Redonda](http://www.voltaredonda.rj.gov.br/transparencia/)**: http://www.voltaredonda.rj.gov.br/transparencia/
+
+

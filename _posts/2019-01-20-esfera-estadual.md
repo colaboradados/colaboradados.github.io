@@ -49,6 +49,7 @@ img: esfera-estadual
 
 -   **[Governo do Estado de Alagoas](http://transparencia.al.gov.br/)**: http://transparencia.al.gov.br/
 -   **[Diário Oficial do Estado de Alagoas](http://www.imprensaoficialal.com.br/diario-oficial/)**: http://www.imprensaoficialal.com.br/diario-oficial/
+-   **[Alagoas em Dados e Informações](http://dados.al.gov.br/)**: http://dados.al.gov.br/
 
 ### BAHIA
 
@@ -57,7 +58,7 @@ img: esfera-estadual
 
 ### CEARÁ
 
--   **[Governo do Estado do Ceará](https://cearatransparente.ce.gov.br/)**: https://cearatransparente.ce.gov.br/
+-   **[Ceará Transparente](https://cearatransparente.ce.gov.br/)**: https://cearatransparente.ce.gov.br/
 -   **[Diário Oficial do Estado do Ceará](http://pesquisa.doe.seplag.ce.gov.br/doepesquisa/)**: http://pesquisa.doe.seplag.ce.gov.br
 -   **[Mapa Cultural do Ceará](http://mapa.cultura.ce.gov.br)**: http://mapa.cultura.ce.gov.br
 
@@ -131,6 +132,7 @@ img: esfera-estadual
 
 -   **[Governo do Estado de São Paulo](http://www.transparencia.sp.gov.br/)**: http://www.transparencia.sp.gov.br/
 -   **[Diário Oficial do Estado de São Paulo](https://www.imprensaoficial.com.br/#)**: https://www.imprensaoficial.com.br/#
+-   **[Governo Aberto SP](http://www.governoaberto.sp.gov.br/)**: http://www.governoaberto.sp.gov.br/
 
 ### RIO DE JANEIRO
 
