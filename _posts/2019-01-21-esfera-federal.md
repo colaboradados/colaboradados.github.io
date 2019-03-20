@@ -21,7 +21,6 @@ img: esfera-federal
 ### Receita Federal
 
  -   **[Dados Abertos do CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)**: https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj
-
  -   **[Brasil.io: Coleção de CNPJs e CPFs brasileiros](https://brasil.io/dataset/documentos-brasil/documents?search=&document_type=CPF&document=&name=&sources=)**: https://brasil.io/dataset/documentos-brasil/documents?search=&document_type=CPF&document=&name=&sources=
 
 
