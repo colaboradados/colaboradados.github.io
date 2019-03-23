@@ -1,0 +1,17 @@
+<section class="rectangles">
+
+{% for blogposts in site.blogposts limit:site.front-page-post %}
+	<article class="style">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+		</span>
+		<a href="{{ blogposts.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ blogposts.title }}</h2>
+			<div class="content">
+				<h5>{{ blogposts.author }}</h5>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>
