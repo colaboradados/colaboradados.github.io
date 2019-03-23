@@ -1,0 +1,17 @@
+<section class="rectangles">
+
+{% for publieditoriais in site.publieditoriais limit:site.front-page-post %}
+	<article class="style">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+		</span>
+		<a href="{{ publieditoriais.url | prepend:site.baseurl | prepend:site.url }}">
+			<h2>{{ publieditoriais.title }}</h2>
+			<div class="content">
+				<h5>{{ publieditoriais.description }}</h5>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>

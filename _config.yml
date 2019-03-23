@@ -33,3 +33,9 @@ collections:
     output: true
   states:
     output: true
+  blogposts:
+    output: true
+  blog:
+    output: true
+  publieditoriais:
+    output: true
