@@ -41,3 +41,4 @@ tags:
 
 -   **[Filiação partidária](http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados)**: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados
 -   **[Dados eleitorais](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)**: http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
+-   **[Divulgação de Candidaturas e Contas Eleitorais](http://divulgacandcontas.tse.jus.br/divulga/#/)** http://divulgacandcontas.tse.jus.br/divulga/#/
