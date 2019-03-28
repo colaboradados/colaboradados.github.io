@@ -15,6 +15,10 @@ title:  "Rio Grande do Sul"
 
 -   **[Portal da Transparência do Município de Caxias do Sul](https://www.caxias.rs.gov.br/transparencia/)**: https://www.caxias.rs.gov.br/transparencia/
 
+### Gramado
+
+-   **[Portal da Transparência do Município de Gramado](https://e-gov.betha.com.br/transparencia/01037-007/recursos.faces?mun=9bLe8KbFHR0=)**: https://e-gov.betha.com.br/transparencia/01037-007/recursos.faces?mun=9bLe8KbFHR0=
+
 ### Pelotas
 
 -   **[Portal da Transparência do Município de Pelotas](http://www.pelotas.com.br/transparencia/)**: http://www.pelotas.com.br/transparencia/
