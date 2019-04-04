@@ -16,7 +16,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Link deste episódio:
 
-Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/ 
+Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: [https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/) 
 
 ### Contato dos participantes deste episódio: 
 - Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
