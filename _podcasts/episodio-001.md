@@ -14,6 +14,10 @@ Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conhe
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
+### Link deste episódio:
+
+Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do Mundo de 2014 pela CGU: https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/ 
+
 ### Contato dos participantes deste episódio: 
 - Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
 - Ana Paula Mendes: [@ananoterminal](https://www.twitter.com/ananoterminal)
