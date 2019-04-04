@@ -36,17 +36,14 @@ Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do
 - Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
-Imagens:
-
+Imagens:  
 [Freepik.com](https://www.freepik.com/)  
 [Pexels.com](https://www.pexels.com)  
 [Unsplash.com](https://unsplash.com)
 
-Músicas:
-
+Músicas:  
 - Technoaxe - Retro Future Nights
 - Technoaxe - Rogue on a Friday Night
 - Saib. - When It Rains (Chove Chuva)
-- Boxcat Games - Inspiration
-
+- Boxcat Games - Inspiration  
 [Youtube.com](Youtube.com) e [FreeMusicaArchive.com](FreeMusicArchive.com)
