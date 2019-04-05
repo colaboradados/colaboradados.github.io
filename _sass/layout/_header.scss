@@ -36,6 +36,22 @@
 			}
 		}
 
+		div#doe {
+			position: fixed;
+			left: 2em;
+			top: 2em;
+			transition: top 0.3s;
+
+			img {
+				width: 300px;
+			}
+
+			a:hover, a:visited, a:link, a:active {
+				text-decoration: none;
+				border:0!important;
+			}
+		}
+
 		nav {
 			position: fixed;
 			right: 2em;
