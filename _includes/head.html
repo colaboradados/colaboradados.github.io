@@ -6,6 +6,6 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
