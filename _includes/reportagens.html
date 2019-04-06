@@ -1,0 +1,18 @@
+<section class="rectangles">
+
+    {% for reportagem in site.reportagens limit:site.front-page-post %}
+        <article class="style">
+            <span class="image">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
+            </span>
+            <a href="{{ reportagem.url | prepend:site.baseurl | prepend:site.url }}">
+                <h2>{{ reportagem.title }}</h2>
+                <div class="content">
+                    <h5>{{ reportagem.author }}</h5>
+                </div>
+            </a>
+        </article>
+    {% endfor %}
+    
+    </section>
+    
