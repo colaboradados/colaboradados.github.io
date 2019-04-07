@@ -1,15 +1,17 @@
 ---
 layout: default
 title:  "Episódio #002"
-description: "Entrevista com Natália Mazotte"
+description: "Jornalismo de Dados: o episódio que você esperava"
 ---
-# Episódio #002 - Entrevista com Natália Mazotte
+# Episódio #002 - Jornalismo de Dados: o episódio que você esperava
 
 Olááááá internautas, tudo bem?
 
-Está chegando para vocês mais um episódio do coluna7, o seu podcast de jornalismo de dados e transparência governamental.
+Está chegando para vocês mais um episódio do Coluna7, o seu podcast brasileiro de jornalismo de dados e transparência governamental.
 
-Neste episódio de estreia de entrevistas, recebemos a queridíssima Natália Mazotte, diretora da Open Knowledge Foundation Brasil, criadora do CODABr, co-fundadora da revista Genero e Número e muito mais! Aproveitamos sua presença ilustre para tirar dúvidas importantes como: O que é o jornalismo de dados? Qual a diferença para o jornalismo "clássico"? Como fazer para entrar nesse mercado e muito mais!
+Neste episódio de estreia de entrevistas, recebemos a queridíssima Natália Mazotte, diretora da Open Knowledge Foundation Brasil
+
+Aproveitamos sua presença ilustre para tirar dúvidas importantes como: O que é o jornalismo de dados? Como fazer para entrar nesse mercado? Quais as ferramentas necessárias e muito mais!
 
 Não perca mais tempo, baixe logo o episódio e junte se a nós nessa conversa fantástica!
 
@@ -21,7 +23,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 ### Links deste episódio:
 
 - [Formulário para inscrição na newsletter Dados do Mês](https://eepurl.com/glBJrT)
-- Financiamento coletivo - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
+- Financiamento coletivo: apoie o Colaboradados! - [https://apoia.se/colaboradados](https://apoia.se/colaboradados)
 
 ## Links Comentados no Episódio
 - Escola de Dados - [https://escoladedados.org/](https://escoladedados.org/)
