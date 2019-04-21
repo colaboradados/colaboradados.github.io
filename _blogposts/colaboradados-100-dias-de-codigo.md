@@ -5,7 +5,7 @@ author: Ana Paula Mendes
 tags: 100daysofcode
 ---
 
-O [100 dias de código](https://www.100daysofcode.com/) é um desafio do qual você se compromete a estudar/codar pelo menos uma hora por dia. O desafio por ser aberto e flexível não regulamenta qual seu ritmo ou quanto tempo você se dedica. Então, durante o desafio eu decidir cumprir o mínimo que era estudar/codar pelo menos uma hora por dia, mas acabei fazendo mais que isso maior parte do desafio.
+O [100 dias de código](https://www.100daysofcode.com/) é um desafio no qual você se compromete a estudar/codar pelo menos uma hora por dia. Durante os dias em que eu cumpri esta jornada, acabei me dedicando muito mais do que isso.
 
 Para começar o 100 dias de código não é esperado que você tenha um planejamento do que vai estudar, mas eu fiz para que fosse mais fácil seguindo um plano. Ao iniciar o desafio eu fiz meu website e blog pessoal com [Jekyll](https://jekyllrb.com/). E estava aprendendo bastante assuntos técnicos. Então, toda empolgada eu contei como estava sendo incrível fazer o 100 dias de código e como eu estava aprendendo bastante coisa.
 Com isso, a [Judite Cypreste](https://twitter.com/juditecypreste) também iniciou o 100 dias de código, o que não iríamos imaginar (claro que iria sair algo incrível dessa mulher) que saíria em uma semana um projeto sensacional chamado Colaboradados. E para nossa felicidade ela iniciou o projeto com Jekyll. Até aí eu ainda não fazia parte do Colaboradados, uma iniciativa colaborativa que busca reunir, demonstrar, investigar e monitorar o acesso à informação no Brasil.
