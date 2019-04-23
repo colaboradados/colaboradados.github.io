@@ -6,7 +6,7 @@ tags: criptomoedas, transparencia municipal, Alagoas, Cacimbinhas, Pão de Açú
 date: 2019-04-06
 ---
 
-### CRIPTOMOEDAS TRANSPARENTES: PORTAIS MUNICIPAIS DE DADOS ABERTOS FAZEM PROPAGANDA DE MOEDAS DIGITAIS
+### CRIPTOMOEDAS TRANSPARENTES: PORTAIS MUNICIPAIS DE DADOS ABERTOS MINERAM MOEDAS EM COMPUTADORES DE USUÁRIOS
 
 Portais da transparência municipais estão divulgando mais que os dados de suas administrações. Uma investigação do [Colaboradados](https://colaboradados.github.io/) identificou ao menos quatro portais, todos eles pertencentes à cidades do Estado de Alagoas, onde uma propaganda de um site de moedas virtuais aparece, em estilo 'pop-up', assim que o usuário os acessa.
 
