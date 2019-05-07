@@ -50,9 +50,9 @@ Imagens:
 
 Músicas:  
 
-[Audionautix - Alison](https://youtu.be/y6CfYKSyKQ0)
-[Josh Lippi & The Overtimers - Trieste](https://youtu.be/tEbcAxHZBQA)
-[Silent Partner - Parasail](https://youtu.be/fYulCy-HetY)
-[Freedom Trail Studio - I'm Happy For This Guitar](https://youtu.be/YdDmoPG7GU8)
-[Dan Lebowitz - Lone Wolf](https://youtu.be/BRSswu10V1k)
-[Dan Lebowitz - Top Down](https://youtu.be/cPhsjohaSFA)
+- [Audionautix - Alison](https://youtu.be/y6CfYKSyKQ0)
+- [Josh Lippi & The Overtimers - Trieste](https://youtu.be/tEbcAxHZBQA)
+- [Silent Partner - Parasail](https://youtu.be/fYulCy-HetY)
+- [Freedom Trail Studio - I'm Happy For This Guitar](https://youtu.be/YdDmoPG7GU8)
+- [Dan Lebowitz - Lone Wolf](https://youtu.be/BRSswu10V1k)
+- [Dan Lebowitz - Top Down](https://youtu.be/cPhsjohaSFA)
