@@ -9,11 +9,11 @@ Por conta disso, as diferentes esferas governamentais (Governo Federal - Governo
 
 Diversos sites dos entes governamentais já disponibilizam bases de dados gigantescas, onde qualquer cidadão tem acesso. Entretanto, não é incomum que estes mesmos sites fiquem fora do ar ou sejam excluídos sem qualquer aviso. Casos assim são recorrentes e já aconteceram inclusive com a idealizadora deste projeto (você pode ler este episódio nesta  [reportagem](https://aosfatos.org/noticias/apos-serie-sobre-legado-da-copa-cgu-tira-do-ar-site-com-os-gastos-do-mundial-de-2014/)  onde conta-se como foram excluídos todos os dados da Copa do Mundo de 2014 durante uma série de reportagens investigativas).
 
-Pensando nisso, **Colaborabot** surgiu.
+Pensando nisso, [**Colaborabot**](https://twitter.com/colabora_bot) surgiu.
 
-Usando nosso banco de dados dos portais da transparência governamentais, o robô monitora se eles estão funcionando corretamente e avisa se algo está errado. 
+Usando nosso banco de dados dos portais da transparência governamentais, o robô monitora se eles estão funcionando corretamente e avisa se algo está errado.
 
-O bot pode alertar por diversas razões, e a nossa missão é alertar a sociedade e cobrar explicações dos órgãos públicos responsáveis pela administração destes sites. Atualmente você pode seguir o **Colaborabot** no [Twitter](https://twitter.com/colabora_bot) e também na rede social [Mastodon](https://botsin.space/@colaborabot).
+O bot pode alertar por diversas razões, e a nossa missão é alertar a sociedade e cobrar explicações dos órgãos públicos responsáveis pela administração destes sites. Atualmente você pode seguir o [**Colaborabot**](https://twitter.com/colabora_bot) no [Twitter](https://twitter.com/colabora_bot) e também na rede social [Mastodon](https://botsin.space/@colaborabot).
 
 
 Todo o código do nosso robô pode ser encontrado no [repositório do projeto](https://github.com/colaboradados). Ele foi elaborado por  [João Ernane](https://github.com/jovemadulto) e [Judite Cypreste](https://juditecypreste.github.io/).
