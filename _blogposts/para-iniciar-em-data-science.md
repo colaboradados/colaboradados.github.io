@@ -5,8 +5,6 @@ author: Letícia Silva
 tags: Data Science, Python, R, Lua, SQL, Scala, Estatística, dicas, tutoriais
 ---
 
-# Para iniciar em Data Science
-
 Ciência de Dados vem ganhando força e não é por acaso. A área, que deu seus primeiros passos na década de 60, quando a expressão foi citada no artigo [_"The Future of Data Analysis"_](http://www.mat.ufrgs.br/~viali/estatistica/mat2274/material/textos/2237638.pdf) por **John Turkey**, tem ganhado espaço considerável desde 2012, quando Data Scientist foi citada como a profissão mais _sexy_ do séc. XXI num artigo da **Harvard Business Review**, uma das principais revistas de negócios do mundo corporativo (confira a matéria [aqui](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)).  
 
 Mas afinal, o que é essa tal de Data Science tão falada nos últimos tempos?  
@@ -58,7 +56,7 @@ A próxima linguagem da lista é o **R**. Queridinha dos estatísticos, ela nasc
 
     - Os termos da linguagem podem ser pesquisados [aqui](https://www.rdocumentation.org/) e a documentação do **R-Project** conferida [aqui](https://www.r-project.org/other-docs.html).    
 
---- 
+---
 
 **SQL** (Structured Query Language) ou  Linguagem de Consulta Estruturada é utilizada para fazer consultas em bancos de dados relacionais, interagir com diferentes tipos de dados, extrair as informações desejadas e modelar as informações de acordo com a sua categoria.  
 É muito utilizada para realizar acessos a base de dados e consultar informações.
@@ -80,7 +78,7 @@ Você já ouviu falar em **Julia**? A linguagem de programação possui múltipl
 + **Materiais**
 
     - O livro [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) está disponível gratuitamente para visualização;  
-    
+
     - A [Julia Academy](https://juliaacademy.com/) possui cursos abertos e gratuitos para quem quiser se aprofundar no assunto;
 
     - Nessa [série](https://www.youtube.com/watch?v=ZPtyQem6hso&list=PLya-DXLnU1p7_iMNN4386qkiD4ywL9hxm) de vídeos o autor dá dicas, desde qual editor usar até ensinar como fazer uma regressão simples, utilizando a linguagem;  
@@ -101,7 +99,7 @@ Você já ouviu falar em **Julia**? A linguagem de programação possui múltipl
 De origem brasileira, **Lua** foi projetada, implementada e desenvolvida por uma equipe na **PUC-RIO** (Pontifícia Universidade Católica do Rio de Janeiro), e tem o objetivo de ser leve, poderosa e eficiente. Em Data Science, é muito utilizada para automatizar tarefas, como a coleta de dados, por exemplo.  
 
 + **Materiais**
-    
+
     - Há um manual de referência disponível no site oficial que pode ser encontrado [aqui](http://www.lua.org/manual/5.1/pt/);
 
     - A UFES (Universidade Federal do Espírito Santo) produziu um [material](http://www.inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20132-seminario-lua.pdf) gratuito sobre o assunto;
@@ -180,7 +178,7 @@ E aqui, resolvi trazer algumas informações adicionais sobre tópicos que acho 
 
 - [Beginner’s Guide to Machine Learning with Python](https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51) por **Oleksii Kharkovyna**;
 
-- Newsletter [Technology Review](https://www.technologyreview.com/) do **MIT** (agradecimentos a **Carla Vieira**); 
+- Newsletter [Technology Review](https://www.technologyreview.com/) do **MIT** (agradecimentos a **Carla Vieira**);
 
 - [Blog](https://escoladedados.org/blog/) da **Escola de Dados**;
 
@@ -212,7 +210,7 @@ OBS: Está escrito em Python 2. A edição com Python 3 deve ser lançada em bre
 
 OBS: Desses conteúdos, só não tive a oportunidade ainda de adquirir os cursos citados.
 
---- 
+---
 
 Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ciência de Dados e por onde começar. Ah, e o mais importante: não é preciso ser formado em TI, ter duas especializações, um PHD e 15 anos de experiência para migrar pra área, viu?! É só você querer e ter muita força de vontade e não desistir!
 
