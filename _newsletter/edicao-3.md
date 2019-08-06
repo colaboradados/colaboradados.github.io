@@ -2,7 +2,7 @@
 layout: default
 title: "Dados do Mês"
 author: "Edição #3"
-tags: colaborabot, g1, 100 dias de codigo
+tags: copa 2014, sigilo, transparencia, LAI
 date: 2019-06-26
 ---
 
