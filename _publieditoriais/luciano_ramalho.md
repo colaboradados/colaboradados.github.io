@@ -25,4 +25,4 @@ Com dinheiro ou com códigos, toda ajuda faz **sempre** a diferença.
 
 --------------------------
 
-*Esse texto faz parte da sessão de publieditoriais do **Colaboradados**. Toda a ajuda doada ao nosso veículo, seja ela por uma empresa ou de forma específica por um ou vários indivíduos, será discriminada aqui. Nós nos comprometemos com a transparência de nossas doações, e não aceitamos quaisquer tipos de pagamentos para fazer nosso trabalho. Se você tem uma empresa e quer nos ajudar, basta entrar em contato no formulário abaixo do site, ou enviar um e-mail para colaboradados@gmail.com.*
+*Esse texto faz parte da sessão de publieditoriais do Colaboradados. As doações para o nosso veículo na forma de produtos e/ou serviços específicos feitas a partir de uma empresa ou pessoas físicas serão discriminadas aqui. Nós nos comprometemos com a transparência de nossas doações, e não aceitamos quaisquer tipos de pagamentos para fazer nosso trabalho. Se você tem uma empresa e quer nos ajudar, basta entrar em contato no formulário abaixo do site, ou enviar um e-mail para colaboradados@gmail.com*
