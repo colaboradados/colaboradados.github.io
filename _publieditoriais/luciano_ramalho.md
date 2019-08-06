@@ -3,7 +3,7 @@ layout: default
 title: "Uma nova etapa: um novo Colaboradados!"
 author: "Colaboradados"
 tags: publieditorial, Luciano Ramalho
-date: 2019-08-05
+date: 2019-08-04
 ---
 
 Quando começamos o **Colaboradados**, umas das novas maiores discussões era se valia a pena pagar por um domínio para o site. Entre papos com *.org* e *.com* e até mesmo o *.jor*, acabamos decidindo pela alternativa mais inusitada: iríamos continuar com o *github.io*, domínio gratuito do *GitPages*.
