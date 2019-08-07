@@ -14,7 +14,7 @@ Neste episódio do **Coluna7** discutiremos sobre segurança e privacidade com R
 Saia já deste wi-fi público, conecte sua VPN de confiança e escute o sexto episódio do **Coluna7**!
 
 ### Escute agora!
-<iframe src="$PLACEHOLDER$" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-006---Privacidade-para-Jornalistas-e4se3l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
