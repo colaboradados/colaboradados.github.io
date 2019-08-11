@@ -55,6 +55,23 @@ Vamos precisar de:
 
 Uma outra opção, para quem não deseja instalar o Ruby nem o Jekyll na máquina, é usar o [Docker](https://www.docker.com/). Para isso, só é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível. Para tanto, além do Docker, é necessário usar o [docker-compose](https://docs.docker.com/compose/). Tendo os dois instalados, é só rodar o comando `docker-compose up`.
 
+## Indexando a busca no Algolia
+
+Para carregar o índice corretamente defina as variáveis abaixos no `_config.yml`:
+
+```ruby
+algolia:
+  application_id: GVM6HECTJP
+  index_name: colaboradados
+  search_only_api_key: rvtp4mqkxaeqyf9d6wkj52xj9lahmjg4
+```
+
+Depois execute o comando:
+
+```bash
+$ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
+```
+
 ## Colaborando com a bases de dados (e sendo uma pessoa muito legal)
 
 O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em Markdown e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.

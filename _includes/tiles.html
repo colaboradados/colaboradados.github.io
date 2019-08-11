@@ -1,5 +1,10 @@
 <section class="tiles">
 
+<div id="search-searchbar"></div>
+<div id="search-hits"></div>
+
+{% include algolia.html %}
+
 {% for post in site.posts limit:site.front-page-posts %}
 	<article class="style{{ forloop.index }}">
 		<span class="image">
