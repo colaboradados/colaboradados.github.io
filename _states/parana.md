@@ -5,7 +5,7 @@ title:  "Paraná"
 
 ### Curitiba
 
--   **[Portal de Dados Abertos do Município de Curitiba](http://curitiba.pr.gov.br/dadosabertos/consulta/)**: http://curitiba.pr.gov.br/dadosabertos/consulta/
+-   **[Portal de Dados Abertos do Município de Curitiba](http://curitiba.pr.gov.br/dadosabertos/)**: http://curitiba.pr.gov.br/dadosabertos/
 
 ### Londrina
 
