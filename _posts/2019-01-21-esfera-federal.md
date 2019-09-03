@@ -49,6 +49,10 @@ tags:
 
 -   **[Dados Abertos Ministério das Relações Exteriores](http://www.itamaraty.gov.br/pt-BR/dados-abertos)**: http://www.itamaraty.gov.br/pt-BR/dados-abertos
 
+## Ministério do Turismo
+
+-   **[Dados Abertos Ministério do Turismo](http://dados.turismo.gov.br/)**: http://dados.turismo.gov.br/
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
