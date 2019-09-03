@@ -41,6 +41,10 @@ tags:
 
 -   **[Dados Abertos Ministério da Educação](http://dadosabertos.mec.gov.br/)**: http://dadosabertos.mec.gov.br/
 
+## Ministério do Meio Ambiente
+
+-   **[Dados Abertos Ministério do Meio Ambiente](http://dados.mma.gov.br/)**: http://dados.mma.gov.br/
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
