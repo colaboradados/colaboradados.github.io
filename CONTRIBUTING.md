@@ -1,8 +1,41 @@
 # Contribuições
 
-Os arquivos de adição de bases localizados na pasta `_posts /` são escritos em [Markdown](https://pt.wikipedia.org/wiki/Markdown), uma linguagem simples de marcação. Afim de manter uma padronização do projeto observe como seguir o modelo.
+Os arquivos de adição de bases estão localizados na pasta `_posts /` e são dividos por categorias, antes de realizar a submissão é interessante verificar se a base já não existe em nenhuma categoria.
+
+O colabora dados é um projeto que preza por informações fidedignas, por este motivo só aceitamos bases oficiais de fontes seguras.
+
+### Encontrei uma base, o que fazer?!
+
+1. Verificar se base não existe em nenhuma das categorias e sub-categorias.
+2. Verificar em qual das categorias existentes a base pertence.
+3. Formatar o link da base no formato [Markdown](https://pt.wikipedia.org/wiki/Markdown), uma linguagem simples de marcação. Afim de manter uma padronização do projeto observe como seguir o modelo.
+
+Estrutura padrão:
+
+`- **[Nome da Base](link)**: link`
+
+E ficaria assim:
+
+`- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos`
+
+4. Apesar do Ministério da Agricultura, Pecuária e Abastecimento ser da esfera federal, dentro do documento `2019-01-21-esfera-federal.md` existe uma subcategoria neste caso por ministérios, como ainda não existe, iremos criar um título de nivel 2 usando duas vezes o `#` :
+
+`## Ministério da Agricultura, Pecuária e Abastecimento` 
+
+O resultado final do nosso commit seria:
+
+```
+## Ministério da Agricultura, Pecuária e Abastecimento
+
+- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos
+
+```
 
 Segue ainda um [tutorial](https://docs.microsoft.com/pt-br/contribute/how-to-write-use-markdown) bem completo de utilização do Markdown totalmente em **Pt-BR**.
+
+Um [curso](https://www.udemy.com/course/aprenda-markdown/) na Udemy Gratuito, curtinho do [Roberto Achar](https://twitter.com/RobertoAchar)
+
+
 
 ## Processo de Pull Request
 
