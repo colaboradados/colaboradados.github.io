@@ -37,6 +37,10 @@ tags:
 
 -   **[Dados Abertos Ministério da Defesa](https://www.defesa.gov.br/dados-abertos)**: https://www.defesa.gov.br/dados-abertos
 
+## Ministério da Educação
+
+-   **[Dados Abertos Ministério da Educação](http://dadosabertos.mec.gov.br/)**: http://dadosabertos.mec.gov.br/
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
