@@ -33,6 +33,10 @@ tags:
 
 - **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos
 
+## Ministério da Defesa
+
+-   **[Dados Abertos Ministério da Defesa](https://www.defesa.gov.br/dados-abertos)**: https://www.defesa.gov.br/dados-abertos
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
