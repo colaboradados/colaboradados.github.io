@@ -29,6 +29,30 @@ tags:
 
 - **[IPEAData](http://www.ipeadata.gov.br)**: http://www.ipeadata.gov.br
 
+## Ministério da Agricultura, Pecuária e Abastecimento
+
+- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos
+
+## Ministério da Defesa
+
+-   **[Dados Abertos Ministério da Defesa](https://www.defesa.gov.br/dados-abertos)**: https://www.defesa.gov.br/dados-abertos
+
+## Ministério da Educação
+
+-   **[Dados Abertos Ministério da Educação](http://dadosabertos.mec.gov.br/)**: http://dadosabertos.mec.gov.br/
+
+## Ministério do Meio Ambiente
+
+-   **[Dados Abertos Ministério do Meio Ambiente](http://dados.mma.gov.br/)**: http://dados.mma.gov.br/
+
+## Ministério das Relações Exteriores
+
+-   **[Dados Abertos Ministério das Relações Exteriores](http://www.itamaraty.gov.br/pt-BR/dados-abertos)**: http://www.itamaraty.gov.br/pt-BR/dados-abertos
+
+## Ministério do Turismo
+
+-   **[Dados Abertos Ministério do Turismo](http://dados.turismo.gov.br/)**: http://dados.turismo.gov.br/
+
 ## SENADO FEDERAL
 
 -   **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
