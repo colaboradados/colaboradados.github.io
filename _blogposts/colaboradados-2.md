@@ -35,6 +35,3 @@ Acredito que não só conseguimos adaptar o robô para resolver os problemas que
 E por aqui eu me despeço neste changelog de humanas. :D
 
 Até mais, internautas. A gente se esbarra por aí na internet!
-
-
-<center>By: João Ernane</center>

@@ -57,5 +57,3 @@ Há muitas ferramentas e frameworks que facilitam nossa vida na construção des
 ---
 
 Se você conhece outras ferramentas/frameworks para raspagem de dados, não exite em nos mostrar para aumentar o leque de opções. E em breve teremos um tutorial de raspagem de dados com splinter, essa maravilha brasileira. Aguardem os próximos posts!
-
-<center>By: Ana Paula Mendes</center>

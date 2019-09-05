@@ -218,4 +218,3 @@ Ficou com dúvidas ou quer conversar sobre o assunto? Você pode me encontrar [a
 
 **Beijinhos, Lê <3**
 
-<center>By: Letícia Silva</center>

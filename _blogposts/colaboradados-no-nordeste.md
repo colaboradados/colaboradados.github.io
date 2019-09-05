@@ -29,4 +29,3 @@ Não ficamos de fora nem online, amigues! Recebemos o convite da [**Impulso Netw
 
 E é isso! O projeto está crescendo, conseguimos mais apoio e suporte! E foi maravilhoso demais espalhar nossa palavra no meu país Nordeste! Ainda faltam muitas cidades desse Nordeste e desse Brasil, mas logo logo estaremos por aí mais pertinho de você! <3
 
-<center>By: Ana Paula Mendes</center>

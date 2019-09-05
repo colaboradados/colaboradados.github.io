@@ -14,5 +14,3 @@ Então, como estava fazendo o desafio e queria contribuir com projetos abertos, 
 A equipe tem pessoas maravilhosas e comprometidas com o trabalho que fazem. É uma alegria enorme, um prazer e uma honra fazer parte deste projeto e dessa equipe.
 
 Se você tiver interesse em saber mais sobre como foi a experiência do desafio do 100 dias de código, escrevi um outro texto contando sobre iss, minha motivação para começar o desafio e o que aprendi. Leia em: [Sobre meus 100 dias de código](https://anapaulamendes.github.io/desafio-100-dias-de-codigo/). Eu também organizei um repositório com tudo que fiz durante o desafio, e você pode conferir aqui: [https://github.com/anapaulamendes/100-days-of-code](https://github.com/anapaulamendes/100-days-of-code).
-
-<center>By: Ana Paula Mendes</center>
