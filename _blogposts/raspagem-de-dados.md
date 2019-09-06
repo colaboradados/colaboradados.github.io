@@ -43,7 +43,7 @@ Ferramentas e frameworks também podem facilitar a construção desses scripts, 
 
  - [Selenium](https://www.seleniumhq.org/): Um software utilizado para automatizar testes web e fazer também raspagem de dados.
 
- - [Splinter](https://splinter.readthedocs.io/en/latest/why.html): Splinter é uma camada de abstração sobre as ferramentas de automação de navegador existentes, como Selenium e zope.testbrowser. Possui uma API de alto nível que facilita a criação de testes automatizados de aplicativos da web. Uma criação brasileira do [Cobra Team](https://github.com/cobrateam/splinter). Já usei e recomendo bastante!
+ - [Splinter](https://splinter.readthedocs.io/en/latest/why.html): Splinter é uma camada de abstração sobre as ferramentas de automação de navegador existentes, como Selenium e zope.testbrowser. Possui uma API de alto nível que facilita a criação de testes automatizados de aplicativos da web. Uma criação brasileira do [Cobra Team](https://github.com/cobrateam/splinter).
 
  - [Wget](https://www.gnu.org/software/wget/): Recupera conteúdo de servidores da web.  Suporta o download via protocolos HTTP, HTTPS e FTP. Faz parte do projeto GNU.
 
