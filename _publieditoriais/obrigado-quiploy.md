@@ -6,7 +6,7 @@ tags: publieditorial, Quiploy
 date: 2019-09-05
 ---
 
-![Logo da Sanploy](https://www.sanploy.com.br/assets/img/logo.svg?style=centerme)
+![logo de Labcodes]({{ site.url }}{{ site.baseurl }}/images/publieditorial/obrigada-quiploy/logo.png?style=centerme)
 
 Graças ao [**Gabriel Monnerat**](https://twitter.com/gmonnerat) agora o podcast [Coluna7](http://colaboradados.com.br/podcast.html) do [**Colaboradados**](http://colaboradados.com.br/) ([@colaboradados](https://twitter.com/colabora_bot) e [@colaborabot](https://twitter.com/colabora_bot)) tem microfones adequados para continuar as gravações com qualidade.
 
@@ -18,7 +18,7 @@ O software [Sanploy](https://www.sanploy.com.br/) é um sistema desenvolvido em 
 Voltado para assistência e organização de processos de centro médicos, clínicas e consultórios, consiste em um sistema 100% automatizado, possui planos de uso e é possível testar por 7 dias de forma gratuita.
 
 Conheça mais sobre a Sanploy no link abaixo:
- 
+
  **Site**: [https://www.sanploy.com.br/](https://www.sanploy.com.br/)
 
 Este publieditorial é um agradecimento do [**Colaboradados**](http://colaboradados.com.br/) à ajuda com os microfones para o podcast Coluna7.
