@@ -6,7 +6,7 @@ tags: publieditorial, Quiploy
 date: 2019-09-05
 ---
 
-<center>![Logo da Sanploy](https://www.sanploy.com.br/assets/img/logo.svg)</center>
+![Logo da Sanploy](https://www.sanploy.com.br/assets/img/logo.svg?style=centerme)
 
 Graças ao [**Gabriel Monnerat**](https://twitter.com/gmonnerat) agora o podcast [Coluna7](http://colaboradados.com.br/podcast.html) do [**Colaboradados**](http://colaboradados.com.br/) ([@colaboradados](https://twitter.com/colabora_bot) e [@colaborabot](https://twitter.com/colabora_bot)) tem microfones adequados para continuar as gravações com qualidade.
 
