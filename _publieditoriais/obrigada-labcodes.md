@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Obrigada, Labcodes!
+title: Obrigado, Labcodes!
 author: Colaboradados
 date: 2019-08-06
 tags: publieditorial, servidor, bot, ajuda, apoia
