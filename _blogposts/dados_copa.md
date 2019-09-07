@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Resgatando os dados do Portal da Copa do Mundo de 2014"
+author: João Ernane
+tags: dados da copa 2014, transparencia, lai
+---
+
 # Resgatando os dados do Portal da Copa do Mundo de 2014
 
 Os ouvintes do **Coluna7** já sabem desde o nosso episódio de apresentação, mas quem ainda não conhece a história do **Colaboradados**, vale a pena fazermos um pequeno flashback até 2018, quando nossa diretora Judite Cypreste atuava na redação de um veículo.
