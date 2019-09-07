@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Obrigada Quiploy"
+title: "Obrigado, Quiploy!"
 author: "Colaboradados"
 tags: publieditorial, Quiploy
 date: 2019-09-05
