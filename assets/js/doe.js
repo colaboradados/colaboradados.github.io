@@ -1,4 +1,4 @@
-const firstScrollpos = window.pageYOffset;
+const firstScrollpos = 0;
 window.onscroll = function() {
   let currentScrollPos = window.pageYOffset;
   if (currentScrollPos > firstScrollpos) {
