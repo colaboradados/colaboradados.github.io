@@ -36,3 +36,10 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Uberaba](http://www.uberaba.mg.gov.br/portal/conteudo,37644)**: http://www.uberaba.mg.gov.br/portal/conteudo,37644
 
+### Januária   
+
+-   **[Portal da Transparência do Município de Januária](https://januaria-mg.portaltp.com.br/)**: https://januaria-mg.portaltp.com.br/
+
+### Diamantina   
+
+-   **[Portal da Transparência do Município de Diamantina](https://diamantina.mg.gov.br/a-prefeitura/transparencia/)**: https://diamantina.mg.gov.br/a-prefeitura/transparencia/
