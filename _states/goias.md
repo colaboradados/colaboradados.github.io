@@ -15,3 +15,5 @@ title:  "Goiás"
 
 -   **[Portal da Transparência e Dados Abertos do Município de Anápolis](http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf)**: http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf
 
+**[Portal da Transparência e Dados Abertos da Cidade de Sabará](http://200.165.58.133:8090/contaspublicas/)**:
+http://200.165.58.133:8090/contaspublicas/
