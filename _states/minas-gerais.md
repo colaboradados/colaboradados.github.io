@@ -36,5 +36,7 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Uberaba](http://www.uberaba.mg.gov.br/portal/conteudo,37644)**: http://www.uberaba.mg.gov.br/portal/conteudo,37644
 
+### Japonvar
+
 -   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
 
