@@ -39,4 +39,3 @@ title:  "Minas Gerais"
 ### Japonvar
 
 -   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
-
