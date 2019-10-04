@@ -32,9 +32,9 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Angicos](http://topdown.servehttp.com:8080/Transparencia/pmangicos/)**: http://topdown.servehttp.com:8080/Transparencia/pmangicos/
 
-### Antonio Martins
+### Antônio Martins
 
--  **[Portal da Transparência do Município de Antonio Martins]()**:
+-  **[Portal da Transparência do Município de Antônio Martins](https://antoniomartins.rn.gov.br/portal-da-transparencia/)**: https://antoniomartins.rn.gov.br/portal-da-transparencia/
 
 ### Apodi
 
@@ -126,7 +126,7 @@ title:  "Rio Grande do Norte"
 
 ### Ceará Mirim
 
--  **[Portal da Transparência do Município de Ceará Mirim]()**: 
+-  **[Portal da Transparência do Município de Ceará Mirim](http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/)**: http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/
 
 ### Cerro Corá
 
@@ -294,7 +294,7 @@ title:  "Rio Grande do Norte"
 
 ### Lagoa Salgada
 
--  **[Portal da Transparência do Município de Lagoa Salgada]()**:
+-  **[Portal da Transparência do Município de Lagoa Salgada](https://lagoasalgada.rn.gov.br/transparente/)**: https://lagoasalgada.rn.gov.br/transparente/
 
 ### Lajes
 
