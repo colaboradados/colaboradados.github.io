@@ -5,8 +5,7 @@
 
 O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
 
-## No Windows
-### Instalando
+---
 
 ## Stack
 
@@ -15,51 +14,71 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 
 ---
 
+---
+
+## Instalação
+
+### Docker
+
+Para que prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível.
+
+Pré-requisitos:
+
+- [docker](https://www.docker.com/)
+- [docker-compose](https://docs.docker.com/compose/)
+
+#### Rodando o projeto
+
+`docker-compose up`
+
+### Windows
+
+Pré-requisitos:
+
 - [**Ruby**](https://rubyinstaller.org/)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
 
-Siga os formatos padrões de instalação. Ao fim, não se esqueça de abrir o GitBash e escrever `gem install jekyll bundler` para instalar o Bundler.
+Siga os formatos padrões de instalação.
+Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `gem install jekyll bundler`.
 
-### Abrindo
+#### Rodando o projeto
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.
-
-Caso não tenha dado nenhum erro, pule para a etapa **5**.
-
-4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto. Você poderá abrir com o **Bloco de Notas**. Escreva dentro do arquivo `source "https://rubygems.org"
-gem "jekyll"
-gem "jekyll-gist"`
-Se tudo deu certo, prossiga para a etapa **5**.
-
+2. Pela linha de comand, vá até a pasta onde você clonou o repositório em seu computador.
+3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
+   Caso não tenha dado nenhum erro, pule para a etapa **5**.
+4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
+   Se tudo deu certo, prossiga para a etapa **5**.
 5. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
 
-## No Linux Ubuntu
-### Instalando
+### Linux Ubuntu
 
-Vamos precisar de:
+#### Instalando
+
+Pré-requisitos:
+
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**GitBash**](https://git-scm.com/download/linux)
-
 
 1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
 2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependencias que são requeridas para rodar o projeto.
 3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
 4. Instale tambem o Git, digite `$ sudo apt-get install git`
 
-### Abrindo
+#### Rodando o projeto
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
 2. Vá até a pasta onde você clonou o repositório em seu computador.
 3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
-3. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
+4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
 
-## Usando o docker
+### Mac
 
-Uma outra opção, para quem não deseja instalar o Ruby nem o Jekyll na máquina, é usar o [Docker](https://www.docker.com/). Para isso, só é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível. Para tanto, além do Docker, é necessário usar o [docker-compose](https://docs.docker.com/compose/). Tendo os dois instalados, é só rodar o comando `docker-compose up`.
+A ser redigido
+
+---
 
 ## Indexando a busca no Algolia
 
