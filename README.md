@@ -80,7 +80,7 @@ A ser redigido
 
 ---
 
-## Indexando a busca no Algolia
+### Indexando a busca no Algolia
 
 Para carregar o índice corretamente defina as variáveis abaixos no `_config.yml`:
 
