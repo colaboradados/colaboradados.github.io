@@ -36,6 +36,10 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Uberaba](http://www.uberaba.mg.gov.br/portal/conteudo,37644)**: http://www.uberaba.mg.gov.br/portal/conteudo,37644
 
+### Japonvar
+
+-   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
+
 ### Januária   
 
 -   **[Portal da Transparência do Município de Januária](https://januaria-mg.portaltp.com.br/)**: https://januaria-mg.portaltp.com.br/
@@ -47,4 +51,3 @@ title:  "Minas Gerais"
 ### Janaúba
 
 -   **[Portal da Transparência do Município de Janaúba](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba
-
