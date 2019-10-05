@@ -97,9 +97,14 @@ Depois execute o comando:
 $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 ```
 
-## Colaborando com a bases de dados (e sendo uma pessoa muito legal)
+---
 
-O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em Markdown e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+## Colaborando com a bases de dados
+
+O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+Se tiver dúvidas, entre em contato conosco.
+
+---
 
 ## Créditos
 
