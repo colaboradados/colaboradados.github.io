@@ -1,6 +1,5 @@
 # Colaboradados
 
-
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
 O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
@@ -13,6 +12,18 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 - [SCSS][https://sass-lang.com/] para estilos
 
 ---
+
+## Índice
+
+- Instalação
+  - [Docker](#docker)
+  - [Windows](#windows)
+  - [Linux Ubuntu](#linux-ubuntu)
+  - [Mac](#mac)
+- [Indexando a busca no Algolia](#indexando-a-busca-no-Algolia)
+- [Colaborando com a bases de dados](#colaborando-com-a-bases-de-dados)
+- [Créditos](#créditos)
+- [The MIT License (MIT)](<#the-mit-license-(mit)>)
 
 ---
 
