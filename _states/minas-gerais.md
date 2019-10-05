@@ -39,3 +39,7 @@ title:  "Minas Gerais"
 ### Japonvar
 
 -   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
+
+### Janaúba
+
+-   **[Portal da Transparência do Município de Janaúba](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba
