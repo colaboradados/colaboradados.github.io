@@ -8,7 +8,13 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 ## No Windows
 ### Instalando
 
-Vamos precisar de:
+## Stack
+
+- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas
+- [SCSS][https://sass-lang.com/] para estilos
+
+---
+
 - [**Ruby**](https://rubyinstaller.org/)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
