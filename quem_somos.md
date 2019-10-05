@@ -7,11 +7,11 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 ![fotografia de Judite Cypreste]({{ site.url }}{{ site.baseurl }}/images/judite.png?style=centerme)
 
-[Judite Cypreste](https://judite.dev/) é a fundadora e diretora do **Colaboradados**, e apresentadora do podcast **Coluna7**. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal Folha de S.Paulo e da agência de checagem Aos Fatos. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o  **Colaboradados**. Atualmente é Jornalista de Dados na UOL em São Paulo.
+[Judite Cypreste](https://judite.dev/) é a fundadora e diretora do **Colaboradados**, e apresentadora do podcast **Coluna7**. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal Folha de S.Paulo e da agência de checagem Aos Fatos. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o **Colaboradados**. Atualmente é Jornalista de Dados na UOL em São Paulo.
 
 ![fotografia de João Ernane]({{ site.url }}{{ site.baseurl }}/images/joao.png?style=centerme)
 
-[João Ernane](https://twitter.com/ChofenAdulto) é co-fundador e co-diretor do **Colaboradados**. Formado em Direito pela Universidade Federal de Uberlândia e pós-graduando em Business Intelligence & Analytics pela PUC-MG, encontrou-se desde cedo atraído pela tecnologia. Tentando fazer desta uma aliada no combate contra a desinformação, viu no  **Colaboradados**  uma oportunidade de produzir e, principalmente, utilizar as técnicas científicas no âmbito jurídico. Atualmente vive em Minas Gerais.
+[João Ernane](https://twitter.com/ChofenAdulto) é co-fundador e co-diretor do **Colaboradados**. Formado em Direito pela Universidade Federal de Uberlândia e pós-graduando em Business Intelligence & Analytics pela PUC-MG, encontrou-se desde cedo atraído pela tecnologia. Tentando fazer desta uma aliada no combate contra a desinformação, viu no **Colaboradados** uma oportunidade de produzir e, principalmente, utilizar as técnicas científicas no âmbito jurídico. Atualmente vive em Minas Gerais.
 
 ![fotografia de Ana Paula]({{ site.url }}{{ site.baseurl }}/images/ana.png?style=centerme)
 
@@ -24,3 +24,7 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 ![fotografia de Bruno Morassutti]({{ site.url }}{{ site.baseurl }}/images/bruno.png?style=centerme)
 
 [Bruno Morassutti](https://twitter.com/555112299jedi) é o consultor de assuntos de transparência governamental do **Colaboradados**. Entusiasta em transparência e dados abertos. É advogado, especialista em Direito Público e Processo Civil e mestre em Direito pela PUCRS. Se interessa muito por tecnologia e atualmente cursa sistemas de informação na PUCRS. É viciado em fazer pedidos de acesso à informação. Reside em Porto Alegre.
+
+![fotografia de Ana Tarrisse]({{ site.url }}{{ site.baseurl }}/images/tarrisse.png?style=centerme)
+
+[Ana Tarrisse](https://twitter.com/atarrisse) entrou pro time para ajudar com o front-end do **Colaboradados**. É formada em Design pela Esdi/Uerj e Engenharia Eletrônica e de Computação pela UFRJ, com passagem pelo curso de Computação Criativa da Goldsmiths College em Londres. Usuária de computador desde o berço, hoje atua como desenvolvera na [Work&Co](https://work.co/), com passagens no Globo Esporte e na Huge Inc. Apaixonada por natureza, planta mais verde do que dá conta de cuidar. Chega no projeto com gás pra re-pensar o front. Reside metade do tempo no Rio e metade em São Paulo.
