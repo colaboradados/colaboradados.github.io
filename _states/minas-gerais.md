@@ -36,6 +36,10 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Uberaba](http://www.uberaba.mg.gov.br/portal/conteudo,37644)**: http://www.uberaba.mg.gov.br/portal/conteudo,37644
 
+### Riacho dos Machados
+
+-   **[Portal da Transparência do Município de Riacho dos Machados](https://www.riachodosmachados.mg.gov.br/transparencia)**: https://www.riachodosmachados.mg.gov.br/transparencia
+
 ### Japonvar
 
 -   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
