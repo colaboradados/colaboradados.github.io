@@ -40,6 +40,14 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
 
+### Januária   
+
+-   **[Portal da Transparência do Município de Januária](https://januaria-mg.portaltp.com.br/)**: https://januaria-mg.portaltp.com.br/
+
+### Diamantina   
+
+-   **[Portal da Transparência do Município de Diamantina](https://diamantina.mg.gov.br/a-prefeitura/transparencia/)**: https://diamantina.mg.gov.br/a-prefeitura/transparencia/
+
 ### Janaúba
 
 -   **[Portal da Transparência do Município de Janaúba](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba
