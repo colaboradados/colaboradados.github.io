@@ -36,3 +36,7 @@ title:  "Minas Gerais"
 
 -   **[Portal da Transparência do Município de Uberaba](http://www.uberaba.mg.gov.br/portal/conteudo,37644)**: http://www.uberaba.mg.gov.br/portal/conteudo,37644
 
+### Janaúba
+
+-   **[Portal da Transparência do Município de Janaúba](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=PMJanauba
+
