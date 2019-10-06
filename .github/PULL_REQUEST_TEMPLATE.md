@@ -10,7 +10,7 @@
 
 ---
 
-### Se há de layout ou funcionaliade, foi testado em quais browsers:
+### Se há mudança de layout ou funcionaliade, foi testado em quais browsers:
 
 Mobile
 
