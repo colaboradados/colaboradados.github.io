@@ -1,15 +1,15 @@
 ---
 layout: default
 title:  "Episódio #008"
-description: "Visualização de Dados com Rodrigo Menegat"
+description: "Pensando a visualização dos dados"
 ---
-# Episódio #008 - Visualização de Dados com Rodrigo Menegat
+# Episódio #008 - Pensando a visualização dos dados
 
-Sejam bem vindos mais uma vez ao Coluna7, seres virtuais!
+Sejam bem vindos mais uma vez ao **Coluna7**, seres virtuais!
 
-Que drope a primeira tabela quem nunca leu uma manchete e procurou algum tipo de recurso gráfico na reportagem antes de ler todo o conteúdo escrito! É sobre isso que o episódio deste mês vem tratar: Da Visualização de Dados! "Um jeito de bonito e cativante de contar histórias, através de gráficos interativos ou não, de uma forma interessante para o leitor". Parafraseando dessa maneira nosso convidado, Rodrigo Menegat, jornalista de dados e programador da editoria de dados do Estadão, é que decidimos resumir esse tema para vocês.
+Que drope a primeira tabela quem nunca leu uma manchete e procurou algum tipo de recurso gráfico na reportagem antes de ler todo o conteúdo escrito! É sobre isso que o episódio deste mês vem tratar: da visualização de dados, "um jeito bonito e cativante de contar histórias, através de gráficos interativos ou não, e de uma forma interessante para o leitor", como disse o convidado desse episódio Rodrigo Menegat, jornalista de dados e programador da editoria de Infografia Digital do jornal Estado de S.Paulo.
 
-Entenda nesse episódio qual a importância dessa área para o jornalismo de dados, quais as ferramentas utilizadas, o que é compreendido como boa práticas e aproveite para conseguir algumas recomendações de ótimo conteúdo para estudo!
+Entenda nesse episódio qual a importância dessa área para o jornalismo de dados, quais as ferramentas utilizadas, as boas práticas na hora de pensar em gráficos, e dicas de conteúdo para estudo!
 
 ### Escute agora!
 <iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
