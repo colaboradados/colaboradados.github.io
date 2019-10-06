@@ -35,5 +35,5 @@ Desktop
 
 ---
 
-# Descriçãoo
+# Descrição
 Descrição detalhada do PR. Se for o caso, inserir prints, gifs ou referências para melhor esclarecer as modificações
