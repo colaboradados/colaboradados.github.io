@@ -17,13 +17,13 @@ title: 'Paraíba'
 
 - **[Portal da Transparência do Município de Guarabira](http://www.guarabira.pb.gov.br/portaldatransparencia/)**: http://www.guarabira.pb.gov.br/portaldatransparencia/
 
-### Itabaiana
-
-- **[Portal da Transparência do Município de Itabaiana](http://transparencia.itabaiana.pb.gov.br/)**: http://transparencia.itabaiana.pb.gov.br/
-
 ### Ingá
 
 - **[Portal da Transparência do Município de Ingá](https://inga.pb.gov.br/portal-da-transparencia/)**: https://inga.pb.gov.br/portal-da-transparencia/
+
+### Itabaiana
+
+- **[Portal da Transparência do Município de Itabaiana](http://transparencia.itabaiana.pb.gov.br/)**: http://transparencia.itabaiana.pb.gov.br/
 
 ### João Pessoa
 

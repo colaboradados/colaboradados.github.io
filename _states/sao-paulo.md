@@ -61,13 +61,13 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 - **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php)**: http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php
 
-### Santos
-
-- **[Portal da Transparência do Município de Santos](http://www.santos.sp.gov.br/cidadeaberta/)**: http://www.santos.sp.gov.br/cidadeaberta/
-
 ### Santo André
 
 - **[Portal da Transparência do Município de Santo André](http://www.lei131.com.br/apex/portal/f?p=580:1:)**: http://www.lei131.com.br/apex/portal/f?p=580:1:
+
+### Santos
+
+- **[Portal da Transparência do Município de Santos](http://www.santos.sp.gov.br/cidadeaberta/)**: http://www.santos.sp.gov.br/cidadeaberta/
 
 ### São Bernardo do Campo
 
@@ -85,13 +85,13 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 - **[Portal de Dados Abertos do Município de São Paulo](http://dados.prefeitura.sp.gov.br/)**: http://dados.prefeitura.sp.gov.br/
 
-### Sorocaba
-
-- **[Portal da Transparência do Município de Sorocaba](http://sorocaba.prefeitura.sp.etransparencia.com.br/portal/Transparencia.aspx)**: http://sorocaba.prefeitura.sp.etransparencia.com.br/portal/Transparencia.aspx
-
 ### São Vicente
 
 - **[Portal da Transparência do Município de São Vicente](http://online.saovicente.sp.gov.br/pmsaovicente/websis/portal_transparencia/financeiro/contas_publicas/index.php)**: http://online.saovicente.sp.gov.br/pmsaovicente/websis/portal_transparencia/financeiro/contas_publicas/index.php
+
+### Sorocaba
+
+- **[Portal da Transparência do Município de Sorocaba](http://sorocaba.prefeitura.sp.etransparencia.com.br/portal/Transparencia.aspx)**: http://sorocaba.prefeitura.sp.etransparencia.com.br/portal/Transparencia.aspx
 
 ### Taubaté
 
