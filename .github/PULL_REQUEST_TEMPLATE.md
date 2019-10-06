@@ -1,4 +1,4 @@
-### {Título}
+### Título
 
 ### Este PR faz o seguinte:
 
@@ -25,7 +25,7 @@ Desktop
 - Windows
   - [ ] Chrome
   - [ ] Firefox
-- MaxOs
+- MacOs
   - [ ] Chrome
   - [ ] Firefox
   - [ ] Safari
@@ -35,4 +35,5 @@ Desktop
 
 ---
 
-# {description}
+# Descriçãoo
+Descrição detalhada do PR. Se for o caso, inserir prints, gifs ou referências para melhor esclarecer as modificações
