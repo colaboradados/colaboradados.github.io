@@ -76,10 +76,6 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Boa Saúde](http://191.241.56.58/transparencia/)**: http://191.241.56.58/transparencia/
 
-### Bodó
-
--  **[Portal da Transparência do Município de Bodó]()**: 
-
 ### Bom Jesus
 
 -  **[Portal da Transparência do Município de Bom Jesus](https://site.bomjesus.rn.gov.br/transparencia-municipal)**: https://site.bomjesus.rn.gov.br/transparencia-municipal
@@ -87,10 +83,6 @@ title:  "Rio Grande do Norte"
 ### Brejinho
 
 -  **[Portal da Transparência do Município de Brejinho](http://www.governotransparente.com.br/6650490)**: http://www.governotransparente.com.br/6650490
-
-### Caiçara do Norte
-
--  **[Portal da Transparência do Município de Caiçara do Norte]()**: 
 
 ### Caiçara do Rio do Vento
 
@@ -356,11 +348,8 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Mossoró](http://187.19.199.132/transparencia/)**: http://187.19.199.132/transparencia/
 
-### NATAL
-
--  **[Portal da Transparência e Mobilidade Urbana de Natal](http://dados.natal.br/)**: http://dados.natal.br/
-
 ### Natal
 
--   **[Portal da Transparência do Município de Natal](https://natal.rn.gov.br/transparencia/)**: https://natal.rn.gov.br/transparencia/
+-  **[Portal da Transparência do Município de Natal](https://natal.rn.gov.br/transparencia/)**: https://natal.rn.gov.br/transparencia/
 
+-  **[Portal da Transparência da Mobilidade Urbana de Natal](http://dados.natal.br/)**: http://dados.natal.br/
