@@ -97,3 +97,6 @@ title:  "São Paulo"
 
 -   **[Portal da Transparência do Município de Taubaté](http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410)**: http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410
 
+### Jacareí
+
+-   **[Portal da Transparência do Município de Jacareí](http://www.jacarei.sp.gov.br/transparencia-prefeitura/)**: http://www.jacarei.sp.gov.br/transparencia-prefeitura/
