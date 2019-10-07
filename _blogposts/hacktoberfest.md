@@ -58,7 +58,7 @@ Após essa enxurrada de informações, eu espero:
 
 **XOXO**, 
 
-**Lê**.
+Lê.
 
 
 
