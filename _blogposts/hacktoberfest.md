@@ -5,7 +5,8 @@ author: Letícia Silva
 tags: comunidade, contribuição, código aberto, open source, github
 ---
 
-![Hacktoberfest]({{ site.url }}{{ site.baseurl }}/images/blog/hacktoberfest/pic01.png?style=centerme)
+![Percentual]({{ site.url }}{{ site.baseurl }}/images/blog/hacktoberfest/pic01.png?style=centerme)
+
 
 # Hacktoberfest: sua hora de participar da festa chegou! 
 
