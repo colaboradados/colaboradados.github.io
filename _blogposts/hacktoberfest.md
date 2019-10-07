@@ -4,7 +4,8 @@ title: Hacktoberfest - a festa do open source
 author: Letícia Silva
 tags: comunidade, contribuição, código aberto, open source, github
 ---
-![Hacktoberfest](images/blog/pic01.png)
+
+![Hacktoberfest]({{ site.url }}{{ site.baseurl }}/images/blog/hacktoberfest/pic01.png?style=centerme)
 
 # Hacktoberfest: sua hora de participar da festa chegou! 
 
@@ -38,9 +39,7 @@ Após entender como o Git funciona, crie sua conta no [site](https://github.com/
 
 Nesse ano o número mínimo de contribuições exigidas é **quatro**, e você pode ir acompanhando pelo site conforme for contribuindo (igual a essa da imagem).
 
-![Percentual](images/blog/pic02.png)
-
-
+![Percentual]({{ site.url }}{{ site.baseurl }}/images/blog/hacktoberfest/pic02.jpg?style=centerme)
 
  Fazendo essas contribuições até o dia **31 de outubro** (vê se não esquece, hein!) você ganha uma camiseta exclusiva dos participantes da iniciativa - e o melhor é que ela é entregue aí na sua casa, na faixa.
 
