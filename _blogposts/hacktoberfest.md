@@ -46,7 +46,7 @@ Nesse ano o número mínimo de contribuições exigidas é **quatro**, e você p
 
 Para ajudar o nosso projeto, você pode acessar nosso [perfil](https://github.com/colaboradados) no Github e fazer uma contribuição que ache relevante (fique a vontade para abrir _issues_ também).
 
-Ah, e um spoiler: O Colaboradados submeteu uma sprint (vote [aqui](https://speakerfight.coevents/submissao-de-sprints-python-brasil-201#colaboradados-o-veiculo-colaborativo-sobre-transrencia-e-open-data-no-brasil-4)) na [Python Bras[15]](https://2019.pythonbrasil.org.br), então svocê estiver no evento poderá conversar com gente, colaborar com o projeto e ainda completar desafio do Hacktoberfest! 
+Ah, e um spoiler: O Colaboradados submeteu uma sprint (vote [aqui](https://speakerfight.coevents/submissao-de-sprints-python-brasil-201#colaboradados-o-veiculo-colaborativo-sobre-transrencia-e-open-data-no-brasil-4)) na [Python Bras[15]](https://2019.pythonbrasil.org.br), então se você estiver no evento poderá conversar com gente, colaborar com o projeto e ainda completar desafio do Hacktoberfest! 
 
 Após essa enxurrada de informações, eu espero que:
 
