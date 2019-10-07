@@ -104,3 +104,23 @@ title:  "São Paulo"
 ### Campos do Jordão
 
 -   **[Portal da Transparência do Município de Campos do Jordão](http://camposdojordao.sp.gov.br/transparencia/)**: http://camposdojordao.sp.gov.br/transparencia/
+
+### São Bento do Sapucaí
+
+-   **[Portal da Transparência do Município de São Bento do Sapucaí](https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0)**: https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0
+
+### Indaiatuba
+
+-   **[Portal da Transparência do Município de Indaiatuba](https://www.indaiatuba.sp.gov.br/transparencia/)**: https://www.indaiatuba.sp.gov.br/transparencia/
+
+### Santa Isabel
+
+-   **[Portal da Transparência do Município de Santa Isabel](https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/)**: https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/
+
+### Itanhaém
+
+-   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portal_transparencia/)**: http://www2.itanhaem.sp.gov.br/portal_transparencia/
+
+### Lorena
+
+-   **[Portal da Transparência do Município de Lorena](https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php)**: https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php
