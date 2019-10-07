@@ -10,7 +10,7 @@ tags: comunidade, contribuição, código aberto, open source, github
 
 # Hacktoberfest: sua hora de participar da festa chegou! 
 
-Você já ouviu falar de _Open Source_, mas não sabe o que significa? Ou até sabe, porém não faz ideia de como contribuir?Melhor ainda: quer contribuir, ajudar projetos incríveis e ainda ter a chance de ganhar uma camiseta incrível? Vem comigo que te conto tudinho!
+Você já ouviu falar de _Open Source_, mas não sabe o que significa? Ou até sabe, porém não faz ideia de como contribuir? Melhor ainda: quer contribuir, ajudar projetos incríveis e ainda ter a chance de ganhar uma camiseta incrível? Vem comigo que te conto tudinho!
 
 Open Source (do inglês, _código aberto_) remete a um modelo de desenvolvimento de software que preza que códigos-fonte de projetos (independente do tipo) sejam desenvolvidos de maneira colaborativa, possibilitando que esses códigos sejam aprimorados e possam ser utilizados para livre consulta, examinação ou modificação, permitindo também sua redistribuição universal.
 
