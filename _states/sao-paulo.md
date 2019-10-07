@@ -100,3 +100,7 @@ title:  "São Paulo"
 ### Jacareí
 
 -   **[Portal da Transparência do Município de Jacareí](http://www.jacarei.sp.gov.br/transparencia-prefeitura/)**: http://www.jacarei.sp.gov.br/transparencia-prefeitura/
+
+### Campos do Jordão
+
+-   **[Portal da Transparência do Município de Campos do Jordão](http://camposdojordao.sp.gov.br/transparencia/)**: http://camposdojordao.sp.gov.br/transparencia/
