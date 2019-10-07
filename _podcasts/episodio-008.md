@@ -12,7 +12,7 @@ Que drope a primeira tabela quem nunca leu uma manchete e procurou algum tipo de
 Entenda nesse episódio qual a importância dessa área para o jornalismo de dados, quais as ferramentas utilizadas, as boas práticas na hora de pensar em gráficos, e dicas de conteúdo para estudo!
 
 ### Escute agora!
-<iframe src="" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-008---Pensando-a-visualizao-dos-dados-e6cqft" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
