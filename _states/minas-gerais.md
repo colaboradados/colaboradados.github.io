@@ -60,3 +60,12 @@ http://lai.memory.com.br/pagina-inicial
 ### Uberlândia
 
 - **[Portal da Transparência do Município de Uberlândia](http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879)**: http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879
+
+### Porteirinha
+
+- **[Portal da Transparência do Município de Porteirinha](http://lai.memory.com.br/pagina-inicial)**: http://lai.memory.com.br/pagina-inicial
+
+### Mercês
+
+- **[Portal da Transparência do Município de Mercês](http://merces.mg.gov.br/portal/)**:
+http://merces.mg.gov.br/portal/
