@@ -40,6 +40,11 @@ title: 'Minas Gerais'
 
 - **[Portal da Transparência do Município de Montes Claros](http://sis.montesclaros.mg.gov.br/transparencia)**: http://sis.montesclaros.mg.gov.br/transparencia
 
+### Serranópolis de Minas
+
+**[Portal da Transparência do Município de Serranópolis de Minas](http://lai.memory.com.br/pagina-inicial)**:
+http://lai.memory.com.br/pagina-inicial
+
 ### Riacho dos Machados
 
 - **[Portal da Transparência do Município de Riacho dos Machados](https://www.riachodosmachados.mg.gov.br/transparencia)**: https://www.riachodosmachados.mg.gov.br/transparencia

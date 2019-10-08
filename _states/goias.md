@@ -3,6 +3,11 @@ layout: default
 title: 'Goiás'
 ---
 
+### Adelândia
+
+**[Portal da Transparência e Dados Abertos do Município de Adelândia](http://adelandia.go.gov.br/transparencia/)**:
+http://adelandia.go.gov.br/transparencia/
+
 ### Anápolis
 
 - **[Portal da Transparência e Dados Abertos do Município de Anápolis](http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf)**: http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf
