@@ -31,4 +31,4 @@ Lá fora, entretanto, o investimento é feito visando longos prazos: reportagens
 
 Mas esse texto não é sobre tristezas. E acabou não sendo sobre os materiais apresentados no evento, o que era a princípio o que cronograma de materiais do **Colaboradados** previa. Em divagação, virou um mini-texto-diário onde escolhi contar para você as impressões sobre muitas coisas, inclusive sobre o fazer jornalístico.
 
-Se você está, no entanto, ansioso pelo material, não se desespere: contarei, em outros textos este mês, o que eu vi por lá, dessa vez sem divagações e com dados. Prometo.
+Se você está, no entanto, ansiose pelo material, não se desespere: contarei, em outros textos este mês, o que eu vi por lá, dessa vez sem divagações e com dados. Prometo.

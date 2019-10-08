@@ -110,7 +110,7 @@ De origem brasileira, **Lua** foi projetada, implementada e desenvolvida por uma
 
 ### Matemática e Estatística e Probabilidade
 
-Considerada o maior desafio de quem pensa em seguir na área,é muito utilizada quando se fala em modelos, algoritmos, predições e até análises. Tópicos como álgebra linear, estatística bayesiana, regressão linear, modelagem, quantificação e análise de incerteza são alguns dos conteúdos abordados.
+Considerada o maior desafio de quem pensa em seguir na área, é muito utilizada quando se fala em modelos, algoritmos, predições e até análises. Tópicos como álgebra linear, estatística bayesiana, regressão linear, modelagem, quantificação e análise de incerteza são alguns dos conteúdos abordados.
 
 + **Materiais**
 
@@ -212,9 +212,8 @@ OBS: Desses conteúdos, só não tive a oportunidade ainda de adquirir os cursos
 
 ---
 
-Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ciência de Dados e por onde começar. Ah, e o mais importante: não é preciso ser formado em TI, ter duas especializações, um PHD e 15 anos de experiência para migrar pra área, viu?! É só você querer e ter muita força de vontade e não desistir!
+Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ciência de Dados e por onde começar. Ah, e o mais importante: não é preciso ser formade em TI, ter duas especializações, um PHD e 15 anos de experiência para migrar pra área, viu?! É só você querer e ter muita força de vontade e não desistir!
 
 Ficou com dúvidas ou quer conversar sobre o assunto? Você pode me encontrar [aqui](https://leticiadasilva.github.io/).
 
 **Beijinhos, Lê <3**
-
