@@ -1,4 +1,4 @@
-### {Título}
+### Título
 
 ### Este PR faz o seguinte:
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Se há de layout ou funcionaliade, foi testado em quais browsers:
+### Se há mudança de layout ou funcionaliade, foi testado em quais browsers:
 
 Mobile
 
@@ -25,7 +25,7 @@ Desktop
 - Windows
   - [ ] Chrome
   - [ ] Firefox
-- MaxOs
+- MacOs
   - [ ] Chrome
   - [ ] Firefox
   - [ ] Safari
@@ -35,4 +35,5 @@ Desktop
 
 ---
 
-# {description}
+# Descrição
+Descrição detalhada do PR. Se for o caso, inserir prints, gifs ou referências para melhor esclarecer as modificações

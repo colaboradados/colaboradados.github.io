@@ -11,6 +11,10 @@ title: 'São Paulo'
 
 - **[Portal da Transparência e Dados Abertos do Município de Campinas](http://transparencia.campinas.sp.gov.br/)**: http://transparencia.campinas.sp.gov.br/
 
+### Campos do Jordão
+
+-   **[Portal da Transparência do Município de Campos do Jordão](http://camposdojordao.sp.gov.br/transparencia/)**: http://camposdojordao.sp.gov.br/transparencia/
+
 ### Carapicuíba
 
 - **[Portal da Transparência do Município de Carapicuíba](http://portaldatransparencia.carapicuiba.sp.gov.br/site/)**: http://portaldatransparencia.carapicuiba.sp.gov.br/site/
@@ -22,6 +26,18 @@ title: 'São Paulo'
 ### Franca
 
 - **[Portal da Transparência do Município de Franca](http://www.franca.sp.gov.br/portal-transparencia/)**: http://www.franca.sp.gov.br/portal-transparencia/
+
+### Indaiatuba
+
+-   **[Portal da Transparência do Município de Indaiatuba](https://www.indaiatuba.sp.gov.br/transparencia/)**: https://www.indaiatuba.sp.gov.br/transparencia/
+
+### Itanhaém
+
+-   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portal_transparencia/)**: http://www2.itanhaem.sp.gov.br/portal_transparencia/
+
+### Jacareí
+
+-   **[Portal da Transparência do Município de Jacareí](http://www.jacarei.sp.gov.br/transparencia-prefeitura/)**: http://www.jacarei.sp.gov.br/transparencia-prefeitura/
 
 ### Guarujá
 
@@ -40,6 +56,10 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 ### Jundiaí
 
 - **[Portal da Transparência do Município de Jundiaí](https://transparencia.jundiai.sp.gov.br/)**: https://transparencia.jundiai.sp.gov.br/
+
+### Lorena
+
+-   **[Portal da Transparência do Município de Lorena](https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php)**: https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php
 
 ### Mauá
 
@@ -61,6 +81,10 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 - **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php)**: http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php
 
+### Santa Isabel
+
+-   **[Portal da Transparência do Município de Santa Isabel](https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/)**: https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/
+
 ### Santo André
 
 - **[Portal da Transparência do Município de Santo André](http://www.lei131.com.br/apex/portal/f?p=580:1:)**: http://www.lei131.com.br/apex/portal/f?p=580:1:
@@ -68,6 +92,10 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 ### Santos
 
 - **[Portal da Transparência do Município de Santos](http://www.santos.sp.gov.br/cidadeaberta/)**: http://www.santos.sp.gov.br/cidadeaberta/
+
+### São Bento do Sapucaí
+
+-   **[Portal da Transparência do Município de São Bento do Sapucaí](https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0)**: https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0
 
 ### São Bernardo do Campo
 
@@ -95,4 +123,4 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 ### Taubaté
 
-- **[Portal da Transparência do Município de Taubaté](http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410)**: http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410
+-   **[Portal da Transparência do Município de Taubaté](http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410)**: http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410
