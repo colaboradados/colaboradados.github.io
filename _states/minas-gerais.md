@@ -36,9 +36,21 @@ title: 'Minas Gerais'
 
 - **[Portal da Transparência do Município de Juiz de Fora](https://www.pjf.mg.gov.br/transparencia/index.php)**: https://www.pjf.mg.gov.br/transparencia/index.php
 
+### Mato Verde
+
+- **[Portal da Transparência do Município de Mato Verde](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MatoVerde)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MatoVerde
+
+### Monte Azul
+
+- **[Portal da Transparência do Município de Monte Azul](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MonteAzul)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MonteAzul
+
 ### Montes Claros
 
 - **[Portal da Transparência do Município de Montes Claros](http://sis.montesclaros.mg.gov.br/transparencia)**: http://sis.montesclaros.mg.gov.br/transparencia
+
+### Porteirinha
+
+**[Portal da Transparência do Município de Porteirinha](http://lai.memory.com.br/pagina-inicial)**: http://lai.memory.com.br/pagina-inicial
 
 ### Serranópolis de Minas
 
