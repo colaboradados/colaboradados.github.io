@@ -408,7 +408,7 @@ title:  "Rio Grande do Norte"
 
 ### Patu
 
--  **[Portal da Transparência da Câmara Municipal de Patu](http://www.cmpatu.rn.gov.br/transparencia)**:
+-  **[Portal da Transparência da Câmara Municipal de Patu](http://www.cmpatu.rn.gov.br/transparencia)**: http://www.cmpatu.rn.gov.br/transparencia
 
 ### Pau dos Ferros
 
