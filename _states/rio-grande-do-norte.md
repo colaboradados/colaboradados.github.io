@@ -398,10 +398,6 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Passagem](http://www.governotransparente.com.br/6790490)**: http://www.governotransparente.com.br/6790490
 
-### Patu
-
--  **[Portal da Transparência do Município de Patu]()**:
-
 ### Pau dos Ferros
 
 -  **[Portal da Transparência do Município de Pau dos Ferros](https://www.paudosferros.rn.gov.br/acessoainformacao.php)**: https://www.paudosferros.rn.gov.br/acessoainformacao.php
@@ -545,10 +541,6 @@ title:  "Rio Grande do Norte"
 ### São Paulo do Potengi
 
 -  **[Portal da Transparência do Município de São Paulo do Potengi](http://168.194.179.10:8079/Transparencia/)**: http://168.194.179.10:8079/Transparencia/
-
-### São Pedro
-
--  **[Portal da Transparência do Município de São Pedro]()**:
 
 ### São Rafael
 
