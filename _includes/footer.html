@@ -8,17 +8,17 @@
 			<form method="post" action="https://formspree.io/{{ site.email }}"
       method="POST">
 				<div class="field half first">
-					<input type="text" name="name" id="name" placeholder="Seu nome" />
+					<input type="text" aria-label="Seu nome" name="name" id="name" placeholder="Seu nome" />
 				</div>
 				<div class="field half">
-					<input type="email" name="_replyto" id="email" placeholder="E-mail" />
+					<input type="email" aria-label="E-mail" name="_replyto" id="email" placeholder="E-mail" />
 				</div>
 				<div class="field">
-					<textarea name="message" id="message" placeholder="Mensagem"></textarea>
+					<textarea name="message" aria-label="Mensagem" id="message" placeholder="Mensagem"></textarea>
 				</div>
 				<ul class="actions">
 					<li>
-						<input type="submit" value="Enviar" class="special" />
+						<input type="submit" aria-label="Enviar" value="Enviar" class="special" />
 					</li>
 				</ul>
 			</form>
@@ -27,25 +27,25 @@
 			<h2>Siga-nos</h2>
 			<ul class="icons">
 				{% if site.twitter_username %}
-				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://twitter.com/{{ site.twitter_username }}" aria-label="twitter colabora dados" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 				{% endif %}
 
 				{% if site.github_username %}
-				<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+				<li><a href="https://github.com/{{ site.github_username }}" aria-label="github" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
 				{% endif %}
 
 				{% if site.instagram_username %}
-				<li><a href="https://instagram.com/{{ site.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="https://instagram.com/{{ site.instagram_username }}" aria-label="instagram" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
 				{% endif %}
 
 			</ul>
 
 			<ul class="icons">
-				<li><a href="https://twitter.com/colabora_bot" class="icon style2"><i class="fas fa-robot"></i><span class="label">Bot</span></a></li>
+				<li><a href="https://twitter.com/colabora_bot" aria-label="twitter colabora bot" class="icon style2"><i class="fas fa-robot"></i><span class="label">Bot</span></a></li>
 
-				<li><a href="https://www.linkedin.com/company/colaboradados/" class="icon style2"><i class="fab fa-linkedin-in"></i><span class="label">Linkedin</span></a></li>
+				<li><a href="https://www.linkedin.com/company/colaboradados/" aria-label="linkedin" class="icon style2"><i class="fab fa-linkedin-in"></i><span class="label">Linkedin</span></a></li>
 
-				<li><a href="https://www.facebook.com/colaboradados" class="icon style2"><i class="fab fa-facebook-f"></i><span class="label">Facebook</span></a></li>
+				<li><a href="https://www.facebook.com/colaboradados" aria-label="facebook" class="icon style2"><i class="fab fa-facebook-f"></i><span class="label">Facebook</span></a></li>
 			</ul>
 		</section>
 		<ul class="copyright">

@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  "Rio Grande do Norte"
+title: 'Rio Grande do Norte'
 ---
+
 ## RIO GRANDE DO NORTE
 
 ### Acari
@@ -673,3 +674,4 @@ title:  "Rio Grande do Norte"
 ### Vila Flor
 
 -  **[Portal da Transparência do Município de Vila Flor](http://www.governotransparente.com.br/6909488)**: http://www.governotransparente.com.br/6909488
+
