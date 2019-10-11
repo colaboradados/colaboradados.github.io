@@ -353,3 +353,319 @@ title:  "Rio Grande do Norte"
 -  **[Portal da Transparência do Município de Natal](https://natal.rn.gov.br/transparencia/)**: https://natal.rn.gov.br/transparencia/
 
 -  **[Portal da Transparência da Mobilidade Urbana de Natal](http://dados.natal.br/)**: http://dados.natal.br/
+
+### Nísia Floresta
+
+-  **[Portal da Transparência do Município de Nísia Floresta](http://nisiafloresta.rn.gov.br/portal-da-transparencia/)**: http://nisiafloresta.rn.gov.br/portal-da-transparencia/
+
+### Nova Cruz
+
+-  **[Portal da Transparência do Município de Nova Cruz](https://novacruz.rn.gov.br/transparente/)**: https://novacruz.rn.gov.br/transparente/
+
+### Olho D'Água do Borges
+
+-  **[Portal da Transparência do Município de Olho D'Água do Borges](https://www.olhodaguadoborges.rn.gov.br/acessoainformacao.php)**: https://www.olhodaguadoborges.rn.gov.br/acessoainformacao.php
+
+### Ouro Branco
+
+-  **[Portal da Transparência do Município de Ouro Branco](http://177.152.66.53:81/transparencia/)**: http://177.152.66.53:81/transparencia/
+
+### Paraná
+
+-  **[Portal da Transparência do Município de Paraná](https://www.parana.rn.gov.br/acessoainformacao.php)**: https://www.parana.rn.gov.br/acessoainformacao.php
+
+### Paraú
+
+-  **[Portal da Transparência do Município de Paraú](http://parau.rn.gov.br/transparencia-municipal/)**: http://parau.rn.gov.br/transparencia-municipal/
+
+### Parazinho
+
+-  **[Portal da Transparência do Município de Parazinho](http://www.parazinho.rn.gov.br/transparencia.asp)**: http://www.parazinho.rn.gov.br/transparencia.asp
+
+### Parelhas
+
+-  **[Portal da Transparência do Município de Parelhas](http://topdown.servehttp.com:8080/Transparencia/pmparelhas/)**: http://topdown.servehttp.com:8080/Transparencia/pmparelhas/
+
+### Parnamirim
+
+-  **[Portal da Transparência do Município de Parnamirim](https://parnamirim.rn.gov.br/transparencia.jsp)**: https://parnamirim.rn.gov.br/transparencia.jsp
+
+### Passa e Fica
+
+-  **[Portal da Transparência do Município de Passa e Fica](http://45.71.123.124:8079/transparencia/)**: http://45.71.123.124:8079/transparencia/
+
+### Passagem
+
+-  **[Portal da Transparência do Município de Passagem](http://www.governotransparente.com.br/6790490)**: http://www.governotransparente.com.br/6790490
+
+### Patu
+
+-  **[Portal da Transparência do Município de Patu]()**:
+
+### Pau dos Ferros
+
+-  **[Portal da Transparência do Município de Pau dos Ferros](https://www.paudosferros.rn.gov.br/acessoainformacao.php)**: https://www.paudosferros.rn.gov.br/acessoainformacao.php
+
+### Pedra Grande
+
+-  **[Portal da Transparência do Município de Pedra Grande](http://transparenciabr.sytes.net/RNPMPEDRAGRANDE/)**: http://transparenciabr.sytes.net/RNPMPEDRAGRANDE/
+
+### Pedra Preta
+
+-  **[Portal da Transparência do Município de Pedra Preta](https://pedrapreta.rn.gov.br/transparencia/)**: https://pedrapreta.rn.gov.br/transparencia/
+
+### Pedro Avelino
+
+-  **[Portal da Transparência do Município de Pedro Avelino](http://pedroavelino.rn.gov.br/326-2/)**: http://pedroavelino.rn.gov.br/326-2/
+
+### Pedro Velho
+
+-  **[Portal da Transparência do Município de Pedro Velho](http://pedrovelho.rn.gov.br/transparencia-municipal/)**: http://pedrovelho.rn.gov.br/transparencia-municipal/
+
+### Pendências
+
+-  **[Portal da Transparência do Município de Pendências](http://138.36.5.70:3370/transparencia/)**: http://138.36.5.70:3370/transparencia/
+
+### Pilões
+
+-  **[Portal da Transparência do Município de Pilões](https://piloes.rn.gov.br/acessoainformacao.php)**: https://piloes.rn.gov.br/acessoainformacao.php
+
+### Poço Branco
+
+-  **[Portal da Transparência do Município de Poço Branco](http://138.185.165.239/transparencia/)**: http://138.185.165.239/transparencia/
+
+### Portalegre
+
+-  **[Portal da Transparência do Município de Portalegre](http://177.37.166.61:5656/Transparencia/)**: http://177.37.166.61:5656/Transparencia/
+
+### Porto do Mangue
+
+-  **[Portal da Transparência do Município de Porto do Mangue](http://cloud.publica.inf.br/clientes/portodomangue_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/portodomangue_pm/portaltransparencia/
+
+### Pureza
+
+-  **[Portal da Transparência do Município de Pureza](http://pureza.rn.gov.br/transparencia-municipal/)**: http://pureza.rn.gov.br/transparencia-municipal/
+
+### Rafael Fernandes
+
+-  **[Portal da Transparência do Município de Rafael Fernandes](http://www.governotransparente.com.br/6815487)**: http://www.governotransparente.com.br/6815487
+
+### Rafael Godeiro
+
+-  **[Portal da Transparência do Município de Rafael Godeiro](http://www.transparenciaicone.com.br/rafaelgodeirorn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/rafaelgodeirorn/portaldatransparencia/
+
+### Riacho da Cruz
+
+-  **[Portal da Transparência do Município de Riacho da Cruz](http://cloud.publica.inf.br/clientes/riachodacruz_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/riachodacruz_pm/portaltransparencia/
+
+### Riacho de Santana
+
+-  **[Portal da Transparência do Município de Riacho de Santana](http://www.transparenciaicone.com.br/riachodesantanarn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/riachodesantanarn/portaldatransparencia/
+
+### Riachuelo
+
+-  **[Portal da Transparência do Município de Riachuelo](https://riachuelo.rn.gov.br/transparente/)**: https://riachuelo.rn.gov.br/transparente/
+
+### Rio do Fogo
+
+-  **[Portal da Transparência do Município de Rio do Fogo](http://riodofogo.rn.gov.br/transparencia.html)**: http://riodofogo.rn.gov.br/transparencia.html
+
+### Rodolfo Fernandes
+
+-  **[Portal da Transparência do Município de Rodolfo Fernandes](http://cloud.publica.inf.br/clientes/rodolfofernandes_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/rodolfofernandes_pm/portaltransparencia/
+
+### Ruy Barbosa
+
+-  **[Portal da Transparência do Município de Ruy Barbosa](https://ruybarbosa.rn.gov.br/transparente/)**: https://ruybarbosa.rn.gov.br/transparente/
+
+### Santa Cruz
+
+-  **[Portal da Transparência do Município de Santa Cruz](http://www.santacruz.rn.gov.br/site/index.php/prefeitura/portal-da-transparencia)**: http://www.santacruz.rn.gov.br/site/index.php/prefeitura/portal-da-transparencia
+
+### Santa Maria
+
+-  **[Portal da Transparência da Câmara Municipal de Santa Maria](http://www.governotransparente.com.br/6830590)**: http://www.governotransparente.com.br/6830590
+
+### Santana do Matos
+
+-  **[Portal da Transparência do Município de Santana do Matos](http://santanadomatos.rn.gov.br/transp/)**: http://santanadomatos.rn.gov.br/transp/
+
+### Santana do Seridó
+
+-  **[Portal da Transparência do Município de Santana do Seridó](http://pmsantanadoserido.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6834490)**: http://pmsantanadoserido.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6834490
+
+### Santo Antônio
+
+-  **[Portal da Transparência do Município de Santo Antônio](http://santoantonio.rn.gov.br/transparencia.html)**: http://santoantonio.rn.gov.br/transparencia.html
+
+### São Bento do Norte
+
+-  **[Portal da Transparência do Município de São Bento do Norte](http://www.transparenciaicone.com.br/saobentodonortern/portaldatransparencia/)**: http://www.transparenciaicone.com.br/saobentodonortern/portaldatransparencia/
+
+### São Bento do Trairí 
+
+-  **[Portal da Transparência do Município de São Bento do Trairí](http://topdown.servehttp.com:8080/transparencia/pmsaobentotrairi/)**: http://topdown.servehttp.com:8080/transparencia/pmsaobentotrairi/
+
+### São Fernando
+
+-  **[Portal da Transparência do Município de São Fernando](http://cloud.publica.inf.br/clientes/saofernando_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/saofernando_pm/portaltransparencia/
+
+### São Francisco do Oeste
+
+-  **[Portal da Transparência do Município de São Francisco do Oeste](http://cloud.publica.inf.br/clientes/saofranciscooeste_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/saofranciscooeste_pm/portaltransparencia/
+
+### São Gonçalo do Amarante
+
+-  **[Portal da Transparência do Município de São Gonçalo do Amarante](https://saogoncalo.rn.gov.br/transparencia/)**: https://saogoncalo.rn.gov.br/transparencia/
+
+### São João do Sabugi
+
+-  **[Portal da Transparência do Município de São João do Sabugi](http://saojoaodosabugi.rn.gov.br/portal-da-transparencia/)**: http://saojoaodosabugi.rn.gov.br/portal-da-transparencia/
+
+### São José de Mipibu
+
+-  **[Portal da Transparência do Município de São José de Mipibu](http://177.135.190.90:8080/transparencia/)**: http://177.135.190.90:8080/transparencia/
+
+### São José do Campestre
+
+-  **[Portal da Transparência do Município de São José do Campestre](https://www.saojosedocampestrern.com/transparencia)**: https://www.saojosedocampestrern.com/transparencia
+
+### São José do Seridó
+
+-  **[Portal da Transparência do Município de São José do Seridó](http://lemarq.com.br/transparencia/rnp132/)**: http://lemarq.com.br/transparencia/rnp132/
+
+### São Miguel
+
+-  **[Portal da Transparência do Município de São Miguel](https://www.saomiguel.rn.gov.br/transparencia)**: https://www.saomiguel.rn.gov.br/transparencia
+
+### São Miguel do Gostoso
+
+-  **[Portal da Transparência do Município de São Miguel do Gostoso](https://site.saomigueldogostoso.rn.gov.br/transparencia-municipal)**: https://site.saomigueldogostoso.rn.gov.br/transparencia-municipal
+
+### São Paulo do Potengi
+
+-  **[Portal da Transparência do Município de São Paulo do Potengi](http://168.194.179.10:8079/Transparencia/)**: http://168.194.179.10:8079/Transparencia/
+
+### São Pedro
+
+-  **[Portal da Transparência do Município de São Pedro]()**:
+
+### São Rafael
+
+-  **[Portal da Transparência do Município de São Rafael](https://saorafael.rn.gov.br/transparencia/)**: https://saorafael.rn.gov.br/transparencia/
+
+### São Tomé
+
+-  **[Portal da Transparência do Município de São Tomé](http://prefeituramunicipaldesaotome.rn.gov.br/incorporar?link=https:%2F%2Fgovernotransparente.com.br%2F6862488?clean=true)**: http://prefeituramunicipaldesaotome.rn.gov.br/incorporar?link=https:%2F%2Fgovernotransparente.com.br%2F6862488?clean=true
+
+### São Vicente
+
+-  **[Portal da Transparência do Município de São Vicente](https://www.governotransparente.com.br/6864490)**: https://www.governotransparente.com.br/6864490
+
+### Senador Elói de Souza
+
+-  **[Portal da Transparência do Município de Senador Elói de Souza](https://senadoreloidesouza.rn.gov.br/transparente/)**: https://senadoreloidesouza.rn.gov.br/transparente/
+
+### Senador Georgino Avelino
+
+-  **[Portal da Transparência do Município de Senador Georgino Avelino](http://pmsenadorgeorginoavelino.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6867488?clean=true)**: http://pmsenadorgeorginoavelino.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6867488?clean=true
+
+### Serra Caiada
+
+-  **[Portal da Transparência do Município de Serra Caiada](http://www.serracaiada.rn.gov.br/portal-transparencia.html)**: http://www.serracaiada.rn.gov.br/portal-transparencia.html
+
+### Serra de São Bento
+
+-  **[Portal da Transparência do Município de Serra de São Bento](http://serradesaobento.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6869490)**: http://serradesaobento.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6869490
+
+### Serra do Mel
+
+-  **[Portal da Transparência do Município de Serra do Mel](http://serradomel.rn.gov.br/incorporar?link=http:%2F%2Ftopdown.servehttp.com:8080%2FTransparencia%2Fpmserramel%2Fdespesas.aspx)**: http://serradomel.rn.gov.br/incorporar?link=http:%2F%2Ftopdown.servehttp.com:8080%2FTransparencia%2Fpmserramel%2Fdespesas.aspx
+
+### Serra Negra do Norte
+
+-  **[Portal da Transparência do Município de Serra Negra do Norte](http://serranegra.rn.gov.br/assuntos/portal-da-transparencia)**: http://serranegra.rn.gov.br/assuntos/portal-da-transparencia
+
+### Serrinha
+
+-  **[Portal da Transparência do Município de Serrinha](http://serrinha.rn.gov.br/transparencia-municipal/)**: http://serrinha.rn.gov.br/transparencia-municipal/
+
+### Serrinha dos Pintos
+
+-  **[Portal da Transparência do Município de Serrinha dos Pintos](http://transparencia.serrinhadospintos.rn.gov.br/)**: http://transparencia.serrinhadospintos.rn.gov.br/
+
+### Severiano Melo
+
+-  **[Portal da Transparência do Município de Severiano Melo](http://www.governotransparente.com.br/6878489)**: http://www.governotransparente.com.br/6878489
+
+### Sítio Novo
+
+-  **[Portal da Transparência da Câmara Municipal de Sítio Novo](https://www.sitionovo.rn.leg.br/transparencia)**: https://www.sitionovo.rn.leg.br/transparencia
+
+### Taboleiro Grande
+
+-  **[Portal da Transparência do Município de Taboleiro Grande](https://transparencia.layoutsistemas.com.br/)**: https://transparencia.layoutsistemas.com.br/
+
+### Taipu
+
+-  **[Portal da Transparência do Município de Taipu](http://www.damsete.com.br/portal_transparencia/empresa/08114753000130)**: http://www.damsete.com.br/portal_transparencia/empresa/08114753000130
+
+### Tangará
+
+-  **[Portal da Transparência do Município de Tangará](http://transparencia.tangara.rn.gov.br/)**: http://transparencia.tangara.rn.gov.br/
+
+### Tenente Ananias
+
+-  **[Portal da Transparência do Município de Tenente Ananias](http://tenenteananias.rn.gov.br/portal-da-transparencia/)**: http://tenenteananias.rn.gov.br/portal-da-transparencia/
+
+### Tenente Laurentino Cruz
+
+-  **[Portal da Transparência do Município de Tenente Laurentino Cruz](http://tenentelaurentinocruz.rn.gov.br/transparencia.htm)**: http://tenentelaurentinocruz.rn.gov.br/transparencia.htm
+
+### Tibau
+
+-  **[Portal da Transparência do Município de Tibau](http://131.0.160.131:8070//transparencia/)**: http://131.0.160.131:8070//transparencia/
+
+### Tibau do Sul
+
+-  **[Portal da Transparência do Município de Tibau do Sul](https://tibaudosul.rn.gov.br/portal-da-transparencia/)**: https://tibaudosul.rn.gov.br/portal-da-transparencia/
+
+### Timbaúba dos Batistas
+
+-  **[Portal da Transparência do Município de Timbaúba dos Batistas](http://timbaubadosbatistas.rn.gov.br/assuntos/portal-da-transparencia)**: http://timbaubadosbatistas.rn.gov.br/assuntos/portal-da-transparencia
+
+### Touros
+
+-  **[Portal da Transparência do Município de Touros](http://touros.rn.gov.br/transparencia-municipal/)**: http://touros.rn.gov.br/transparencia-municipal/
+
+### Triunfo Potiguar
+
+-  **[Portal da Transparência do Município de Triunfo Potiguar](http://triunfopotiguar.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6897488)**: http://triunfopotiguar.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6897488
+
+### Umarizal
+
+-  **[Portal da Transparência do Município de Umarizal](http://umarizal.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6899488)**: http://umarizal.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6899488
+
+### Upanema
+
+-  **[Portal da Transparência do Município de Upanema](http://168.232.150.251:8070/transparencia/)**: http://168.232.150.251:8070/transparencia/
+
+### Várzea
+
+-  **[Portal da Transparência do Município de Várzea](https://site.varzea.rn.gov.br/transparencia-municipal)**: https://site.varzea.rn.gov.br/transparencia-municipal
+
+### Venha-Ver
+
+-  **[Portal da Transparência do Município de Venha-Ver](http://cloud.publica.inf.br/clientes/venhaver_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/venhaver_pm/portaltransparencia/
+
+### Vera Cruz
+
+-  **[Portal da Transparência do Município de Vera Cruz](http://veracruz.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6906490)**: http://veracruz.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6906490
+
+### Viçosa
+
+-  **[Portal da Transparência do Município de Viçosa](http://cloud.publica.inf.br/clientes/vicosa_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/vicosa_pm/portaltransparencia/
+
+### Vila Flor
+
+-  **[Portal da Transparência do Município de Vila Flor](http://www.governotransparente.com.br/6909488)**: http://www.governotransparente.com.br/6909488
