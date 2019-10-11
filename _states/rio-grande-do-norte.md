@@ -60,10 +60,6 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
 
-### Baraúna
-
--  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
-
 ### Barcelona
 
 -  **[Portal da Transparência do Município de Barcelona](https://www.barcelona.rn.gov.br/acessoainformacao.php)**: https://www.barcelona.rn.gov.br/acessoainformacao.php
