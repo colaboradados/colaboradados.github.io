@@ -76,6 +76,10 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Boa Saúde](http://191.241.56.58/transparencia/)**: http://191.241.56.58/transparencia/
 
+### Bodó
+
+-  **[Portal da Transparência do Município de Bodó](https://www.governotransparente.com.br/6647490)**: https://www.governotransparente.com.br/6647490
+
 ### Bom Jesus
 
 -  **[Portal da Transparência do Município de Bom Jesus](https://site.bomjesus.rn.gov.br/transparencia-municipal)**: https://site.bomjesus.rn.gov.br/transparencia-municipal
@@ -83,6 +87,10 @@ title:  "Rio Grande do Norte"
 ### Brejinho
 
 -  **[Portal da Transparência do Município de Brejinho](http://www.governotransparente.com.br/6650490)**: http://www.governotransparente.com.br/6650490
+
+### Caiçara do Norte
+
+-  **[Portal da Transparência da Câmara Municipal de Caiçara do Norte](http://www.caicaradonorte.rn.leg.br/transparencia/)**: http://www.caicaradonorte.rn.leg.br/transparencia/
 
 ### Caiçara do Rio do Vento
 
@@ -398,6 +406,10 @@ title:  "Rio Grande do Norte"
 
 -  **[Portal da Transparência do Município de Passagem](http://www.governotransparente.com.br/6790490)**: http://www.governotransparente.com.br/6790490
 
+### Patu
+
+-  **[Portal da Transparência da Câmara Municipal de Patu](http://www.cmpatu.rn.gov.br/transparencia)**:
+
 ### Pau dos Ferros
 
 -  **[Portal da Transparência do Município de Pau dos Ferros](https://www.paudosferros.rn.gov.br/acessoainformacao.php)**: https://www.paudosferros.rn.gov.br/acessoainformacao.php
@@ -541,6 +553,10 @@ title:  "Rio Grande do Norte"
 ### São Paulo do Potengi
 
 -  **[Portal da Transparência do Município de São Paulo do Potengi](http://168.194.179.10:8079/Transparencia/)**: http://168.194.179.10:8079/Transparencia/
+
+### São Pedro
+
+-  **[Portal da Transparência do Município de São Pedro](http://transparenciabr.sytes.net/PMSAOPEDRORN/)**: http://transparenciabr.sytes.net/PMSAOPEDRORN/
 
 ### São Rafael
 
