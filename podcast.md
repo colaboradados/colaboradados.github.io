@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: Coluna 7
+title: Coluna7
 ---
 
 {% include rectangles.html %}
