@@ -16,7 +16,7 @@ Essa foi a definição que consegui alcançar após ler artigos, livros e sites 
  O tema é *mulidisciplinar*, e engloba diversos aspectos da programação, matemática, estatística e probabilidade, e business. Não é a toa que cientista de dados é praticamente o próprio "unicórnio da programação".  
 
 Raspagem de Dados, Cloud, Visualização de Dados, Machine Learning, Mineração de Dados, Álgebra Linear, Business Intelligence, Deep Learning, Análise de Dados, Inteligência Artificial e Estatística Bayesiana são só alguns dos conceitos e habilidades que podem ser "considerados" na hora de contratar um profissional para esse cargo.   
-A verdade é: você não precisa saber ou ter trabalhado com tudo isso, mas deverá estar **muito** disposto a aprender e desenvolver suas habilidades.
+A verdade é: você não precisa saber ou ter trabalhado com tudo isso, mas deverá ser uma pessoa que está **muito** disposta a aprender e desenvolver suas habilidades.
 
 ---
 
@@ -131,7 +131,7 @@ Considerada o maior desafio de quem pensa em seguir na área, é muito utilizada
 ### Business
 
 Entender do negócio para conseguir solucionar o problema é parte crucial do processo, e nada melhor do que fazer isso trabalhando num projeto, certo?  
-Porém, muitas vezes o cientista de dados está iniciando na área e não teve oportunidade de desenvolver ou trabalhar em um projeto. Para ajudar nisso, há algumas plataformas e projetos que você pode contribuir, e ainda rechear seu portfólio!
+Porém, muitas vezes a pessoa cientista de dados está iniciando na área e não teve oportunidade de desenvolver ou trabalhar em um projeto. Para ajudar nisso, há algumas plataformas e projetos que você pode contribuir, e ainda rechear seu portfólio!
 
 + **Materiais**
 
@@ -212,7 +212,7 @@ OBS: Desses conteúdos, só não tive a oportunidade ainda de adquirir os cursos
 
 ---
 
-Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ciência de Dados e por onde começar. Ah, e o mais importante: não é preciso ser formade em TI, ter duas especializações, um PHD e 15 anos de experiência para migrar pra área, viu?! É só você querer e ter muita força de vontade e não desistir!
+Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ciência de Dados e por onde começar. Ah, e o mais importante: não é preciso ser uma pessoa formada em TI, ter duas especializações, um PHD e 15 anos de experiência para migrar pra área, viu?! É só você querer e ter muita força de vontade e não desistir!
 
 Ficou com dúvidas ou quer conversar sobre o assunto? Você pode me encontrar [aqui](https://leticiadasilva.github.io/).
 
