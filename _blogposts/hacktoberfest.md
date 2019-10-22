@@ -50,11 +50,11 @@ Ah, e um spoiler: O Colaboradados submeteu uma sprint (vote [aqui](https://speak
 
 Após essa enxurrada de informações, eu espero que:
 
-* você esteja interessade (pelo menos um pouquinho) na comunidade open source;
+* você seja uma pessoa que esteja interessada (pelo menos um pouquinho) na comunidade open source;
 
 *  contribua com algum projeto - se for o nosso, melhor ainda haha;
 
-* faça os 4 PR's e ganhe uma camiseta pra gente andar no recreio juntes!
+* faça os 4 PR's e ganhe uma camiseta pra gente andar no recreio em grupo!
 
 É isto, gente. Se tiver qualquer dúvida, tu pode me chamar [aqui](twitter.com/dii_lua) pra gente bater um papo, fechado?
 
