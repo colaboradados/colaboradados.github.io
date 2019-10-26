@@ -114,7 +114,7 @@ $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 
 O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade
  e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará 
- seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo 
+ seguir o caminho da pasta  e escolher o arquivo 
  com o nome da base para a qual você quer colaborar.
  1. **Esfera Federal:** Conteúdo encontrado em 
  [_posts/AAAA-MM-DD-esfera-federal.md](_posts).
