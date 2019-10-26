@@ -112,8 +112,52 @@ $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 
 ## Colaborando com a bases de dados
 
-O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade
+ e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará 
+ seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo 
+ com o nome da base para a qual você quer colaborar.
+ 1. **Esfera Federal:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-esfera-federal.md](_posts).
+ 
+ 1. **Esfera Estadual:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-esfera-estadual.md](_posts).
+ 
+ 1. **Esfera Municipal:** Conteúdo encontrado em 
+ [_states/municipio.md](_states), organizado em arquivos 
+ específicos para cada municipio.
+ 
+ 1. **Cinema:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-cinema.md](_posts).
+ 
+ 1. **Músicas:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-musica.md](_posts).
+ 
+ 1. **Saúde:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-saude.md](_posts).
+ 
+ 1. **Educação:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-educacao.md](_posts).
+ 
+ 1. **Países:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-paises.md](_posts).
+ 
+ 1. **IBGE:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-ibge.md](_posts).
+ 
+ 1. **Coleções:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-colecoes.md](_posts).
+ 
+ 1. **Segurança Pública:** Conteúdo encontrado em 
+ [_posts/AAAA-MM-DD-seguranca-publica.md](_posts).
+ 
+ Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em
+ seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados 
+ seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o 
+ trabalho organizado e facilitará para que o 
+[**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, 
+ consiga funcionar plenamente.
 Se tiver dúvidas, entre em contato conosco.
+
 
 ---
 
