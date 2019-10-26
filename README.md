@@ -114,17 +114,16 @@ $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 
 O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade
  e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará 
- seguir o caminho da pasta  e escolher o arquivo 
- com o nome da base para a qual você quer colaborar.
+ editar o arquivo conforme a seguir:
+ 
  1. **Esfera Federal:** Conteúdo encontrado em 
  [_posts/AAAA-MM-DD-esfera-federal.md](_posts).
  
  1. **Esfera Estadual:** Conteúdo encontrado em 
  [_posts/AAAA-MM-DD-esfera-estadual.md](_posts).
  
- 1. **Esfera Municipal:** Conteúdo encontrado em 
- [_states/municipio.md](_states), organizado em arquivos 
- específicos para cada municipio.
+ 1. **Esfera Municipal:** Conteúdo encontrado na pasta [_states](_states),
+ em arquivos específicos para cada estado.
  
  1. **Cinema:** Conteúdo encontrado em 
  [_posts/AAAA-MM-DD-cinema.md](_posts).
