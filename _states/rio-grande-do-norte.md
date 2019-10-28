@@ -9,6 +9,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Acari](https://www.acari.rn.leg.br/transparencia)**: https://www.acari.rn.leg.br/transparencia
 
+
+
 ### Afonso Bezerra
 
 -  **[Portal da Transparência do Município de Afonso Bezerra](http://afonsobezerra.rn.gov.br/transp/)**: http://afonsobezerra.rn.gov.br/transp/
@@ -20,6 +22,8 @@ title: 'Rio Grande do Norte'
 ### Alexandria
 
 -  **[Portal da Transparência do Município de Alexandria](http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/
+
+- **[Dados Abertos do Município de Alexandria](https://www.gove.digital/dados-abertos/#/alexandria-rn/geral)**: https://www.gove.digital/dados-abertos/#/alexandria-rn/geral
 
 ### Almino Afonso
 
@@ -33,6 +37,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Angicos](http://topdown.servehttp.com:8080/Transparencia/pmangicos/)**: http://topdown.servehttp.com:8080/Transparencia/pmangicos/
 
+- **[Dados Abertos do Município de Angicos](https://www.gove.digital/dados-abertos/#/angicos-rn/geral)**: https://www.gove.digital/dados-abertos/#/angicos-rn/geral
+
 ### Antônio Martins
 
 -  **[Portal da Transparência do Município de Antônio Martins](https://antoniomartins.rn.gov.br/portal-da-transparencia/)**: https://antoniomartins.rn.gov.br/portal-da-transparencia/
@@ -40,6 +46,8 @@ title: 'Rio Grande do Norte'
 ### Apodi
 
 -  **[Portal da Transparência do Município de Apodi](https://www.apodi.rn.gov.br/acessoainformacao.php)**: https://www.apodi.rn.gov.br/acessoainformacao.php
+
+- **[Dados Abertos do Município de Apodi](https://www.gove.digital/dados-abertos/#/apodi-rn/geral)**: https://www.gove.digital/dados-abertos/#/apodi-rn/geral
 
 ### Areia Branca
 
@@ -53,6 +61,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município do Assú](http://assu.rn.gov.br/portal-da-transparencia/)**: http://assu.rn.gov.br/portal-da-transparencia/
 
+- **[Dados Abertos do Município de Assu](https://www.gove.digital/dados-abertos/#/assu-rn/geral)**: https://www.gove.digital/dados-abertos/#/assu-rn/geral
+
 ### Baia Formosa
 
 -  **[Portal da Transparência do Município de Baia Formosa](http://baiaformosa.rn.gov.br/transparencia)**: http://baiaformosa.rn.gov.br/transparencia
@@ -60,6 +70,8 @@ title: 'Rio Grande do Norte'
 ### Baraúna
 
 -  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
+
+- **[Dados Abertos do Município de Baraúna](https://www.gove.digital/dados-abertos/#/barauna-rn/geral)**: https://www.gove.digital/dados-abertos/#/barauna-rn/geral
 
 ### Barcelona
 
@@ -97,6 +109,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Caicó](https://caico.rn.gov.br/acessoainformacao.php)**: https://caico.rn.gov.br/acessoainformacao.php
 
+- **[Dados Abertos do Município de Caicó](https://www.gove.digital/dados-abertos/#/caico-rn/geral)**: https://www.gove.digital/dados-abertos/#/caico-rn/geral
+
 ### Campo Grande
 
 -  **[Portal da Transparência do Município de Campo Grande](https://www.campogrande.rn.gov.br/acessoainformacao.php)**: https://www.campogrande.rn.gov.br/acessoainformacao.php
@@ -109,6 +123,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Canguaretama](http://topdown.servehttp.com:8080/transparencia/PMCanguaretama/)**: http://topdown.servehttp.com:8080/transparencia/PMCanguaretama/
 
+- **[Dados Abertos do Município de Canguaretama](https://www.gove.digital/dados-abertos/#/canguaretama-rn/geral)**: https://www.gove.digital/dados-abertos/#/canguaretama-rn/geral
+
 ### Caraúbas
 
 -  **[Portal da Transparência do Município de Caraúbas](http://www.caraubas.rn.gov.br/portal-da-transparencia/)**: http://www.caraubas.rn.gov.br/portal-da-transparencia/
@@ -120,6 +136,8 @@ title: 'Rio Grande do Norte'
 ### Carnaubais
 
 -  **[Portal da Transparência do Município de Carnaubais](https://carnaubais.rn.gov.br/acessoainformacao.php)**: https://carnaubais.rn.gov.br/acessoainformacao.php
+
+- **[Dados Abertos do Município de Carnaubais](https://www.gove.digital/dados-abertos/#/carnaubais-rn/geral)**: https://www.gove.digital/dados-abertos/#/caranubais-rn/geral
 
 ### Ceará Mirim
 
@@ -153,9 +171,13 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Encanto](https://www.encanto.rn.gov.br/acessoainformacao.php)**: https://www.encanto.rn.gov.br/acessoainformacao.php
 
+- **[Dados Abertos do Município de Encanto](https://www.gove.digital/dados-abertos/#/encanto-rn/geral)**: https://www.gove.digital/dados-abertos/#/encanto-rn/geral
+
 ### Equador
 
 -  **[Portal da Transparência do Município de Equador](https://www.equador.rn.gov.br/portal/transparencia-fiscal)**: https://www.equador.rn.gov.br/portal/transparencia-fiscal
+
+- **[Dados Abertos do Município de Equador](https://www.gove.digital/dados-abertos/#/equador-rn/geral)**: https://www.gove.digital/dados-abertos/#/Equador-rn/geral
 
 ### Espirito Santo
 
@@ -164,6 +186,8 @@ title: 'Rio Grande do Norte'
 ### Extremoz
 
 -  **[Portal da Transparência do Município de Extremoz](http://extremoz.rn.gov.br/portal-da-transparencia/)**: http://extremoz.rn.gov.br/portal-da-transparencia/
+
+- **[Dados Abertos do Município de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
 
 ### Felipe Guerra
 
@@ -176,6 +200,8 @@ title: 'Rio Grande do Norte'
 ### Florânia
 
 -  **[Portal da Transparência do Município de Florânia](http://168.232.150.196:81/)**: http://168.232.150.196:81/
+
+- **[Dados Abertos do Município de Florânia](https://www.gove.digital/dados-abertos/#/florania-rn/geral)**: https://www.gove.digital/dados-abertos/#/florania-rn/geral
 
 ### Francisco Dantas
 
@@ -192,6 +218,8 @@ title: 'Rio Grande do Norte'
 ### Goianinha
 
 -  **[Portal da Transparência do Município de Goianinha](http://goianinha.rn.gov.br/transparencia/)**: http://goianinha.rn.gov.br/transparencia/
+
+- **[Dados Abertos do Município de Goianinha](https://www.gove.digital/dados-abertos/#/goianinha-rn/geral)**: https://www.gove.digital/dados-abertos/#/goianinha-rn/geral
 
 ### Governador Dix-Sept Rosado
 
@@ -225,6 +253,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Itaú](https://www.itau.rn.gov.br/acessoainformacao.php)**: https://www.itau.rn.gov.br/acessoainformacao.php
 
+- **[Dados Abertos do Município de Itaú](https://www.gove.digital/dados-abertos/#/itau-rn/geral)**: https://www.gove.digital/dados-abertos/#/itau-rn/geral
+
 ### Jaçanã
 
 -  **[Portal da Transparência do Município de Jaçanã](http://topdown.servehttp.com:8080/transparencia/pmjacana/)**: http://topdown.servehttp.com:8080/transparencia/pmjacana/
@@ -236,6 +266,8 @@ title: 'Rio Grande do Norte'
 ### Janduís
 
 -  **[Portal da Transparência do Município de Janduís](http://topdown.servehttp.com:8080/transparencia/pmjanduis/)**: http://topdown.servehttp.com:8080/transparencia/pmjanduis/
+
+- **[Dados Abertos do Município de Janduís](https://www.gove.digital/dados-abertos/#/janduis-rn/geral)**: https://www.gove.digital/dados-abertos/#/janduis-rn/geral
 
 ### Japi
 
@@ -353,11 +385,15 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Mossoró](http://187.19.199.132/transparencia/)**: http://187.19.199.132/transparencia/
 
+- **[Dados Abertos do Município de Mossoró](https://www.gove.digital/dados-abertos/#/mossoro-rn/geral)**: https://www.gove.digital/dados-abertos/#/mossoro-rn/geral
+
 ### Natal
 
 -  **[Portal da Transparência do Município de Natal](https://natal.rn.gov.br/transparencia/)**: https://natal.rn.gov.br/transparencia/
 
 -  **[Portal da Transparência da Mobilidade Urbana de Natal](http://dados.natal.br/)**: http://dados.natal.br/
+
+- **[Dados Abertos do Município de Natal](https://www.gove.digital/dados-abertos/#/natal-rn/geral)**: https://www.gove.digital/dados-abertos/#/natal-rn/geral
 
 ### Nísia Floresta
 
