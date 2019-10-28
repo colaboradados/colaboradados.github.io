@@ -112,8 +112,8 @@ Pré-requisitos:
     ```
     $ bundle install
     ```
-
-E em seguida:
+    
+   E em seguida:
 
     ```
     $ bundle exec jekyll serve
