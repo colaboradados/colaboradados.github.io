@@ -8,8 +8,8 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 
 ## Stack
 
-- [Jekyll](https://jekyllrb.com/) para geração de páginas estáticas
-- [SCSS](https://sass-lang.com/) para estilos
+- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas
+- [SCSS][https://sass-lang.com/] para estilos
 
 ---
 
@@ -31,7 +31,7 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 
 ### Docker
 
-Para quem prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível.
+Para que prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível.
 
 Pré-requisitos:
 
@@ -56,7 +56,7 @@ Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `ge
 #### Rodando o projeto
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador.
+2. Pela linha de comand, vá até a pasta onde você clonou o repositório em seu computador.
 3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
    Caso não tenha dado nenhum erro, pule para a etapa **5**.
 4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
@@ -74,9 +74,9 @@ Pré-requisitos:
 - [**GitBash**](https://git-scm.com/download/linux)
 
 1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
-2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependências que são requeridas para rodar o projeto.
+2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependencias que são requeridas para rodar o projeto.
 3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
-4. Instale também o Git, digite `$ sudo apt-get install git`
+4. Instale tambem o Git, digite `$ sudo apt-get install git`
 
 #### Rodando o projeto
 
@@ -110,53 +110,10 @@ $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 
 ---
 
-## Colaborando com a base de dados
+## Colaborando com a bases de dados
 
-O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade
- e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará 
- editar o arquivo conforme a seguir:
- 
- 1. **Esfera Federal:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-esfera-federal.md](_posts).
- 
- 1. **Esfera Estadual:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-esfera-estadual.md](_posts).
- 
- 1. **Esfera Municipal:** Conteúdo encontrado na pasta [_states](_states),
- em arquivos específicos para cada estado.
- 
- 1. **Cinema:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-cinema.md](_posts).
- 
- 1. **Músicas:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-musica.md](_posts).
- 
- 1. **Saúde:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-saude.md](_posts).
- 
- 1. **Educação:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-educacao.md](_posts).
- 
- 1. **Países:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-paises.md](_posts).
- 
- 1. **IBGE:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-ibge.md](_posts).
- 
- 1. **Coleções:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-colecoes.md](_posts).
- 
- 1. **Segurança Pública:** Conteúdo encontrado em 
- [_posts/AAAA-MM-DD-seguranca-publica.md](_posts).
- 
- Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em
- seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados 
- seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o 
- trabalho organizado e facilitará para que o 
-[**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, 
- consiga funcionar plenamente.
+O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
 Se tiver dúvidas, entre em contato conosco.
-
 
 ---
 
@@ -174,33 +131,18 @@ O site foi desenvolvido com design de [HTML5 UP](http://html5up.net), com integr
 
 Copyright (c) 2019 Judite Cypreste
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de 
-documentação associados (o "Software"), para lidar com o software sem restrições, incluindo, sem limitação, os direitos 
-de uso, cópia, modificação, merge, publicar, distribuir, sublicenciar e / ou vender cópias do Software e permitir que as
-pessoas a quem o software é fornecido o façam, sob as seguintes condições:
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar com o software sem restrições, incluindo, sem limitação, os direitos de uso, cópia, modificação, merge, publicar, distribuir, sublicenciar e / ou vender cópias do Software e permitir que as pessoas a quem o software é fornecido o façam, sob as seguintes condições:
 
-A declaração de direitos autorais acima e esta permissão devem ser incluídos em todas as cópias ou partes substanciais
-do software.
+A declaração de direitos autorais acima e esta permissão devem ser incluídos em todas as cópias ou partes substanciais do software.
 
-O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE
-LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO INFRACÇÃO. EM NENHUM CASO OS
-AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA
-RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, ATO ILÍCITO OU OUTRA FORMA, DECORRENTE DE, FORA DE OU RELACIONADO AO SOFTWARE OU O
-USO DE PROUTOS.
+O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO INFRACÇÃO. EM NENHUM CASO OS AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, FORA DE OU RELACIONADO AO SOFTWARE OU O USO DE PROUTOS.
 
 ### Inglês (original)
 
 Copyright (c) 2019 Judite Cypreste
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
-persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
-Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
