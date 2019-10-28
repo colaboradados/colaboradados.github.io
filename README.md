@@ -73,16 +73,52 @@ Pré-requisitos:
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**GitBash**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
-2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependências que são requeridas para rodar o projeto.
-3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
-4. Instale também o Git, digite `$ sudo apt-get install git`
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de repositórios digite:
+
+    ```
+    $ sudo apt-get update
+    ```
+
+2. Após a atualização da lista de repositórios, instale o Ruby e dependências que são requeridas para rodar o projeto digitando:
+
+    ```
+    $ sudo apt-get install ruby-full build-essential zlib1g-dev
+    ``` 
+
+3. Após a instalação do Ruby, digite:
+
+    ```
+    $ gem install jekyll bundler
+    ```
+
+4. Instale também o Git, digite:
+
+    ```
+    $ sudo apt-get install git
+    ```
 
 #### Rodando o projeto
 
-1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
+1. Clone o repositório digitando no Gitbash:
+
+    ```
+    $ git clone https://github.com/colaboradados/colaboradados.github.io.git
+    ```
+
 2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
+
+3. Digite no Terminal 
+
+    ```
+    $ bundle install
+    ```
+
+E em seguida:
+
+    ```
+    $ bundle exec jekyll serve
+    ```
+
 4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
 
 ### Mac
