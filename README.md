@@ -70,19 +70,18 @@ Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `ge
 Pré-requisitos:
 
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
-- [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
-- [**GitBash**](https://git-scm.com/download/linux)
+- [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de repositórios digite:
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de p digite:
 
     ```
-    $ sudo apt-get update
+    $ sudo apt update
     ```
 
 2. Após a atualização da lista de repositórios, instale o Ruby e dependências que são requeridas para rodar o projeto digitando:
 
     ```
-    $ sudo apt-get install ruby-full build-essential zlib1g-dev
+    $ sudo apt install ruby-full build-essential zlib1g-dev
     ``` 
 
 3. Após a instalação do Ruby, digite:
@@ -94,7 +93,7 @@ Pré-requisitos:
 4. Instale também o Git, digite:
 
     ```
-    $ sudo apt-get install git
+    $ sudo apt install git
     ```
 
 #### Rodando o projeto
@@ -107,13 +106,15 @@ Pré-requisitos:
 
 2. Vá até a pasta onde você clonou o repositório em seu computador.
 
-3. Digite no Terminal 
+    ```
+    $ cd colaboradados.github.io
+    ```
+
+3. Instale as dependencias e em seguinda execute o servidor 
 
     ```
     $ bundle install
     ```
-
-E em seguida:
 
     ```
     $ bundle exec jekyll serve
