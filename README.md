@@ -72,7 +72,7 @@ Pré-requisitos:
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de p digite:
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de pacotes digite:
 
     ```
     $ sudo apt update
@@ -114,9 +114,7 @@ Pré-requisitos:
 
     ```
     $ bundle install
-    ```
 
-    ```
     $ bundle exec jekyll serve
     ```
 
