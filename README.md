@@ -104,13 +104,13 @@ Pré-requisitos:
     $ git clone https://github.com/colaboradados/colaboradados.github.io.git
     ```
 
-2. Vá até a pasta onde você clonou o repositório em seu computador.
+2. Vá até a pasta onde você clonou o repositório em seu computador: 
 
     ```
     $ cd colaboradados.github.io
     ```
 
-3. Instale as dependências e em seguinda execute o servidor 
+3. Instale as dependências e em seguinda execute o servidor:
 
     ```
     $ bundle install
