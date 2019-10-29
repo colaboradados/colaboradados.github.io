@@ -110,7 +110,7 @@ Pré-requisitos:
     $ cd colaboradados.github.io
     ```
 
-3. Instale as dependencias e em seguinda execute o servidor 
+3. Instale as dependências e em seguinda execute o servidor 
 
     ```
     $ bundle install
