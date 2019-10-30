@@ -28,3 +28,11 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 ![fotografia de Ana Tarrisse]({{ site.url }}{{ site.baseurl }}/images/tarrisse.png?style=centerme)
 
 [Ana Tarrisse](https://twitter.com/atarrisse) entrou pro time para ajudar com o front-end do **Colaboradados**. É formada em Design pela Esdi/Uerj e Engenharia Eletrônica e de Computação pela UFRJ, com passagem pelo curso de Computação Criativa da Goldsmiths College em Londres. Usuária de computador desde o berço, hoje atua como desenvolvera na [Work&Co](https://work.co/), com passagens no Globo Esporte e na Huge Inc. Apaixonada por natureza, planta mais verde do que dá conta de cuidar. Chega no projeto com gás pra re-pensar o front. Reside metade do tempo no Rio e metade em São Paulo.
+
+![fotografia de Lucas Hiago]({{ site.url }}{{ site.baseurl }}/images/lucashiago.png?style=centerme)
+
+[Lucas Hiago](https://github.com/luchiago) é desenvolvedor back-end do **Colaboradados**. Bacharelando em Ciência da Computação na Universidade Federal do Piauí. Apaixonado pela linguagem Python e curioso em aprender novas stacks. Interessado em café e em data science. Atualmente trabalha como estagiário na CodeMiner42. Reside em Teresina, capital do Piauí.
+
+![fotografia de Neto Chaves]({{ site.url }}{{ site.baseurl }}/images/netochaves.png?style=centerme)
+
+[Neto Chaves](https://github.com/netochaves) é desenvolvedor front-end do **Colaboradados**. Bacharelando em Ciência da Computação na Universidade Federal do Piauí. Técnico em Informática pelo IFMA (Instituto Federal de Ciência e Tecnologia do Maranhão), programa desde os 15 anos e é entusiasta de open source. Atualmente trabalha como estagiário na CodeMiner42. Reside em Teresina, Piauí.
