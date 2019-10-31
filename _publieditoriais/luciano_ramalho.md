@@ -6,22 +6,21 @@ tags: publieditorial, Luciano Ramalho
 date: 2019-08-04
 ---
 
-Quando começamos o projeto **Colaboradados**, umas das novas maiores discussões era se valia a pena pagar por um domínio para o site. Entre papos com *.org* e *.com* e até mesmo o *.jor*, acabamos decidindo pela alternativa mais inusitada: iríamos continuar com o *github.io*, domínio gratuito do *GitPages*.
+Quando começamos o projeto **Colaboradados**, umas das nossas maiores discussões era se valia a pena pagar por um domínio para o site. Entre papos com *.org* e *.com* e até mesmo o *.jor*, acabamos decidindo pela alternativa mais inusitada: iríamos continuar com o *github.io*, domínio gratuito do [GitHub Pages](https://pages.github.com).
 
 Não foram poucas pessoas que perguntaram da razão desta escolha. "- Mas o domínio é tão barato!", foi uma das coisas que mais escutamos durante esses quase seis meses de projeto. Então qual o motivo para não termos, desde o começo, criado o nosso colaboradados.com.br?
 
 Entre muitas coisas das quais você tem que pensar quando cria um projeto sem nenhum apoio financeiro é: para onde irá cada centavo que você tem e o que acontece quando você não tem nenhum centavo. Contudo, com vontade de fazer as coisas acontecerem as prioridades mudam muito.
 
-Quando começamos o projeto, decidimos que o pouco dinheiro que tinhamos não iria para o domínio. Ousadia? Nós sabemos. Mas também acreditávamos nas pessoas e que elas, vendo a seriedade do nosso trabalho iriam nos ajudar a, não só ter um domínio, como também outras ferramentas necessárias para o projeto crescer. 
+Quando começamos o projeto, decidimos que o pouco dinheiro que tinhamos não iria para o domínio. Ousadia? Nós sabemos. Mas também acreditávamos nas pessoas e que elas, vendo a seriedade do nosso trabalho iriam nos ajudar a, não só ter um domínio, como também outras ferramentas necessárias para o projeto crescer.
 
-Uma dessas pessoas foi o [Luciano Ramalho](https://www.thoughtworks.com/pt/profiles/luciano-ramalho), desenvolvedor na [*ThoughtWorks*](https://www.thoughtworks.com/pt/), autor do livro 	
-[Python Fluente](https://novatec.com.br/livros/pythonfluente/), cofundador do primeiro hackerspace do Brasil, o [Garoa Hacker Club](https://twitter.com/GaroaHC), em São Paulo e influente programador pythonista, além de um ótimo amigo. 
+Uma dessas pessoas foi o [Luciano Ramalho](https://www.thoughtworks.com/pt/profiles/luciano-ramalho), desenvolvedor na [*ThoughtWorks*](https://www.thoughtworks.com/pt/), autor do livro [Python Fluente](https://novatec.com.br/livros/pythonfluente/), cofundador do primeiro hackerspace do Brasil, o [Garoa Hacker Club](https://twitter.com/GaroaHC), em São Paulo e influente programador pythonista, além de um ótimo amigo.
 
-Graças ao Ramalho, o sonho antigo de ter um domínio só nosso (e todas as vantagens, como por exemplo, ser indexado antes do nosso perfil no [Twitter](https://twitter.com/colaboradados) nas buscas do Google) finalmente aconteceu. 
+Graças ao Ramalho, o sonho antigo de ter um domínio só nosso (e todas as vantagens, como por exemplo, ser indexado antes do nosso perfil no [Twitter](https://twitter.com/colaboradados) nas buscas do Google) finalmente aconteceu.
 
 Gostaríamos de agradecer ao Ramalho por proporcionar esse momento para nosso projeto. E dizer para você, que gostaria de apoiar nosso trabalho, que há diversas formas, além da financeira, de ajudar.
 
-Com dinheiro ou com códigos, toda ajuda faz **sempre** a diferença. 
+Com dinheiro ou com códigos, toda ajuda faz **sempre** a diferença.
 
 --------------------------
 
