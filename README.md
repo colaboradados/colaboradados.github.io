@@ -87,7 +87,26 @@ Pré-requisitos:
 
 ### Mac
 
-A ser redigido
+O Mac já possui tanto o git quanto o ruby por padrão, necessitando a instalação apenas do Bundler e do Jekyll.
+
+`gem install --user-install bundler jekyll`
+
+#### Rodando o projeto
+
+No seu terminal:
+
+```
+# Clone o repositório
+$ git clone https://github.com/colaboradados/colaboradados.github.io.git
+# Entre na pasta do projeto
+$ cd colaboradados.github.io
+# Instale as dependências (só precisa fazer isso na primeira vez)
+$ bundle install
+# Rode o servidor local
+$ bundle exec jekyll serve
+```
+
+Abra o seu navegador e vá para `http://localhost:4000/`.
 
 ---
 
