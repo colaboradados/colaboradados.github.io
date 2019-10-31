@@ -86,47 +86,6 @@ title: 'Rondônia'
 - **[Portal de Transparência da Câmara Municipal de Pimenta Bueno](http://transparencia.pimentabueno.ro.leg.br/portaltransparencia/)**: http://transparencia.pimentabueno.ro.leg.br/portaltransparencia/
 - **[Portal de Transparência do Município de Pimenta Bueno](http://transparencia.pimentabueno.ro.gov.br/portaltransparencia/)**: http://transparencia.pimentabueno.ro.gov.br/portaltransparencia/
 
-### Porto Velho
-
-- **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.portovelho.ro.leg.br/)**: http://transparencia.portovelho.ro.leg.br/
-- **[Portal da Transparência do Município de Porto Velho](http://transparencia.portovelho.ro.gov.br/Site/Principal/)**: http://transparencia.portovelho.ro.gov.br/Site/Principal/
-- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral)**: https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral
-- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
-- **Dados na plataforma Município Online**: indisponível em 31/10/2019
-
-### Presidente Médici
-
-- **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.camaramedici.ro.gov.br/)**: http://transparencia.camaramedici.ro.gov.br/
-- **[Portal da Transparência do Município de Porto Velho](http://www.transparencia.presidentemedici.ro.gov.br/transparencia/)**: http://www.transparencia.presidentemedici.ro.gov.br/transparencia/
-- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral)**: https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral
-- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
-- **Dados na plataforma Município Online**: indisponível em 31/10/2019
-
-### Rio Crespo
-
-- **[Portal de Transparência da Câmara Municipal de Rio Crespo](http://transparencia.camarariocrespo.ro.gov.br/)**: http://transparencia.camarariocrespo.ro.gov.br/
-- **[Portal de Transparência do Município de Rio Crespo](http://transparencia.riocrespo.ro.gov.br/portaltransparencia/)**: http://transparencia.riocrespo.ro.gov.br/portaltransparencia/
-
-### Rolim de Moura
-
-- **[Portal de Transparência da Câmara Municipal de Rolim de Moura](http://transparencia.rolimdemoura.ro.leg.br/)**: http://transparencia.rolimdemoura.ro.leg.br/
-- **[Portal de Transparência do Município de Rolim de Moura](http://transparencia.rolimdemoura.ro.gov.br/)**: http://transparencia.rolimdemoura.ro.gov.br/
-
-### Santa Luzia D'Oeste
-
-- **[Portal de Transparência da Câmara Municipal de Santa Luzia D'Oeste](http://transparencia.abase.com.br/home/paginaInicial/nmRX5BhveQo=)**: http://transparencia.abase.com.br/home/paginaInicial/nmRX5BhveQo=
-- **[Portal de Transparência do Município de Santa Luzia D'Oeste](http://transparencia.santaluzia.ro.gov.br/)**: http://transparencia.santaluzia.ro.gov.br/
-
-### Vilhena
-
-- **[Portal de Transparência da Câmara Municipal de Vilhena](http://transparencia.vilhena.ro.leg.br/)**: http://transparencia.vilhena.ro.leg.br/
-- **[Portal de Transparência do Município de Vilhena](http://transparencia.vilhena.ro.gov.br/)**: http://transparencia.vilhena.ro.gov.br/
-
-### São Miguel do Guaporé
-
-- **[Portal de Transparência da Câmara Municipal de São Miguel do Guaporé](http://transparencia.saomigueldoguapore.ro.leg.br/)**: http://transparencia.saomigueldoguapore.ro.leg.br/
-- **[Portal de Transparência do Município de São Miguel do Guaporé](http://transparencia.saomiguel.ro.gov.br/portaltransparencia/)**: http://transparencia.saomiguel.ro.gov.br/portaltransparencia/
-
 ### Nova Mamoré
 
 - **[Portal de Transparência da Câmara Municipal de Nova Mamoré](http://transparencia.novamamore.ro.leg.br/transparencia/index.php)**: http://transparencia.novamamore.ro.leg.br/transparencia/index.php
@@ -227,47 +186,129 @@ title: 'Rondônia'
 - **[Portal de Transparência da Câmara Municipal de Pimenteiras do Oeste](http://transparencia.pimenteirasdooeste.ro.leg.br/portaltransparencia/)**: http://transparencia.pimenteirasdooeste.ro.leg.br/portaltransparencia/
 - **[Portal de Transparência do Município de Pimenteiras do Oeste](http://www.transparencia.pimenteirasdooeste.ro.gov.br/transparencia/)**: http://www.transparencia.pimenteirasdooeste.ro.gov.br/transparencia/
 
+### Porto Velho
+
+- **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.portovelho.ro.leg.br/)**: http://transparencia.portovelho.ro.leg.br/
+- **[Portal da Transparência do Município de Porto Velho](http://transparencia.portovelho.ro.gov.br/Site/Principal/)**: http://transparencia.portovelho.ro.gov.br/Site/Principal/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral)**: https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
+### Presidente Médici
+
+- **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.camaramedici.ro.gov.br/)**: http://transparencia.camaramedici.ro.gov.br/
+- **[Portal da Transparência do Município de Porto Velho](http://www.transparencia.presidentemedici.ro.gov.br/transparencia/)**: http://www.transparencia.presidentemedici.ro.gov.br/transparencia/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral)**: https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
 ### Primavera de Rondônia
 
-- **[Portal de Transparência da Câmara Municipal de Primavera de Rondônia](http://transparencia.primaveraderondonia.ro.leg.br/)**: http://transparencia.primaveraderondonia.ro.leg.br/
-- **[Portal de Transparência do Município de Primavera de Rondônia](http://transparencia.primavera.ro.gov.br/)**: http://transparencia.primavera.ro.gov.br/
+- **[Portal de Transparência da Câmara Municipal de Primavera de Rondônia](https://web.primavera.ro.gov.br/)**: https://web.primavera.ro.gov.br/
+- **Portal de Transparência do Município de Primavera de Rondônia**: indisponível em 31/10/2019
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/primavera-de-rondonia-ro/geral)**: https://www.gove.digital/dados-abertos/#/primavera-de-rondonia-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
 
-### São Felipe D'Oeste
+### Rio Crespo
 
-- **[Portal de Transparência da Câmara Municipal de São Felipe D'Oeste](http://45.233.222.15/portaltransparencia/)**: http://45.233.222.15/portaltransparencia/
-- **[Portal de Transparência do Município de São Felipe D'Oeste](http://transparencia.saofelipe.ro.gov.br/portaltransparencia/)**: http://transparencia.saofelipe.ro.gov.br/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de Rio Crespo](http://transparencia.camarariocrespo.ro.gov.br/)**: http://transparencia.camarariocrespo.ro.gov.br/
+- **[Portal de Transparência do Município de Rio Crespo](http://transparencia.riocrespo.ro.gov.br/portaltransparencia/)**: http://transparencia.riocrespo.ro.gov.br/portaltransparencia/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/rio-crespo-ro/geral)**: https://www.gove.digital/dados-abertos/#/rio-crespo-ro/geral
+- **Dados na plataforma Transparência Fly**:  indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
+### Rolim de Moura
+
+- **[Portal de Transparência da Câmara Municipal de Rolim de Moura](http://transparencia.rolimdemoura.ro.leg.br/)**: http://transparencia.rolimdemoura.ro.leg.br/
+- **[Portal de Transparência do Município de Rolim de Moura](http://transparencia.rolimdemoura.ro.gov.br/)**: http://transparencia.rolimdemoura.ro.gov.br/
+- **[Portal de plantaforma Gove](https://www.gove.digital/dados-abertos/#/rolim-de-moura-ro/geral)**: https://www.gove.digital/dados-abertos/#/rolim-de-moura-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
+### Santa Luzia D'Oeste
+
+- **[Portal de Transparência da Câmara Municipal de Santa Luzia D'Oeste](http://transparencia.abase.com.br/home/paginaInicial/nmRX5BhveQo=)**: http://transparencia.abase.com.br/home/paginaInicial/nmRX5BhveQo=
+- **[Portal de Transparência do Município de Santa Luzia D'Oeste](http://transparencia.santaluzia.ro.gov.br/)**: http://transparencia.santaluzia.ro.gov.br/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/rolim-de-moura-ro/geral)**: https://www.gove.digital/dados-abertos/#/rolim-de-moura-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
+### São Felipe D´oeste 
+- **[Portal de Transparência da Câmara Municipal de São Felipe D'oeste](https://transparencia.saofelipe.ro.gov.br/)**: https://transparencia.saofelipe.ro.gov.br/
+- **[Portal de Transparência do Município de São Felipe D'oeste](https://www.saofelipedoeste.ro.leg.br/transparencia)**: https://www.saofelipedoeste.ro.leg.br/transparencia
+- **Portal de plataforma Gove**: indisponível em 31/10/2019
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Municipio Online**: indisponível em 31/10/2019
 
 ### São Francisco do Guaporé
 
 - **[Portal da Transparência da Câmara Municipal de São Francisco do Guaporé](http://transparencia.camaradesaofrancisco.ro.gov.br/)**: http://transparencia.camaradesaofrancisco.ro.gov.br/
 - **[Portal de Transparência do Município de São Francisco do Guaporé](http://transparencia.saofrancisco.ro.gov.br/)**: http://transparencia.saofrancisco.ro.gov.br/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/sao-francisco-do-guapore-ro/geral)**: https://www.gove.digital/dados-abertos/#/sao-francisco-do-guapore-ro/geral
+- **Dados de plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados de plataforma Municipio Online**: indisponível em 31/10/2019
+
+### São Miguel do Guaporé
+
+- **[Portal de Transparência da Câmara Municipal de São Miguel do Guaporé](http://transparencia.saomigueldoguapore.ro.leg.br/)**: http://transparencia.saomigueldoguapore.ro.leg.br/
+- **[Portal de Transparência do Município de São Miguel do Guaporé](http://transparencia.saomiguel.ro.gov.br/portaltransparencia/)**: http://transparencia.saomiguel.ro.gov.br/portaltransparencia/
+- **[Portal de plantaforma Gove](https://www.gove.digital/dados-abertos/#/sao-miguel-do-guapore-ro/geral)**: https://www.gove.digital/dados-abertos/#/sao-miguel-do-guapore-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Municipio Online**: indisponível em 31/10/2019
 
 ### Seringueiras
 
 - **[Portal de Transparência da Câmara Municipal de Seringueiras](http://transparencia.camaradeseringueiras.ro.gov.br/)**: http://transparencia.camaradeseringueiras.ro.gov.br/
 - **[Portal de Transparência do Município de Seringueiras](http://transparencia.seringueiras.ro.gov.br/)**: http://transparencia.seringueiras.ro.gov.br/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/seringueiras-ro/geral)**: https://www.gove.digital/dados-abertos/#/seringueiras-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipios Online**: Indisponivel em 31/10/2019
 
 ### Teixeirópolis
 
 - **[Portal de Transparência da Câmara Municipal de Teixeirópolis](http://transparencia.teixeiropolis.ro.leg.br/)**: http://transparencia.teixeiropolis.ro.leg.br/
 - **[Portal de Transparência do Município de Teixeirópolis](http://transparencia.teixeiropolis.ro.gov.br/)**: http://transparencia.teixeiropolis.ro.gov.br/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/teixeiropolis-ro/geral)**: https://www.gove.digital/dados-abertos/#/teixeiropolis-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipios Online**: Indisponivel em 31/10/2019
 
 ### Theobroma
 
 - **[Portal de Transparência da Câmara Municipal de Theobroma](http://transparencia.theobroma.ro.leg.br/)**: http://transparencia.theobroma.ro.leg.br/
 - **[Portal de Transparência do Município de Theobroma](http://transparencia.theobroma.ro.gov.br/portaltransparencia/)**: http://transparencia.theobroma.ro.gov.br/portaltransparencia/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/theobroma-ro/geral)**: https://www.gove.digital/dados-abertos/#/theobroma-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipios Online**: Indisponivel em 31/10/2019
 
 ### Urupá
 
 - **[Portal de Transparência da Câmara Municipal de Urupá](http://transparencia.camaradeurupa.ro.gov.br/)**: http://transparencia.camaradeurupa.ro.gov.br/
 - **[Portal de Transparência do Município de Urupá](http://transparencia.urupa.ro.gov.br/portaltransparencia/)**: http://transparencia.urupa.ro.gov.br/portaltransparencia/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/urupa-ro/geral)**: https://www.gove.digital/dados-abertos/#/urupa-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipios Online**: Indisponivel em 31/10/2019
 
 ### Vale do Anari
 
 - **[Portal de Transparência da Câmara Municipal de Vale do Anari](http://transparencia.camaravaledoanari.ro.gov.br/)**: http://transparencia.camaravaledoanari.ro.gov.br/
 - **[Portal de Transparência do Município de Vale do Anari](http://transparencia.valedoanari.ro.gov.br/portaltransparencia/)**: http://transparencia.valedoanari.ro.gov.br/portaltransparencia/
+- **[Portal de plantaforma Gove](https://www.gove.digital/dados-abertos/#/vale-do-anari-ro/geral)**: https://www.gove.digital/dados-abertos/#/vale-do-anari-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipios Online**: Indisponivel em 31/10/2019
 
 ### Vale do Paraíso
 
 - **[Portal de Transparência da Câmara Municipal de Vale do Paraíso](http://transparencia.camaradevaledoparaiso.ro.gov.br/)**: http://transparencia.camaradevaledoparaiso.ro.gov.br/
 - **[Portal de Transparência do Município de Vale do Paraíso](http://transparencia.camaravaledoanari.ro.gov.br/)**: http://transparencia.camaravaledoanari.ro.gov.br/
+- **[Portal de plataforma Gove](https://www.gove.digital/dados-abertos/#/vale-do-paraiso-ro/geral)**: https://www.gove.digital/dados-abertos/#/vale-do-paraiso-ro/geral
+- **Dados na plataforma Transparência Fly**: Indisponivel em 31/10/2019
+- **Dados na plataforma Municipio Online**: Indisponivel em 31/10/2019
+
+### Vilhena
+
+- **[Portal de Transparência da Câmara Municipal de Vilhena](http://transparencia.vilhena.ro.leg.br/)**: http://transparencia.vilhena.ro.leg.br/
+- **[Portal de Transparência do Município de Vilhena](http://transparencia.vilhena.ro.gov.br/)**: http://transparencia.vilhena.ro.gov.br/
+- **[Portal na plataforma Gove](https://www.gove.digital/dados-abertos/#/vilhena-ro/geral)**: https://www.gove.digital/dados-abertos/#/vilhena-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
