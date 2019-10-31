@@ -86,16 +86,19 @@ title: 'Rondônia'
 - **[Portal de Transparência da Câmara Municipal de Pimenta Bueno](http://transparencia.pimentabueno.ro.leg.br/portaltransparencia/)**: http://transparencia.pimentabueno.ro.leg.br/portaltransparencia/
 - **[Portal de Transparência do Município de Pimenta Bueno](http://transparencia.pimentabueno.ro.gov.br/portaltransparencia/)**: http://transparencia.pimentabueno.ro.gov.br/portaltransparencia/
 
-### Presidente Médici
-
-- **[Portal de Transparência da Câmara Municipal de Presidente Médici](http://transparencia.camaramedici.ro.gov.br/)**: http://transparencia.camaramedici.ro.gov.br/
-- **[Portal de Transparência do Município de Presidente Médici](http://www.transparencia.presidentemedici.ro.gov.br/transparencia/)**: http://www.transparencia.presidentemedici.ro.gov.br/transparencia/
-
 ### Porto Velho
 
 - **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.portovelho.ro.leg.br/)**: http://transparencia.portovelho.ro.leg.br/
 - **[Portal da Transparência do Município de Porto Velho](http://transparencia.portovelho.ro.gov.br/Site/Principal/)**: http://transparencia.portovelho.ro.gov.br/Site/Principal/
 - **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral)**: https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
+
+### Presidente Médici
+
+- **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.camaramedici.ro.gov.br/)**: http://transparencia.camaramedici.ro.gov.br/
+- **[Portal da Transparência do Município de Porto Velho](http://www.transparencia.presidentemedici.ro.gov.br/transparencia/)**: http://www.transparencia.presidentemedici.ro.gov.br/transparencia/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral)**: https://www.gove.digital/dados-abertos/#/presidente-medici-ro/geral
 - **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
 - **Dados na plataforma Município Online**: indisponível em 31/10/2019
 
