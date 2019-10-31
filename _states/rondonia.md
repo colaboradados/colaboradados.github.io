@@ -204,8 +204,8 @@ title: 'Rondônia'
 
 ### Primavera de Rondônia
 
-- **[Portal de Transparência da Câmara Municipal de Primavera de Rondônia](https://web.primavera.ro.gov.br/)**: https://web.primavera.ro.gov.br/
-- **Portal de Transparência do Município de Primavera de Rondônia**: indisponível em 31/10/2019
+- **[Portal de Transparência da Câmara Municipal de Primavera de Rondônia](http://www.primaveraderondonia.ro.leg.br/)**: http://www.primaveraderondonia.ro.leg.br/
+- **[Portal de Transparência do Município de Primavera de Rondônia](http://transparencia.primavera.ro.gov.br/)**: http://transparencia.primavera.ro.gov.br/
 - **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/primavera-de-rondonia-ro/geral)**: https://www.gove.digital/dados-abertos/#/primavera-de-rondonia-ro/geral
 - **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
 - **Dados na plataforma Município Online**: indisponível em 31/10/2019
@@ -235,8 +235,8 @@ title: 'Rondônia'
 - **Dados na plataforma Município Online**: indisponível em 31/10/2019
 
 ### São Felipe D´oeste 
-- **[Portal de Transparência da Câmara Municipal de São Felipe D'oeste](https://transparencia.saofelipe.ro.gov.br/)**: https://transparencia.saofelipe.ro.gov.br/
-- **[Portal de Transparência do Município de São Felipe D'oeste](https://www.saofelipedoeste.ro.leg.br/transparencia)**: https://www.saofelipedoeste.ro.leg.br/transparencia
+- **[Portal de Transparência da Câmara Municipal de São Felipe D'oeste](https://www.saofelipedoeste.ro.leg.br/transparencia)**: https://www.saofelipedoeste.ro.leg.br/transparencia
+- **[Portal de Transparência do Município de São Felipe D'oeste](https://transparencia.saofelipe.ro.gov.br/)**: https://transparencia.saofelipe.ro.gov.br/
 - **Portal de plataforma Gove**: indisponível em 31/10/2019
 - **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
 - **Dados na plataforma Municipio Online**: indisponível em 31/10/2019
