@@ -50,38 +50,26 @@ Pré-requisitos:
 - [**GitBash**](https://gitforwindows.org/)
 
 Baixe as ferramentas nos links acima e siga os formatos padrões de instalação.
-Ao fim,  abra o GitBash e instale o Bundler com o comando:
-
+Ao fim,  abra o GitBash e instale o jekyll e o Bundler com o comando:
 ```
 $ gem install jekyll bundler
 ```
-
 #### Rodando o projeto
 
 1. No Gitbash, clone o repositório digitando:
-
     ```
     $ git clone https://github.com/colaboradados/colaboradados.github.io.git
     ```
-1. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador.
-
-1. Digite no GitBash:
-
+1. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador:
+    ```
+    $ cd colaboradados.github.io
+    ```
+1. Instale as dependências e execute o sevidor:
      ```
     $ bundle install
-     ```
-
-    Logo em seguida:
-
-    ```
+    
     $ bundle exec jekyll serve
     ```
-
-   Caso não tenha dado nenhum erro, pule para a etapa **5**.
-1. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva:
-    ```$ touch Gemfile```
-    no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo: `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
-   Se tudo deu certo, prossiga para a etapa **5**.
 1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
 
 ### Linux Ubuntu
