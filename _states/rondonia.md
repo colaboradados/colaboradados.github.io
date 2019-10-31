@@ -95,6 +95,9 @@ title: 'Rondônia'
 
 - **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.portovelho.ro.leg.br/)**: http://transparencia.portovelho.ro.leg.br/
 - **[Portal da Transparência do Município de Porto Velho](http://transparencia.portovelho.ro.gov.br/Site/Principal/)**: http://transparencia.portovelho.ro.gov.br/Site/Principal/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral)**: https://www.gove.digital/dados-abertos/#/porto-velho-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
 
 ### Rio Crespo
 
