@@ -40,7 +40,7 @@ collections:
     output: true
   publieditoriais:
     output: true
-  newsletter: 
-    output: true
+  newsletter:
+    output: false
   reportagens:
     output: true
