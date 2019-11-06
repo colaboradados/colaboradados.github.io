@@ -15,7 +15,7 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 ![fotografia de Ana Paula]({{ site.url }}{{ site.baseurl }}/images/ana.png?style=centerme)
 
-[Ana Paula Mendes](https://anapaulamendes.github.io/) é desenvolvedora full-stack do **Colaboradados**. Bacharelanda em Ciência da Computação na Universidade Federal do Piauí. Técnica em Desenvolvimento de Software pelo Instituto Federal do Piauí. Apaixonada por computação desde os 10 anos de idade quando fez seu primeiro curso de Linux. Atualmente trabalha remotamente como desenvolvedora full-stack na [Quiploy](https://www.quiploy.com/). Ama aprender e encontrou no Colaboradados a oportunidade de aplicar seu conhecimento para ajudar outras pessoas e aprender mais ainda. Reside em Teresina, capital do Piauí.
+[Ana Paula Mendes](https://anapaulamendes.github.io/) é líder técnica e desenvolvedora do **Colaboradados**. Bacharelanda em Ciência da Computação na Universidade Federal do Piauí. Técnica em Desenvolvimento de Software pelo Instituto Federal do Piauí. Apaixonada por computação desde a infância, aos 10 anos de idade fez seu primeiro curso de Linux. Trabalha remotamente como desenvolvedora full-stack na [Quiploy](https://www.quiploy.com/). É aluna de iniciação científica no laboratório de Inteligência Artificial do Departamento de Computação da UFPI. Foi bolsista do Instituto Anita Borg na Grace Hopper Celebration 2019, a maior conferência do mundo de mulheres na tecnologia. Entusiasta open source, de comunidades e mentora de programação para mulheres. Reside em Teresina, capital do Piauí.
 
 ![fotografia de Letícia Silva]({{ site.url }}{{ site.baseurl }}/images/leticia.png?style=centerme)
 
