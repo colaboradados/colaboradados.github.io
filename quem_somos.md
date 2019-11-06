@@ -7,11 +7,11 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 ![fotografia de Judite Cypreste]({{ site.url }}{{ site.baseurl }}/images/judite.png?style=centerme)
 
-[Judite Cypreste](https://judite.dev/) é a fundadora e diretora do **Colaboradados**, e apresentadora do podcast **Coluna7**. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal Folha de S.Paulo e da agência de checagem Aos Fatos. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o **Colaboradados**. Atualmente é Jornalista de Dados na UOL em São Paulo.
+[Judite Cypreste](https://judite.dev/) é diretora executiva e cofundadora do **Colaboradados** e apresentadora do podcast **Coluna7**. Atualmente é jornalista de dados no UOL. Formada em Letras pela PUC-Rio e pós-graduada em Jornalismo Cultural pela UERJ. É jornalista especializada em dados e política, e já passou pelas redações do jornal *Folha de S.Paulo* e da agência de checagem *Aos Fatos*. É entusiasta do uso da programação no jornalismo e de projetos que promovam impacto positivo na sociedade, como o **Colaboradados**. Judite vive em São Paulo.
 
 ![fotografia de João Ernane]({{ site.url }}{{ site.baseurl }}/images/joao.png?style=centerme)
 
-[João Ernane](https://twitter.com/ChofenAdulto) é co-fundador e co-diretor do **Colaboradados**. Formado em Direito pela Universidade Federal de Uberlândia e pós-graduando em Business Intelligence & Analytics pela PUC-MG, encontrou-se desde cedo atraído pela tecnologia. Tentando fazer desta uma aliada no combate contra a desinformação, viu no **Colaboradados** uma oportunidade de produzir e, principalmente, utilizar as técnicas científicas no âmbito jurídico. Atualmente vive em Minas Gerais.
+[João Ernane](https://twitter.com/o_jovemadulto) é diretor de inovação e cofundador do **Colaboradados** e editor do podcast **Coluna7**. Formado em Direito pela Universidade Federal de Uberlândia e pós-graduando em Business Intelligence & Analytics pela PUC-MG, encontrou-se desde cedo atraído pela tecnologia. Tentando fazer desta uma aliada no combate contra a desinformação, viu no **Colaboradados** uma oportunidade de produzir e, principalmente, utilizar as técnicas científicas no âmbito jurídico. Atualmente vive em Minas Gerais.
 
 ![fotografia de Ana Paula]({{ site.url }}{{ site.baseurl }}/images/ana.png?style=centerme)
 
@@ -19,7 +19,7 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 ![fotografia de Letícia Silva]({{ site.url }}{{ site.baseurl }}/images/leticia.png?style=centerme)
 
-[Letícia Silva](https://leticiadasilva.github.io/) é apresentadora do podcast **Coluna7**. Graduanda em Ciência da Computação e estudante de iniciação científica no INPE (Instituto Nacional de Pesquisas Espaciais). É colaboradora no IEAv, organizadora do PyLadies, Django Girls, Devs JavaGirl e Women Techmakers de São José dos Campos, e contribui com iniciativas como o Elas Programam e Reprograma. Acredita que programar transforma vidas. Letícia mora em São Paulo.
+[Letícia Silva](https://leticiadasilva.github.io/) é diretora e apresentadora do podcast **Coluna7** e consultora de data science do **Colaboradados**. Graduanda em Ciência da Computação, é data platform consultant na Dataside e estudante de iniciação científica no INPE (Instituto Nacional de Pesquisas Espaciais). É colaboradora no IEAv, organizadora do PyLadies, Django Girls, Devs JavaGirl e Women Techmakers de São José dos Campos, e contribui com iniciativas como o Elas Programam e Reprograma. Acredita que programar transforma vidas. Letícia mora em São José dos Campos.
 
 ![fotografia de Bruno Morassutti]({{ site.url }}{{ site.baseurl }}/images/bruno.png?style=centerme)
 
