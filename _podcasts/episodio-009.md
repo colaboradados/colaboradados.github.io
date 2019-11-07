@@ -15,7 +15,7 @@ Ouça já este episódio e descubra tudo que queria saber, o que não queria sab
 
 
 ### Escute agora!
-<iframe src="$PLACEHOLDER$" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-009---Aprendendo-a-Ensinar-e8rtem" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
