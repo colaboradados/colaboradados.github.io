@@ -194,6 +194,8 @@ title: 'Rio de Janeiro'
 ### NITERÓI
 
 - **[Prefeitura de Niterói](http://portais.niteroi.rj.gov.br/portal-da-transparencia/)**: http://portais.niteroi.rj.gov.br/portal-da-transparencia/
+- **[Geoportal Civitas](https://geo.niteroi.rj.gov.br/civitasgeoportal/)**: https://geo.niteroi.rj.gov.br/civitasgeoportal/
+- **[Observatório de Indicadores](http://observa.niteroi.rj.gov.br/)**: http://observa.niteroi.rj.gov.br/
 
 ### NOVA FRIBURGO
 
