@@ -54,7 +54,7 @@ tags:
 
 ### BAHIA
 
-- **[Diário Oficial do Estado da Bahia](hhttp://diarios.egba.ba.gov.br/html/_DODia/DO_frm0.html)**: http://diarios.egba.ba.gov.br
+- **[Diário Oficial do Estado da Bahia](http://diarios.egba.ba.gov.br/html/_DODia/DO_frm0.html)**: http://diarios.egba.ba.gov.br
 - **[Governo do Estado da Bahia](http://www.transparencia.ba.gov.br/)**: http://www.transparencia.ba.gov.br/
 
 ### CEARÁ
