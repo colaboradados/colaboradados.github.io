@@ -47,21 +47,30 @@ Pré-requisitos:
 Pré-requisitos:
 
 - [**Ruby**](https://rubyinstaller.org/)
-- [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
 
-Siga os formatos padrões de instalação.
-Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `gem install jekyll bundler`.
-
+Baixe as ferramentas nos links acima e siga os formatos padrões de instalação.
+Ao fim,  abra o GitBash e instale o jekyll e o Bundler com o comando:
+```
+$ gem install jekyll bundler
+```
 #### Rodando o projeto
 
-1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
-   Caso não tenha dado nenhum erro, pule para a etapa **5**.
-4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
-   Se tudo deu certo, prossiga para a etapa **5**.
-5. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
+1. No Gitbash, clone o repositório digitando:
+    ```
+    $ git clone https://github.com/colaboradados/colaboradados.github.io.git
+    ```
+1. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador:
+    ```
+    $ cd colaboradados.github.io
+    ```
+1. Instale as dependências e execute o sevidor:
+     ```
+    $ bundle install
+    
+    $ bundle exec jekyll serve
+    ```
+1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
 
 ### Linux Ubuntu
 
@@ -70,19 +79,54 @@ Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `ge
 Pré-requisitos:
 
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
-- [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
-- [**GitBash**](https://git-scm.com/download/linux)
+- [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
-2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependências que são requeridas para rodar o projeto.
-3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
-4. Instale também o Git, digite `$ sudo apt-get install git`
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de pacotes digite:
+
+    ```
+    $ sudo apt update
+    ```
+
+2. Após a atualização da lista de repositórios, instale o Ruby e dependências que são requeridas para rodar o projeto digitando:
+
+    ```
+    $ sudo apt install ruby-full build-essential zlib1g-dev
+    ``` 
+
+3. Após a instalação do Ruby, digite:
+
+    ```
+    $ gem install jekyll bundler
+    ```
+
+4. Instale também o Git, digite:
+
+    ```
+    $ sudo apt install git
+    ```
 
 #### Rodando o projeto
 
-1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
+1. Clone o repositório digitando no Gitbash:
+
+    ```
+    $ git clone https://github.com/colaboradados/colaboradados.github.io.git
+    ```
+
+2. Vá até a pasta onde você clonou o repositório em seu computador: 
+
+    ```
+    $ cd colaboradados.github.io
+    ```
+
+3. Instale as dependências e em seguinda execute o servidor:
+
+    ```
+    $ bundle install
+
+    $ bundle exec jekyll serve
+    ```
+
 4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
 
 ### Mac
