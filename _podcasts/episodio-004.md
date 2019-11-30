@@ -59,7 +59,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Equipe Coluna7
 
-- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
+- Edição – [João Ernane](https://twitter.com/o_jovemadulto)
 - Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
