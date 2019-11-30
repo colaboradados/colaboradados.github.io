@@ -21,6 +21,7 @@ logo-image-url: images/colaboradados.png
 github_username: colaboradados
 twitter_username: colaboradados
 instagram_username: colaboradados
+newsletter_url: "https://github.us20.list-manage.com/subscribe?u=153a8257b506eca67ff68dc51&id=efe258b650"
 
 # Build settings
 markdown: kramdown
@@ -39,7 +40,7 @@ collections:
     output: true
   publieditoriais:
     output: true
-  newsletter: 
-    output: true
+  newsletter:
+    output: false
   reportagens:
     output: true

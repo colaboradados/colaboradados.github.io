@@ -1,61 +1,116 @@
 # Colaboradados
 
-
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
 O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
 
-## No Windows
-### Instalando
+---
 
-Vamos precisar de:
+## Stack
+
+- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas
+- [SCSS][https://sass-lang.com/] para estilos
+
+---
+
+## Índice
+
+- Instalação
+  - [Docker](#docker)
+  - [Windows](#windows)
+  - [Linux Ubuntu](#linux-ubuntu)
+  - [Mac](#mac)
+- [Indexando a busca no Algolia](#indexando-a-busca-no-Algolia)
+- [Colaborando com a bases de dados](#colaborando-com-a-bases-de-dados)
+- [Créditos](#créditos)
+- [The MIT License (MIT)](<#the-mit-license-(mit)>)
+
+---
+
+## Instalação
+
+### Docker
+
+Para que prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível.
+
+Pré-requisitos:
+
+- [docker](https://www.docker.com/)
+- [docker-compose](https://docs.docker.com/compose/)
+
+#### Rodando o projeto
+
+`docker-compose up`
+
+### Windows
+
+Pré-requisitos:
+
 - [**Ruby**](https://rubyinstaller.org/)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
 
-Siga os formatos padrões de instalação. Ao fim, não se esqueça de abrir o GitBash e escrever `gem install jekyll bundler` para instalar o Bundler.
+Siga os formatos padrões de instalação.
+Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `gem install jekyll bundler`.
 
-### Abrindo
+#### Rodando o projeto
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.
-
-Caso não tenha dado nenhum erro, pule para a etapa **5**.
-
-4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto. Você poderá abrir com o **Bloco de Notas**. Escreva dentro do arquivo `source "https://rubygems.org"
-gem "jekyll"
-gem "jekyll-gist"`
-Se tudo deu certo, prossiga para a etapa **5**.
-
+2. Pela linha de comand, vá até a pasta onde você clonou o repositório em seu computador.
+3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
+   Caso não tenha dado nenhum erro, pule para a etapa **5**.
+4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
+   Se tudo deu certo, prossiga para a etapa **5**.
 5. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
 
-## No Linux Ubuntu
-### Instalando
+### Linux Ubuntu
 
-Vamos precisar de:
+#### Instalando
+
+Pré-requisitos:
+
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**GitBash**](https://git-scm.com/download/linux)
-
 
 1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
 2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependencias que são requeridas para rodar o projeto.
 3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
 4. Instale tambem o Git, digite `$ sudo apt-get install git`
 
-### Abrindo
+#### Rodando o projeto
 
 1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
 2. Vá até a pasta onde você clonou o repositório em seu computador.
 3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
-3. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
+4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
 
-## Usando o docker
+### Mac
 
-Uma outra opção, para quem não deseja instalar o Ruby nem o Jekyll na máquina, é usar o [Docker](https://www.docker.com/). Para isso, só é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível. Para tanto, além do Docker, é necessário usar o [docker-compose](https://docs.docker.com/compose/). Tendo os dois instalados, é só rodar o comando `docker-compose up`.
+O Mac já possui tanto o git quanto o ruby por padrão, necessitando a instalação apenas do Bundler e do Jekyll.
 
-## Indexando a busca no Algolia
+`gem install --user-install bundler jekyll`
+
+#### Rodando o projeto
+
+No seu terminal:
+
+```
+# Clone o repositório
+$ git clone https://github.com/colaboradados/colaboradados.github.io.git
+# Entre na pasta do projeto
+$ cd colaboradados.github.io
+# Instale as dependências (só precisa fazer isso na primeira vez)
+$ bundle install
+# Rode o servidor local
+$ bundle exec jekyll serve
+```
+
+Abra o seu navegador e vá para `http://localhost:4000/`.
+
+---
+
+### Indexando a busca no Algolia
 
 Para carregar o índice corretamente defina as variáveis abaixos no `_config.yml`:
 
@@ -72,9 +127,14 @@ Depois execute o comando:
 $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 ```
 
-## Colaborando com a bases de dados (e sendo uma pessoa muito legal)
+---
 
-O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em Markdown e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+## Colaborando com a bases de dados
+
+O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+Se tiver dúvidas, entre em contato conosco.
+
+---
 
 ## Créditos
 
@@ -82,7 +142,21 @@ Este projeto foi desenvolvido por [Judite Cypreste](https://juditecypreste.githu
 
 O site foi desenvolvido com design de [HTML5 UP](http://html5up.net), com integração ao Jekyll de [Andrew Banchich](https://github.com/andrewbanchich/phantom-jekyll-theme).
 
+---
+
 ## The MIT License (MIT)
+
+### Português (tradução livre)
+
+Copyright (c) 2019 Judite Cypreste
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar com o software sem restrições, incluindo, sem limitação, os direitos de uso, cópia, modificação, merge, publicar, distribuir, sublicenciar e / ou vender cópias do Software e permitir que as pessoas a quem o software é fornecido o façam, sob as seguintes condições:
+
+A declaração de direitos autorais acima e esta permissão devem ser incluídos em todas as cópias ou partes substanciais do software.
+
+O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO INFRACÇÃO. EM NENHUM CASO OS AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, FORA DE OU RELACIONADO AO SOFTWARE OU O USO DE PROUTOS.
+
+### Inglês (original)
 
 Copyright (c) 2019 Judite Cypreste
 

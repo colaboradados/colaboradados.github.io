@@ -5,11 +5,10 @@
             <span class="image">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/colaboradados.png" alt="" />
             </span>
-            <a href="{{ newsletter.url | prepend:site.baseurl | prepend:site.url }}">
+            <a href="{{ newsletter.link }}">
                 <h2>{{ newsletter.title }}</h2>
-                <div class="content">
-                    <h5>{{ newsletter.author }}</h5>
-                </div>
+                <br/>
+                <h5>{{ newsletter.author }}</h5>
             </a>
         </article>
     {% endfor %}
