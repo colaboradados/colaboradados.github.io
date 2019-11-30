@@ -21,7 +21,7 @@ Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do
 ### Contato dos participantes deste episódio: 
 - Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
 - Ana Paula Mendes: [@ananoterminal](https://www.twitter.com/ananoterminal)
-- João Ernane: [@o_jovemadulto](https://twitter.com/o_jovemadulto)
+- João Ernane: [@chofenadulto](https://www.twitter.com/chofenadulto)
 - Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
 
 ### Não se esqueçam de nos acompanhar nas redes sociais:
@@ -32,7 +32,7 @@ Reportagem de Aos Fatos sobre a exclusão do Portal da Transparência da Copa do
 
 ### Equipe Coluna7
 
-- Edição – [João Ernane](https://twitter.com/o_jovemadulto)
+- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
 - Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:

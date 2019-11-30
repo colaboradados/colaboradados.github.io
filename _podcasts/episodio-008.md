@@ -32,7 +32,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 - Letícia Silva: [@dii_lua](https://www.twitter.com/dii_lua)
 - Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
 - Rodrigo Menegat: [@RodrigoMenegat](https://twitter.com/RodrigoMenegat)
-- João Ernane: [@o_jovemadulto](https://twitter.com/o_jovemadulto)
+- João Ernane: [@ChofenAdulto](https://twitter.com/ChofenAdulto)
 
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 - Twitter: [@colaboradados](https://twitter.com/colaboradados)
@@ -48,7 +48,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 
 ### Equipe Coluna7
 
-- Edição – [João Ernane](https://twitter.com/o_jovemadulto)
+- Edição – [João Ernane](https://twitter.com/ChofenAdulto)
 - Apresentadoras - [Judite Cypreste](https://twitter.com/juditecypreste) e [Letícia Silva](https://twitter.com/dii_lua)
 
 ### Créditos:
