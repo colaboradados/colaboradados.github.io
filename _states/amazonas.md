@@ -172,7 +172,7 @@ Se a cidade possuir um site à parte, este será colocado. Caso não possua, o s
 
 ### NHAMUNDÁ
 
-- **[Prefeitura Municipal de Nhamundá](http://perseusdata.com/PMnhamunda/)**: http://perseusdata.com/PMnhamunda/
+- **[Prefeitura Municipal de Nhamundá](http://nhamunda.portaldatransparencia.org/)**: http://nhamunda.portaldatransparencia.org/
 
 ### NOVA OLINDA DO NORTE
 
@@ -248,7 +248,7 @@ Se a cidade possuir um site à parte, este será colocado. Caso não possua, o s
 
 ### URUCARÁ
 
-- **[Prefeitura Municipal de Urucará](http://www.transparencia-am.com.br/URUCARA/PM/urucara.php)**: http://www.transparencia-am.com.br/URUCARA/PM/urucara.php
+- **[Prefeitura Municipal de Urucará](https://www.urucara.am.gov.br/portal-da-transparencia/)**: https://www.urucara.am.gov.br/portal-da-transparencia/
 
 ### URUCURITUBA
 

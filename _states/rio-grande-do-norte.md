@@ -69,7 +69,7 @@ title: 'Rio Grande do Norte'
 
 ### Baraúna
 
--  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Baraúna](http://177.129.40.82:8080/transparencia/leiacessoinf.aspx)**: http://177.129.40.82:8080/transparencia/leiacessoinf.aspx
 
 - **[Dados Abertos do Município de Baraúna](https://www.gove.digital/dados-abertos/#/barauna-rn/geral)**: https://www.gove.digital/dados-abertos/#/barauna-rn/geral
 
@@ -185,7 +185,7 @@ title: 'Rio Grande do Norte'
 
 ### Extremoz
 
--  **[Portal da Transparência do Município de Extremoz](http://extremoz.rn.gov.br/portal-da-transparencia/)**: http://extremoz.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência do Município de Extremoz](https://extremoz.rn.gov.br/transparencia/)**: https://extremoz.rn.gov.br/transparencia/
 
 - **[Dados Abertos do Município de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
 
@@ -533,7 +533,7 @@ title: 'Rio Grande do Norte'
 
 ### Santana do Seridó
 
--  **[Portal da Transparência do Município de Santana do Seridó](http://pmsantanadoserido.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6834490)**: http://pmsantanadoserido.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6834490
+-  **[Portal da Transparência do Município de Santana do Seridó](https://www.governotransparente.com.br/6834490)**: https://www.governotransparente.com.br/6834490
 
 ### Santo Antônio
 
@@ -589,7 +589,7 @@ title: 'Rio Grande do Norte'
 
 ### São Pedro
 
--  **[Portal da Transparência do Município de São Pedro](http://transparenciabr.sytes.net/PMSAOPEDRORN/)**: http://transparenciabr.sytes.net/PMSAOPEDRORN/
+-  **[Portal da Transparência do Município de São Pedro](http://177.36.11.49:8079/Transparencia/)**: http://177.36.11.49:8079/Transparencia/
 
 ### São Rafael
 
@@ -597,7 +597,7 @@ title: 'Rio Grande do Norte'
 
 ### São Tomé
 
--  **[Portal da Transparência do Município de São Tomé](http://prefeituramunicipaldesaotome.rn.gov.br/incorporar?link=https:%2F%2Fgovernotransparente.com.br%2F6862488?clean=true)**: http://prefeituramunicipaldesaotome.rn.gov.br/incorporar?link=https:%2F%2Fgovernotransparente.com.br%2F6862488?clean=true
+-  **[Portal da Transparência do Município de São Tomé](http://governotransparente.com.br/6862488)**: http://governotransparente.com.br/6862488
 
 ### São Vicente
 
@@ -609,7 +609,7 @@ title: 'Rio Grande do Norte'
 
 ### Senador Georgino Avelino
 
--  **[Portal da Transparência do Município de Senador Georgino Avelino](http://pmsenadorgeorginoavelino.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6867488?clean=true)**: http://pmsenadorgeorginoavelino.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6867488?clean=true
+-  **[Portal da Transparência do Município de Senador Georgino Avelino](https://www.governotransparente.com.br/6867488)**: https://www.governotransparente.com.br/6867488
 
 ### Serra Caiada
 
@@ -617,11 +617,11 @@ title: 'Rio Grande do Norte'
 
 ### Serra de São Bento
 
--  **[Portal da Transparência do Município de Serra de São Bento](http://serradesaobento.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6869490)**: http://serradesaobento.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6869490
+-  **[Portal da Transparência do Município de Serra de São Bento](https://www.governotransparente.com.br/6869490)**: https://www.governotransparente.com.br/6869490
 
 ### Serra do Mel
 
--  **[Portal da Transparência do Município de Serra do Mel](http://serradomel.rn.gov.br/incorporar?link=http:%2F%2Ftopdown.servehttp.com:8080%2FTransparencia%2Fpmserramel%2Fdespesas.aspx)**: http://serradomel.rn.gov.br/incorporar?link=http:%2F%2Ftopdown.servehttp.com:8080%2FTransparencia%2Fpmserramel%2Fdespesas.aspx
+-  **[Portal da Transparência do Município de Serra do Mel](http://topdown.servehttp.com:8080/Transparencia/pmserramel/despesas.aspx)**: http://topdown.servehttp.com:8080/Transparencia/pmserramel/despesas.aspx
 
 ### Serra Negra do Norte
 
@@ -645,7 +645,7 @@ title: 'Rio Grande do Norte'
 
 ### Taboleiro Grande
 
--  **[Portal da Transparência do Município de Taboleiro Grande](https://transparencia.layoutsistemas.com.br/)**: https://transparencia.layoutsistemas.com.br/
+-  **[Portal da Transparência do Município de Taboleiro Grande](http://www.taboleirogrande.rn.gov.br/acessoainformacao.php)**: http://www.taboleirogrande.rn.gov.br/acessoainformacao.php
 
 ### Taipu
 
@@ -681,11 +681,11 @@ title: 'Rio Grande do Norte'
 
 ### Triunfo Potiguar
 
--  **[Portal da Transparência do Município de Triunfo Potiguar](http://triunfopotiguar.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6897488)**: http://triunfopotiguar.rn.gov.br/incorporar?link=http:%2F%2Fgovernotransparente.com.br%2F6897488
+-  **[Portal da Transparência do Município de Triunfo Potiguar](http://triunfopotiguar.rn.gov.br/#!/acesso-a-informacao)**: http://triunfopotiguar.rn.gov.br/#!/acesso-a-informacao
 
 ### Umarizal
 
--  **[Portal da Transparência do Município de Umarizal](http://umarizal.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6899488)**: http://umarizal.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6899488
+-  **[Portal da Transparência do Município de Umarizal](http://www.governotransparente.com.br/6899488)**: http://www.governotransparente.com.br/6899488
 
 ### Upanema
 
@@ -701,7 +701,7 @@ title: 'Rio Grande do Norte'
 
 ### Vera Cruz
 
--  **[Portal da Transparência do Município de Vera Cruz](http://veracruz.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6906490)**: http://veracruz.rn.gov.br/incorporar?link=http:%2F%2Fwww.governotransparente.com.br%2F6906490
+-  **[Portal da Transparência do Município de Vera Cruz](http://www.governotransparente.com.br/6906490)**: http://www.governotransparente.com.br/6906490
 
 ### Viçosa
 

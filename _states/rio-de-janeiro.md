@@ -9,7 +9,7 @@ title: 'Rio de Janeiro'
 
 ### APERIBÉ
 
-- **[Prefeitura de Aperibé](http://www.aperibe.rj.gov.br/portal)**: http://www.aperibe.rj.gov.br/portal
+- **[Prefeitura de Aperibé](http://transparencia.aperibe.rj.gov.br/)**: http://transparencia.aperibe.rj.gov.br/
 
 ### ARARUAMA
 
@@ -21,7 +21,7 @@ title: 'Rio de Janeiro'
 
 ### ARMAÇÃO DOS BÚZIOS
 
-- **[Prefeitura de Armação dos Búzios](http://www.buzios.rj.gov.br/transparencia/Default)**: http://www.buzios.rj.gov.br/transparencia/Default
+- **[Prefeitura de Armação dos Búzios](http://transparencia.buzios.rj.gov.br/)**: http://transparencia.buzios.rj.gov.br/
 
 ### ARRAIAL DO CABO
 
@@ -129,11 +129,11 @@ title: 'Rio de Janeiro'
 
 ### ITAOCARA
 
-- **[Prefeitura de Itaocara](http://itaocara.rj.gov.br/transparencia/)**: http://itaocara.rj.gov.br/transparencia/
+- **[Prefeitura de Itaocara](http://143.208.110.18:8079/transparencia/)**: http://143.208.110.18:8079/transparencia/
 
 ### ITAPERUNA
 
-- **[Prefeitura de Itaperuna](http://177.223.12.122:81/pronimtb/)**: http://177.223.12.122:81/pronimtb/
+- **[Prefeitura de Itaperuna](http://186.208.242.228:81/pronimtb/)**: http://186.208.242.228:81/pronimtb/
 
 ### ITATIAIA
 
@@ -192,8 +192,8 @@ title: 'Rio de Janeiro'
 - **[Prefeitura de Nilópolis](http://nilopolis.rj.gov.br/site/transparencia/)**: http://nilopolis.rj.gov.br/site/transparencia/
 
 ### NITERÓI
-
-- **[Geoportal Civitas](https://geo.niteroi.rj.gov.br/civitasgeoportal/)**: https://geo.niteroi.rj.gov.br/civitasgeoportal/
+- **[Dados Abertos](http://dados-geoniteroi.opendata.arcgis.com/)**: http://dados-geoniteroi.opendata.arcgis.com/
+- **[Geoportal Civitas](http://www.sigeo.niteroi.rj.gov.br/sigeo/)**: http://www.sigeo.niteroi.rj.gov.br/sigeo/
 - **[Observatório de Indicadores](http://observa.niteroi.rj.gov.br/)**: http://observa.niteroi.rj.gov.br/
 - **[Prefeitura de Niterói](http://portais.niteroi.rj.gov.br/portal-da-transparencia/)**: http://portais.niteroi.rj.gov.br/portal-da-transparencia/
 
@@ -203,7 +203,7 @@ title: 'Rio de Janeiro'
 
 ### NOVA IGUAÇU
 
-- **[Prefeitura de Nova Iguaçu](http://dstec01.cloudapp.net/esiclivre/)**: http://dstec01.cloudapp.net/esiclivre/
+- **[Prefeitura de Nova Iguaçu](http://dstec.info/esiclivre/)**: http://dstec.info/esiclivre/
 
 ### PARACAMBI
 
@@ -243,11 +243,11 @@ title: 'Rio de Janeiro'
 
 ### QUATIS
 
-- **[Prefeitura de Quatis](transparencia.quatis.rj.gov.bcr)**: transparencia.quatis.rj.gov.bcr
+- **[Prefeitura de Quatis](http://transparencia.quatis.rj.gov.br/)**: http://transparencia.quatis.rj.gov.br/
 
 ### QUEIMADOS
 
-- **[Prefeitura de Queimados](http://semad.queimados.rj.gov.br/)**: http://semad.queimados.rj.gov.br/
+- **[Prefeitura de Queimados](http://queimados.rj.gov.br/portal/transparencia)**: http://queimados.rj.gov.br/portal/transparencia
 
 ### QUISSAMÃ
 

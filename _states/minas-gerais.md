@@ -30,7 +30,7 @@ title: 'Minas Gerais'
 
 ### Japonvar
 
-- **[Portal da Transparência do Município de Japonvar](https://japonvar.mg.gov.br/transparencia/)**: https://japonvar.mg.gov.br/transparencia/
+- **[Portal da Transparência do Município de Japonvar](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=Japonvar)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=Japonvar
 
 ### Juiz de Fora
 
@@ -50,12 +50,12 @@ title: 'Minas Gerais'
 
 ### Porteirinha
 
-**[Portal da Transparência do Município de Porteirinha](http://lai.memory.com.br/pagina-inicial)**: http://lai.memory.com.br/pagina-inicial
+**[Portal da Transparência do Município de Porteirinha](http://lai.memory.com.br/entidades/login/9CJZDH)**: http://lai.memory.com.br/entidades/login/9CJZDH
 
 ### Serranópolis de Minas
 
-**[Portal da Transparência do Município de Serranópolis de Minas](http://lai.memory.com.br/pagina-inicial)**:
-http://lai.memory.com.br/pagina-inicial
+**[Portal da Transparência do Município de Serranópolis de Minas](http://lai.memory.com.br/entidades/login/9E0P1H)**:
+http://lai.memory.com.br/entidades/login/9E0P1H
 
 ### Riacho dos Machados
 
@@ -63,7 +63,7 @@ http://lai.memory.com.br/pagina-inicial
 
 ### Ribeirão das Neves
 
-- **[Portal da Transparência do Município de Ribeirão das Neves](http://www.ribeiraodasneves.mg.gov.br/transparencia)**: http://www.ribeiraodasneves.mg.gov.br/transparencia
+- **[Portal da Transparência do Município de Ribeirão das Neves](http://177.66.208.54:8090/contaspublicas/)**: http://177.66.208.54:8090/contaspublicas/
 
 ### Uberaba
 
@@ -71,4 +71,4 @@ http://lai.memory.com.br/pagina-inicial
 
 ### Uberlândia
 
-- **[Portal da Transparência do Município de Uberlândia](http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879)**: http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879
+- **[Portal da Transparência do Município de Uberlândia](https://www.uberlandia.mg.gov.br/portal-da-transparencia/)**: https://www.uberlandia.mg.gov.br/portal-da-transparencia/

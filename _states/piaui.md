@@ -5,11 +5,11 @@ title: 'Piauí'
 
 ### Boqueirão do Piauí
 
-- **[Portal da Transparência do Município de Boqueirão do Piauí](http://www.boqueiraodopiaui.pi.gov.br/boqueiraodopiaui/)**: http://www.boqueiraodopiaui.pi.gov.br/boqueiraodopiaui/
+- **[Portal da Transparência do Município de Boqueirão do Piauí](http://transparencia.boqueiraodopiaui.pi.gov.br/boqueiraodopiaui)**: http://transparencia.boqueiraodopiaui.pi.gov.br/boqueiraodopiaui
 
 ### Campo Maior
 
-- **[Portal da Transparência do Município de Campo Maior](http://200.98.143.125:8080/portaltransparencia)**: http://200.98.143.125:8080/portaltransparencia
+- **[Portal da Transparência do Município de Campo Maior](http://200.98.143.125:8080/portaltransparencia/faces/index.xhtml?p=CAMPO_MAIOR)**: http://200.98.143.125:8080/portaltransparencia/faces/index.xhtml?p=CAMPO_MAIOR
 
 ### Jatobá do Piauí
 

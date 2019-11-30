@@ -5,7 +5,7 @@ title: 'Ceará'
 
 ### Caucaia
 
-- **[Portal da Transparência do Município de Caucaia](http://www.caucaia.ce.gov.br/transparencia.php)**: http://www.caucaia.ce.gov.br/transparencia.php
+- **[Portal da Transparência do Município de Caucaia](http://www.caucaia.ce.gov.br/index.php?tabela=pagina&acao=transparencia)**: http://www.caucaia.ce.gov.br/index.php?tabela=pagina&acao=transparencia
 
 ### Fortaleza
 

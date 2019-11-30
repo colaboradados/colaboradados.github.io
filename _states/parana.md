@@ -17,7 +17,7 @@ title: 'Paraná'
 
 ### Maringá
 
-- **[Portal da Transparência do Município de Maringá](http://venus.maringa.pr.gov.br:9900/portaltransparencia/)**: http://venus.maringa.pr.gov.br:9900/portaltransparencia/
+- **[Portal da Transparência do Município de Maringá](http://venus.maringa.pr.gov.br:8090/portaltransparencia/)**: http://venus.maringa.pr.gov.br:8090/portaltransparencia/
 
 ### Ponta Grossa
 

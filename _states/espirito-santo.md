@@ -25,7 +25,7 @@ title: 'Espírito Santo'
 
 ### Vila Velha
 
-- **[Portal da Transparência do Município de Vila Velha](http://www.vilavelha.es.gov.br/transparencia/)**: http://www.vilavelha.es.gov.br/transparencia/
+- **[Portal da Transparência do Município de Vila Velha](http://transparencia.vilavelha.es.gov.br/transparenciaweb/)**: http://transparencia.vilavelha.es.gov.br/transparenciaweb/
 
 ### Vitória
 

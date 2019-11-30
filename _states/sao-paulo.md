@@ -33,7 +33,7 @@ title: 'São Paulo'
 
 ### Itanhaém
 
--   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portal_transparencia/)**: http://www2.itanhaem.sp.gov.br/portal_transparencia/
+-   **[Portal da Transparência do Município de Itanhaém](https://portaltransparencia.sistemas4r.com.br/wpportal.aspx?31,ZMyBcymkPbEA7sxyvtSBHA)**: https://portaltransparencia.sistemas4r.com.br/wpportal.aspx?31,ZMyBcymkPbEA7sxyvtSBHA
 
 ### Jacareí
 
@@ -41,7 +41,7 @@ title: 'São Paulo'
 
 ### Guarujá
 
-- **[Portal da Transparência do Município de Guarujá](http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index)**: http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index
+- **[Portal da Transparência do Município de Guarujá](http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?413)**: http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?413
 
 ### Guarulhos
 
@@ -51,7 +51,7 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 ### Itaquaquecetuba
 
-- **[Portal da Transparência do Município de Itaquaquecetuba](http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/Portal/)**: http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/Portal/
+- **[Portal da Transparência do Município de Itaquaquecetuba](http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/TDAPortalClient.aspx?413)**: http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/TDAPortalClient.aspx?413
 
 ### Jundiaí
 
@@ -79,7 +79,7 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 ### Ribeirão Preto
 
-- **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php)**: http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php
+- **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia)**: http://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia
 
 ### Santa Isabel
 
