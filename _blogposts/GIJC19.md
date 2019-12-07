@@ -60,7 +60,7 @@ Por fim, o *Passmark* traz uma [análise](http://passmark.org.za/pit-toilets/) s
 
 ![print de reportagem](https://i.boring.host/1GS6GGeS.png?style=centerme)
 
-> Momento Merchan: O **Coluna7** também já gravou um episódio sobre visualização de dados. Quer saber sobre dicas sobre o tema? Ouça [agora](http://colaboradados.com.br/podcasts/episodio-008.html).  
+> Momento Merchan: O **Coluna7** também já gravou um episódio sobre visualização de dados. Quer saber dicas sobre o tema? Ouça [agora](http://colaboradados.com.br/podcasts/episodio-008.html).  
 
 ***
 **Searching the Deep Web (Procurando na Deep Web)**  
