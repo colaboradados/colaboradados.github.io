@@ -2,7 +2,7 @@
 
 layout: default
 
-title: "GIJC19: A Conferência Internacional de Jornalismo Investigativo (em português)"
+title: "GIJC19: A Conferência Internacional de Jornalismo Investigativo"
 
 author: Judite Cypreste
 
@@ -17,8 +17,9 @@ R, Python, SQL, queridinhas pelos jornalistas de dados, apareceram nos mais dive
 A seguir, reunimos resumos detalhados de algumas palestras e workshops do *GIJN* para você ficar por dentro do que rolou no maior evento de jornalismo investigativo do mundo!
  
 > E para ter acesso a todas apresentações do evento só clicar
-> [aqui](https://gijc2019.org/tipsheets/).
-  ***
+> [aqui](https://gijc2019.org/tipsheets/).  
+***
+
 **Exposing Extremists and Hate Groups (Expondo Extremistas e Grupos de Ódio)**  
 *Apresentação: Will Carless, Maria Eugenia Ludueña e Axel Gordh Humlesjö*
 
@@ -35,7 +36,8 @@ A *Agência Presentes*, com unidades em diversos países latinos, realiza o trab
 > Dados, possui um episódio inteiramente dedicado à segurança digital
 > para jornalistas. Quer saber dicas de como se prevenir de ataques
 > virtuais? Então escute
-> [agora](http://colaboradados.com.br/podcasts/episodio-006.html).
+> [agora](http://colaboradados.com.br/podcasts/episodio-006.html).  
+
 ***
 **Data Visualizations for Investigations (Visualizações de Dados para Investigações)**  
 *Apresentação: Kavya Sukumar e Alastair Otter*
@@ -44,21 +46,22 @@ Usar a visualização de dados para contar histórias é uma boa maneira de cham
 
 O jornal *New York Times* montou um [gráfico de adivinhação](https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) com o seguinte desafio: qual a probabilidade da renda familiar de uma criança influenciar nas chances dela entrar em uma faculdade? Usando uma interface interativa, o leitor tem que adivinhar o que os dados coletados por um estudo sobre o assunto têm a dizer.
 
-![print reportagem](https://i.boring.host/1GRYwjHq.png) 
+![print reportagem](https://i.boring.host/1GRYwjHq.png?style=centerme) 
 
 De autoria do mesmo jornal, um [calendário](https://www.nytimes.com/interactive/2017/10/02/opinion/editorials/mass-shootings-congress.html?_r=0) mostra o número de tiroteios que ocorreram nos Estados Unidos. Graças a visualização, 555 tiroteios, nos anos de 2016 e 2017, são expostos, mostrando também a imobilidade do Congresso norte-americano sobre o assunto.
 
-![print de reportagem](https://i.boring.host/1GS0UWor.png)
+![print de reportagem](https://i.boring.host/1GS0UWor.png?style=centerme)
 
 Ainda sobre o problema de tiroteios nos Estados Unidos, o *Vox* traça um [panorama](https://www.vox.com/a/mass-shootings-america-sandy-hook-gun-violence) sobre o assunto desde 2013, demonstrando com mapas e dados o histórico de massacres. 
 
-![print de reportagem](https://i.boring.host/1GS1y2B4.png)
+![print de reportagem](https://i.boring.host/1GS1y2B4.png?style=centerme)
 
 Por fim, o *Passmark* traz uma [análise](http://passmark.org.za/pit-toilets/) surpreendente sobre o número de crianças mortas em banheiros de escolas na África do Sul. A falta de saneamento no país aparece nos sanitários em forma de fossas e latrinas usadas pelos estudantes sul-africanos. A investigação conta casos de crianças que morreram por conta das más condições dos banheiros nas escolas.
 
-![print de reportagem](https://i.boring.host/1GS2hbYU.png)
+![print de reportagem](https://i.boring.host/1GS2hbYU.png?style=centerme)
 
-> Momento Merchan: O **Coluna7** também já gravou um episódio sobre visualização de dados. Quer saber sobre dicas sobre o tema? Ouça [agora](http://colaboradados.com.br/podcasts/episodio-008.html).
+> Momento Merchan: O **Coluna7** também já gravou um episódio sobre visualização de dados. Quer saber sobre dicas sobre o tema? Ouça [agora](http://colaboradados.com.br/podcasts/episodio-008.html).  
+
 ***
 **Searching the Deep Web (Procurando na Deep Web)**  
 *Apresentação: Albrecht Ude*
@@ -67,7 +70,8 @@ Há mais coisas fora do buscador padrão do que pode imaginar nossa vã filosofi
 
 Cansado de ter resultados de pesquisa enviesados por conta do seu histórico? Que tal usar o [Startpage](https://www.startpage.com/pt/)? O buscador promete ser a ferramenta de busca mais privada do mundo. Quer procurar bases de dados? Bom, se você não achou no **Banco de Bases de Dados** do **Colaboradados**, a dica é pesquisar no [Wikipédia](https://en.wikipedia.org/wiki/List_of_online_databases). Isso mesmo! Uma lista de bases de dados disponíveis na internet espera por você!
 
-O jornalista e pesquisador [Albrecht Ude](https://www.ude.de/), fez uma [lista](https://www.ude.de/seminar/190926-gijc-researching-deep-web.pdf) de dicas para investigar coisas além do "www". Divirta-se!
+O jornalista e pesquisador [Albrecht Ude](https://www.ude.de/), fez uma [lista](https://www.ude.de/seminar/190926-gijc-researching-deep-web.pdf) de dicas para investigar coisas além do "www". Divirta-se!  
+
 ***
 **10 ways to use AI in Investigative Journalism (10 maneiras de usar a IA no Jornalismo Investigativo)**  
 *Apresentação: Paul Bradshaw*
@@ -77,7 +81,8 @@ Por último, mas não menos importante, temos o resumo da
 
 Em sua apresentação, Bradshaw mostrou aplicações de Inteligência Artificial dentro de redações, aliando dados e histórias por meio de algoritmos para investigações e reportagens. E teve até projeto brasileiro sendo mencionado: a famosa *Operação Serenata de Amor*, inteligência artificial que investiga gastos excessivos da administração pública do Brasil.
 
-Entre olhares espantados e de admiração, Bradshaw mostrou exemplos que levantam a régua do Jornalismo de Dados e aliam o treinamento de máquinas para o desenvolvimento de trabalhos relevantes para a sociedade.
+Entre olhares espantados e de admiração, Bradshaw mostrou exemplos que levantam a régua do Jornalismo de Dados e aliam o treinamento de máquinas para o desenvolvimento de trabalhos relevantes para a sociedade.  
+
 ***
 **Bônus: o Jornalismo de Dados Internacional x Jornalismo de Dados Brasileiro**  
 
