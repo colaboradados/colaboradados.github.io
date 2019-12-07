@@ -18,8 +18,8 @@ A seguir, reunimos resumos detalhados de algumas palestras e workshops do *GIJN*
  
 > E para ter acesso a todas apresentações do evento só clicar
 > [aqui](https://gijc2019.org/tipsheets/).  
-***
 
+***
 **Exposing Extremists and Hate Groups (Expondo Extremistas e Grupos de Ódio)**  
 *Apresentação: Will Carless, Maria Eugenia Ludueña e Axel Gordh Humlesjö*
 
@@ -54,7 +54,7 @@ De autoria do mesmo jornal, um [calendário](https://www.nytimes.com/interactive
 
 Ainda sobre o problema de tiroteios nos Estados Unidos, o *Vox* traça um [panorama](https://www.vox.com/a/mass-shootings-america-sandy-hook-gun-violence) sobre o assunto desde 2013, demonstrando com mapas e dados o histórico de massacres. 
 
-![print de reportagem](https://i.boring.host/1GS1y2B4.png?style=centerme)
+![print de reportagem](https://i.boring.host/1GS3tdRX.png?style=centerme)
 
 Por fim, o *Passmark* traz uma [análise](http://passmark.org.za/pit-toilets/) surpreendente sobre o número de crianças mortas em banheiros de escolas na África do Sul. A falta de saneamento no país aparece nos sanitários em forma de fossas e latrinas usadas pelos estudantes sul-africanos. A investigação conta casos de crianças que morreram por conta das más condições dos banheiros nas escolas.
 
