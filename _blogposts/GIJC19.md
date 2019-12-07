@@ -58,7 +58,7 @@ exex
 
 Por fim, o *Passmark* traz uma [análise](http://passmark.org.za/pit-toilets/) surpreendente sobre o número de crianças mortas em banheiros de escolas na África do Sul. A falta de saneamento no país aparece nos sanitários em forma de fossas e latrinas usadas pelos estudantes sul-africanos. A investigação conta casos de crianças que morreram por conta das más condições dos banheiros nas escolas.
 
-![print de reportagem](https://i.boring.host/1GS2hbYU.png?style=centerme)
+![print de reportagem](https://i.boring.host/1GS6GGeS.png?style=centerme)
 
 > Momento Merchan: O **Coluna7** também já gravou um episódio sobre visualização de dados. Quer saber sobre dicas sobre o tema? Ouça [agora](http://colaboradados.com.br/podcasts/episodio-008.html).  
 
