@@ -53,8 +53,8 @@ De autoria do mesmo jornal, um [calendário](https://www.nytimes.com/interactive
 ![print de reportagem](https://i.boring.host/1GS0UWor.png?style=centerme)
 
 Ainda sobre o problema de tiroteios nos Estados Unidos, o *Vox* traça um [panorama](https://www.vox.com/a/mass-shootings-america-sandy-hook-gun-violence) sobre o assunto desde 2013, demonstrando com mapas e dados o histórico de massacres. 
-
-![print de reportagem](https://i.boring.host/1GS3tdRX.png?style=centerme)
+exex
+![print de reportagem](https://i.boring.host/1GS5Jb9p.png?style=centerme)
 
 Por fim, o *Passmark* traz uma [análise](http://passmark.org.za/pit-toilets/) surpreendente sobre o número de crianças mortas em banheiros de escolas na África do Sul. A falta de saneamento no país aparece nos sanitários em forma de fossas e latrinas usadas pelos estudantes sul-africanos. A investigação conta casos de crianças que morreram por conta das más condições dos banheiros nas escolas.
 
