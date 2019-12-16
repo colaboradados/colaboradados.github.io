@@ -17,10 +17,6 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 [Ana Paula Mendes](https://anapaulamendes.github.io/) é líder técnica e desenvolvedora do **Colaboradados**. Bacharelanda em Ciência da Computação na Universidade Federal do Piauí. Técnica em Desenvolvimento de Software pelo Instituto Federal do Piauí. Apaixonada por computação desde a infância, aos 10 anos de idade fez seu primeiro curso de Linux. Trabalha remotamente como desenvolvedora full-stack na [Quiploy](https://www.quiploy.com/). É aluna de iniciação científica no laboratório de Inteligência Artificial do Departamento de Computação da UFPI. Foi bolsista do Instituto Anita Borg na Grace Hopper Celebration 2019, a maior conferência do mundo de mulheres na tecnologia. Entusiasta open source, de comunidades e mentora de programação para mulheres. Reside em Teresina, capital do Piauí.
 
-![fotografia de Letícia Silva]({{ site.url }}{{ site.baseurl }}/images/leticia.png?style=centerme)
-
-[Letícia Silva](https://leticiadasilva.github.io/) é diretora e apresentadora do podcast **Coluna7** e consultora de data science do **Colaboradados**. Graduanda em Ciência da Computação, é data platform consultant na Dataside e estudante de iniciação científica no INPE (Instituto Nacional de Pesquisas Espaciais). É colaboradora no IEAv, organizadora do PyLadies, Django Girls, Devs JavaGirl e Women Techmakers de São José dos Campos, e contribui com iniciativas como o Elas Programam e Reprograma. Acredita que programar transforma vidas. Letícia mora em São José dos Campos.
-
 ![fotografia de Bruno Morassutti]({{ site.url }}{{ site.baseurl }}/images/bruno.png?style=centerme)
 
 [Bruno Morassutti](https://twitter.com/555112299jedi) é o consultor de assuntos de transparência governamental do **Colaboradados**. Entusiasta em transparência e dados abertos. É advogado, especialista em Direito Público e Processo Civil e mestre em Direito pela PUCRS. Se interessa muito por tecnologia e atualmente cursa sistemas de informação na PUCRS. É viciado em fazer pedidos de acesso à informação. Reside em Porto Alegre.
