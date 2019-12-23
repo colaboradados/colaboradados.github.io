@@ -14,3 +14,7 @@ title: 'Bahia'
 ### Vitória da Conquista
 
 - **[Portal da Transparência do Município de Vitória da Conquista](http://vitoriadaconquista-ba.portaltp.com.br/)**: http://vitoriadaconquista-ba.portaltp.com.br/
+
+### Teixeira de Freitas
+
+- **[Portal da Transparência do Município de Teixeira de Freitas](http://teixeiradefreitas-ba.portaltp.com.br/)**: http://teixeiradefreitas-ba.portaltp.com.br/
