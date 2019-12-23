@@ -11,6 +11,10 @@ title: 'Bahia'
 
 - **[Portal da Transparência do Município de Salvador](http://www.transparencia.salvador.ba.gov.br/)**: http://www.transparencia.salvador.ba.gov.br/
 
+### Teixeira de Freitas
+
+- **[Portal da Transparência do Município de Teixeira de Freitas](http://teixeiradefreitas-ba.portaltp.com.br/)**: http://teixeiradefreitas-ba.portaltp.com.br/
+
 ### Vitória da Conquista
 
 - **[Portal da Transparência do Município de Vitória da Conquista](http://transparencia.pmvc.ba.gov.br/)**: http://transparencia.pmvc.ba.gov.br/
