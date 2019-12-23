@@ -13,4 +13,4 @@ title: 'Bahia'
 
 ### Vitória da Conquista
 
-- **[Portal da Transparência do Município de Vitória da Conquista](http://vitoriadaconquista-ba.portaltp.com.br/)**: http://vitoriadaconquista-ba.portaltp.com.br/
+- **[Portal da Transparência do Município de Vitória da Conquista](http://transparencia.pmvc.ba.gov.br/)**: http://transparencia.pmvc.ba.gov.br/
