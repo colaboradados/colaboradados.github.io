@@ -3,6 +3,9 @@ layout: default
 title: 'Bahia'
 ---
 
+### Camacan
+- **[Prefeitura Municipal de Camacan - Transparência](http://www.camacan.ba.gov.br/transparencia)**: http://www.camacan.ba.gov.br/transparencia
+
 ### Feira de Santana
 
 - **[Portal da Transparência do Município de Feira de Santana](http://www.transparencia.feiradesantana.ba.gov.br/index.php?view=inicio)**: http://www.transparencia.feiradesantana.ba.gov.br/index.php?view=inicio
