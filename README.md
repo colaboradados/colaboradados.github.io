@@ -1,15 +1,17 @@
 # Colaboradados
+### O VEÍCULO COLABORATIVO SOBRE TRANSPARÊNCIA E OPEN DATA NO BRASIL.
 
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
-O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
+Este repositório se refere ao nosso site e banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
 
 ---
 
 ## Stack
 
-- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas
-- [SCSS][https://sass-lang.com/] para estilos
+- [Ruby][https://www.ruby-lang.org/en/] a linguagem de programação necessária para o Jekyll.
+- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas.
+- [SCSS][https://sass-lang.com/] para estilos.
 
 ---
 
@@ -18,7 +20,7 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 - Instalação
   - [Docker](#docker)
   - [Windows](#windows)
-  - [Linux Ubuntu](#linux-ubuntu)
+  - [Linux Debian-based](#linux-Debian-based)
   - [Mac](#mac)
 - [Indexando a busca no Algolia](#indexando-a-busca-no-Algolia)
 - [Colaborando com a bases de dados](#colaborando-com-a-bases-de-dados)
@@ -31,7 +33,7 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 
 ### Docker
 
-Para que prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando que rapidamente o servidor de desenvolvimento estará disponível.
+Para quem prefere utilizar [Docker](https://www.docker.com/) (evita a instalação do Ruby e do Jekyll na máquina), é necessário rodar apenas um comando, rapidamente o servidor de desenvolvimento estará disponível.
 
 Pré-requisitos:
 
@@ -40,13 +42,14 @@ Pré-requisitos:
 
 #### Rodando o projeto
 
-`docker-compose up`
+`sudo docker-compose up`
 
 ### Windows
 
 Pré-requisitos:
 
 - [**Ruby**](https://rubyinstaller.org/)
+- [**RubyGems**](https://rubygems.org/pages/download)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
 
@@ -55,35 +58,37 @@ Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `ge
 
 #### Rodando o projeto
 
-1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Pela linha de comand, vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
-   Caso não tenha dado nenhum erro, pule para a etapa **5**.
-4. Caso tenha dado erro na execução do jekyll, você provavelmente precisará instalar a Gem. Escreva `$ touch Gemfile` no GitBash. Abra o arquivo **Gemfile** que você acabou de criar na pasta do seu projeto no editor de sua preferência. Escreva dentro do arquivo `source "https://rubygems.org" gem "jekyll" gem "jekyll-gist"`
-   Se tudo deu certo, prossiga para a etapa **5**.
-5. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io) para o seu Github.
+2. Clone o repositório digitando `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git` no Gitbash.
+3. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador.
+4. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
+   Caso não tenha dado nenhum erro, siga para a etapa **5**.
+5. Abra o link em seu navegador [http://localhost:4000/](http://localhost:4000/). Você verá o site rodando localmente em seu computador.
 
-### Linux Ubuntu
+### Linux Debian-based
 
 #### Instalando
 
 Pré-requisitos:
 
 - [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
+- [**RubyGems**](https://rubygems.org/pages/download)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
-- [**GitBash**](https://git-scm.com/download/linux)
+- [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
-2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependencias que são requeridas para rodar o projeto.
-3. Após a instalação do Ruby, digite `$ gem install jekyll bundler`
-4. Instale tambem o Git, digite `$ sudo apt-get install git`
+1. Abra o terminal do Linux e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
+2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependências necessárias para rodar o projeto.
+3. Instale o RubyGem com o comando `sudo apt install rubygems`.
+4. Após a instalação do Ruby e RubyGems, digite `$ gem install jekyll bundler`
 
 #### Rodando o projeto
 
-1. Clone o repositório digitando `$ git clone https://github.com/colaboradados/colaboradados.github.io.git` no Gitbash.
-2. Vá até a pasta onde você clonou o repositório em seu computador.
-3. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
-4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io) para o seu Github.
+2. Clone o repositório digitando `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git` no Terminal.
+3. Vá até a pasta onde você clonou o repositório em seu computador.
+4. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
+Caso não tenha dado nenhum erro, siga para a etapa **5**.
+5. Abra o link em seu navegador [http://localhost:4000/](http://localhost:4000/). Você verá o site rodando localmente em seu computador.
 
 ### Mac
 
@@ -93,20 +98,12 @@ O Mac já possui tanto o git quanto o ruby por padrão, necessitando a instalaç
 
 #### Rodando o projeto
 
-No seu terminal:
-
-```
-# Clone o repositório
-$ git clone https://github.com/colaboradados/colaboradados.github.io.git
-# Entre na pasta do projeto
-$ cd colaboradados.github.io
-# Instale as dependências (só precisa fazer isso na primeira vez)
-$ bundle install
-# Rode o servidor local
-$ bundle exec jekyll serve
-```
-
-Abra o seu navegador e vá para `http://localhost:4000/`.
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io) para o seu Github.
+2. Clone o repositório digitando `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git` no Terminal.
+3. Vá até a pasta onde você clonou o repositório em seu computador.
+4. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
+Caso não tenha dado nenhum erro, siga para a etapa **5**.
+5. Abra o link em seu navegador [http://localhost:4000/](http://localhost:4000/). Você verá o site rodando localmente em seu computador.
 
 ---
 
@@ -131,7 +128,7 @@ $ ALGOLIA_API_KEY='<password>' bundle exec jekyll algolia
 
 ## Colaborando com a bases de dados
 
-O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas e títulos. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar plenamente.
+O **Colaboradados** é uma iniciativa sem fins lucrativos e feita para a comunidade e com a ajuda da mesma. Para ajudar com nossa base de dados você precisará seguir o caminho da pasta `colaboradados.github.io/_posts` e escolher o arquivo com o nome da base para a qual você quer colaborar. Os arquivos estão em `Markdown` e você poderá abrir no Visual Studio Code ou em seu ambiente de desenvolvimento preferido. Os arquivos precisam ser editados seguindo **exatamente** o mesmo padrão para listas, títulos e ordem alfabética. Isso deixará o trabalho organizado e facilitará para que o [**@colabora_bot**](https://twitter.com/colabora_bot), nosso bot do Twitter, consiga funcionar corretamente.
 Se tiver dúvidas, entre em contato conosco.
 
 ---
