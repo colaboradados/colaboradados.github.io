@@ -153,6 +153,7 @@ tags:
 
 - **[Diário Oficial do Estado do Rio Grande do Sul](https://www.diariooficial.rs.gov.br/)**: https://www.diariooficial.rs.gov.br/
 - **[Governo do Estado do Rio Grande do Sul](http://www.transparencia.rs.gov.br/)**: http://www.transparencia.rs.gov.br/
+- **[Secretária de Saúde do Estado do Rio Grande do Sul](http://bipublico.saude.rs.gov.br/index.htm)**: http://bipublico.saude.rs.gov.br/index.htm
 
 ### SANTA CATARINA
 
