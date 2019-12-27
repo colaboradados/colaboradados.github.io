@@ -140,6 +140,7 @@ tags:
 - **[Diário Oficial do Estado do Rio de Janeiro](http://www.ioerj.com.br/portal/modules/content/index.php?id=21)**: http://www.ioerj.com.br
 - **[Governo do Estado do Rio de Janeiro](http://www.transparencia.rj.gov.br/)**: http://www.transparencia.rj.gov.br
 - **[MP em Mapas (Ministério Público do Estado do Rio de Janeiro)](http://apps.mprj.mp.br/sistema/cadg/)**: http://apps.mprj.mp.br/sistema/cadg/
+- **[ISPDados (Dados Abertos do Instituto de Segurança Pública)](http://www.ispdados.rj.gov.br/)**: http://www.ispdados.rj.gov.br/
 
 ## REGIÃO SUL
 
