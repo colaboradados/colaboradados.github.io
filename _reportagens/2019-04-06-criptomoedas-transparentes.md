@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: posts
 title: "CRIPTOMOEDAS TRANSPARENTES"
 author: Judite Cypreste
 tags: criptomoedas, transparencia municipal, Alagoas, Cacimbinhas, Pão de Açúcar, União dos Palmares, São Miguel dos Milagres
-date: 2019-04-06
+date: 06/04/2019
 ---
 
 ### CRIPTOMOEDAS TRANSPARENTES: PORTAIS MUNICIPAIS DE DADOS ABERTOS MINERAM MOEDAS EM COMPUTADORES DE USUÁRIOS

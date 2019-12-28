@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+      {% if page %}
+        <center>
+          <p>{{ page.author }} - {{ page.date | date: "%d/%m/%Y" }}</p>
+        </center>
+      {% endif %}
+      {{ content }}
+    {% include footer.html %}
+  </body>
+</html>

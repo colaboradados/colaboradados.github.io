@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: posts
 title: Colaboradados no Nordeste
 author: Ana Paula Mendes
+date: 04/09/2019
 tags: nordeste, colaboradados
 ---
 
@@ -28,4 +29,3 @@ Não ficamos de fora nem online, amigues! Recebemos o convite da [**Impulso Netw
 ![fotografia de Impulso Network]({{ site.url }}{{ site.baseurl }}/images/blog/colaboradados-no-nordeste/impulso_network.jpeg?style=centerme)
 
 E é isso! O projeto está crescendo, conseguimos mais apoio e suporte! E foi maravilhoso demais espalhar nossa palavra no meu país Nordeste! Ainda faltam muitas cidades desse Nordeste e desse Brasil, mas logo logo estaremos por aí mais pertinho de você! <3
-
