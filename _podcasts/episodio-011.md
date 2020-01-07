@@ -16,7 +16,7 @@ Daqui duas semanas voltaremos com mais! Não percam!
 
 
 ### Escute agora!
-<iframe src="$PLACEHOLDER$" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-011---A-pauta-no-Jornalismo-de-Dados-ea1d8l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
