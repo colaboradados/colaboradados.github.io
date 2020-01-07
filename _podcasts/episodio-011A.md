@@ -1,15 +1,16 @@
 ---
 layout: default
 title:  "Episódio #011A"
-description: "O Processo das Pautas no Jornalismo de Dados"
+description: "A pauta no Jornalismo de Dados"
 ---
 
-# Episódio #011A - O Processo das Pautas no Jornalismo de Dados
+# Episódio #011A - A pauta no Jornalismo de Dados
 
 Atenção, seres da superfície!
 
-Começando o ano de 2020 na ousadia, decidimos entregar não um, mas dois episódios este mês!
-Conversamos com os ganhadores do *Prêmio Cláudio Weber Abramo* de Jornalismo de Dados para sabermos mais sobre como funciona o processo de pautas no Jornalismo de Dados. Neste primeiro episódio, deem  boas-vindas para Clara Velasco ([@claravelasco](https://twitter.com/claravelasco)), apresentando o trabalho *Monitor da Violência* do *Portal G1*, ganhador da categoria Investigação guiada por dados, e também o Rodolfo Almeida ([@rodolfoalmd](https://twitter.com/rodolfoalmd)), contando mais sobre a reportagem *30 anos: o quanto a Constituição preserva de seu texto original*, do *Nexo Jornal*, ganhador na categoria Visualização de dados.
+Começando o ano de 2020 na ousadia, decidimos entregar não um, mas dois episódios este mês!  
+
+Conversamos com os ganhadores do *Prêmio Cláudio Weber Abramo* para sabermos mais sobre como funciona o processo de pautas no Jornalismo de Dados. Neste primeiro episódio, deem  boas-vindas para Clara Velasco ([@claravelasco](https://twitter.com/claravelasco)), que apresentou o trabalho *Monitor da Violência* do *Portal G1*, ganhador na categoria Investigação guiada por dados, e também ao Rodolfo Almeida ([@rodolfoalmd](https://twitter.com/rodolfoalmd)), que contou mais sobre a reportagem *30 anos: o quanto a Constituição preserva de seu texto original*, do *Nexo Jornal*, ganhador na categoria Visualização de dados.
 
 Daqui duas semanas voltaremos com mais! Não percam!
 
