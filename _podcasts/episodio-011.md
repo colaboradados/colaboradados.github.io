@@ -4,7 +4,7 @@ layout: default
 title:  "Episódio #011a"
 description: "O Processo das Pautas no Jornalismo de Dados"
 ---
-# Episódio #010 - O Processo das Pautas no Jornalismo de Dados
+# Episódio #011a - O Processo das Pautas no Jornalismo de Dados
 
 Atenção, seres da superfície!
 
