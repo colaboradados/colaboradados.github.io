@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 ---
 layout: default
 title:  "Episódio #011a"
 description: "O Processo das Pautas no Jornalismo de Dados"
 ---
+
 # Episódio #011a - O Processo das Pautas no Jornalismo de Dados
 
 Atenção, seres da superfície!
@@ -110,4 +110,3 @@ Imagens:
 * [Restless Leg Syndrome - Fiddle Dee Dee](https://soundcloud.com/lamixtape/restless-leg-syndrome-fiddle)
 * [BLT. - Rhodes (Lanea Remix)](https://soundcloud.com/sudaka-beats/sudaka-afronta-1)
 * [The French Touch Connection - Soul Machinist](https://soundcloud.com/smokedbeat/the-french-touch-connection-soul-machinist-smokedbeat-melancolia)
->>>>>>> 07e05599e9fdd9f7488695a67acb0933f890ec54
