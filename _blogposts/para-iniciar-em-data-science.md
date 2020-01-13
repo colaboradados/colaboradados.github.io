@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: posts
 title: Para iniciar em Data Science
 author: Letícia Silva
+date: 04/09/2019
 tags: Data Science, Python, R, Lua, SQL, Scala, Estatística, dicas, tutoriais
 ---
 
@@ -217,4 +218,3 @@ Eu espero que esse ~~pequeno~~ manual te ajude a compreender melhor o que é Ci�
 Ficou com dúvidas ou quer conversar sobre o assunto? Você pode me encontrar [aqui](https://leticiadasilva.github.io/).
 
 **Beijinhos, Lê <3**
-
