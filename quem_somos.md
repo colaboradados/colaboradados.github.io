@@ -28,7 +28,3 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 ![fotografia de Lucas Hiago]({{ site.url }}{{ site.baseurl }}/images/lucashiago.png?style=centerme)
 
 [Lucas Hiago](https://github.com/luchiago) é desenvolvedor back-end do **Colaboradados**. Bacharelando em Ciência da Computação na Universidade Federal do Piauí. Apaixonado pela linguagem Python e curioso em aprender novas stacks. Interessado em café e em data science. Atualmente trabalha como estagiário na CodeMiner42. Reside em Teresina, capital do Piauí.
-
-![fotografia de Neto Chaves]({{ site.url }}{{ site.baseurl }}/images/netochaves.png?style=centerme)
-
-[Neto Chaves](https://github.com/netochaves) é desenvolvedor front-end do **Colaboradados**. Bacharelando em Ciência da Computação na Universidade Federal do Piauí. Técnico em Informática pelo IFMA (Instituto Federal de Ciência e Tecnologia do Maranhão), programa desde os 15 anos e é entusiasta de open source. Atualmente trabalha como estagiário na CodeMiner42. Reside em Teresina, Piauí.
