@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: O Colaboradados fez um ano - Uma carta aberta para quem nos acompanha
-author: Judite Cypreste
+author: Colaboradados
 date: 07/02/2020
 tags: aniversario, carta, aberta, colaboradados
 ---
