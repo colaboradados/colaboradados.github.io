@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: O COLABORADADOS FEZ UM ANO: UMA CARTA ABERTA PARA QUEM NOS ACOMPANHA
+title: O Colaboradados fez um ano - Uma carta aberta para quem nos acompanha
 author: Judite Cypreste
 date: 07/02/2020
-tags: colaboradados, aniversário, financeiro, carta, aberta
+tags: aniversario, carta, aberta, colaboradados
 ---
 
 No mês de janeiro o **Colaboradados** completou um ano de existência. Sobre a data de concepção do projeto, a diretoria fez tal qual os pais que têm filhos em 29 de fevereiro e declarou ser o dia 17, mesmo dia em que criamos o nosso robô (@colabora_bot), a data em que tudo isso aqui faz aniversário. 
@@ -44,6 +44,4 @@ Doe também o seu tempo, compartilhando nossos materiais, nos dando créditos pe
 
 Doe também seu conhecimento. 
 
-Afinal de contas: o **Colaboradados** é feito para, e também pela, sociedade. 
-
-
+Afinal de contas: o **Colaboradados** é feito para, e também pela, sociedade.
