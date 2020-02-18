@@ -13,7 +13,7 @@ title: 'Rio Grande do Norte'
 
 ### Afonso Bezerra
 
--  **[Portal da Transparência do Município de Afonso Bezerra](http://afonsobezerra.rn.gov.br/transp/)**: http://afonsobezerra.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Afonso Bezerra](http://170.254.243.26/)**: http://170.254.243.26/
 
 ### Água Nova
 
