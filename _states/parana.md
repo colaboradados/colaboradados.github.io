@@ -13,7 +13,7 @@ title: 'Paraná'
 
 ### Londrina
 
-- **[Portal da Transparência do Município de Londrina](http://www.londrina.pr.gov.br/index.php?option=com_content&view=section&id=23&Itemid=1765)**: http://www.londrina.pr.gov.br/index.php?option=com_content&view=section&id=23&Itemid=1765
+- **[Portal da Transparência do Município de Londrina](https://www.londrina.pr.gov.br/transparencia)**: https://www.londrina.pr.gov.br/transparencia
 
 ### Maringá
 
