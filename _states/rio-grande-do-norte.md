@@ -69,7 +69,7 @@ title: 'Rio Grande do Norte'
 
 ### Baraúna
 
--  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Baraúna](http://177.129.40.82:8080/transparencia/leiacessoinf.aspx)**: http://177.129.40.82:8080/transparencia/leiacessoinf.aspx
 
 - **[Dados Abertos do Município de Baraúna](https://www.gove.digital/dados-abertos/#/barauna-rn/geral)**: https://www.gove.digital/dados-abertos/#/barauna-rn/geral
 
