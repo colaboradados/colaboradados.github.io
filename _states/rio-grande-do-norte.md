@@ -185,7 +185,7 @@ title: 'Rio Grande do Norte'
 
 ### Extremoz
 
--  **[Portal da Transparência do Município de Extremoz](http://extremoz.rn.gov.br/portal-da-transparencia/)**: http://extremoz.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência do Município de Extremoz](https://extremoz.rn.gov.br/transparencia/)**: https://extremoz.rn.gov.br/transparencia/
 
 - **[Dados Abertos do Município de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
 
