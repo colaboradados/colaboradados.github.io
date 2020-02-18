@@ -5,7 +5,7 @@ title: 'Paraíba'
 
 ### Cajazeiras
 
-- **[Portal da Transparência do Município de Cajazeiras](https://cajazeiras.pb.gov.br/transparencia/)**: https://cajazeiras.pb.gov.br/transparencia/
+- **[Portal da Transparência do Município de Cajazeiras](http://www.cajazeiras.pb.gov.br/transparencia.php)**: http://www.cajazeiras.pb.gov.br/transparencia.php
 
 ### Campina Grande
 
