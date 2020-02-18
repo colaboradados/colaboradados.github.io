@@ -589,7 +589,7 @@ title: 'Rio Grande do Norte'
 
 ### São Pedro
 
--  **[Portal da Transparência do Município de São Pedro](http://transparenciabr.sytes.net/PMSAOPEDRORN/)**: http://transparenciabr.sytes.net/PMSAOPEDRORN/
+-  **[Portal da Transparência do Município de São Pedro](http://transparenciabr.sytes.net/PMSAOPEDRORN/)**: http://www.portaltransparencia.gov.br/localidades/2412708-sao-pedro
 
 ### São Rafael
 
