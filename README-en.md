@@ -37,7 +37,9 @@ Pre-requisites:
 - [Docker Compose](https://docs.docker.com/compose/)
 
 #### Running the project
-`sudo docker-compose up`
+``` bash
+sudo docker-compose up
+```
 
 ### Windows
 
@@ -51,15 +53,26 @@ Pre-requisites:
 - [**GitBash**](https://gitforwindows.org/)
 
 Install all of them as specified in their pages, open GitBash and run the following command:
-
-`gem install jekyll bundler`
+``` bash
+gem install jekyll bundler
+```
 
 #### Running the project
 
 1. Fork the [repository](https://github.com/colaboradados/colaboradados.github.io)
-2. Use GitBash to clone it with the following command: `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git`
+2. Use GitBash to clone it with the following command: 
+```bash
+$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
+```
 3. Navigate to the project folder using the command line
-4. Using GitBash, run `$ bundle install` and `$ bundle exec jekyll serve`. 
+4. Using GitBash, run 
+```bash
+$ bundle install
+``` 
+and 
+```bash
+$ bundle exec jekyll serve
+```
 5. Open [http://localhost:4000/](http://localhost:4000/) in your browser. You'll see the website running in your machine.
 
 ### Linux Debian-based
@@ -73,17 +86,38 @@ Pre-requisites:
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Git**](https://git-scm.com/download/linux)
 
-1. Open a new terminal window and run `$ sudo apt-get update`
-2. Then, install the Ruby packages with `$ sudo apt-get install ruby-full build-essential zlib1g-dev`
-3. Install RubyGems with `sudo apt install rubygems`.
-4. After that, run `$ gem install jekyll bundler`
+1. Open a new terminal window and run 
+```bash
+$ sudo apt-get update
+```
+2. Then, install the Ruby packages with 
+```bash
+$ sudo apt-get install ruby-full build-essential zlib1g-dev
+```
+3. Install RubyGems with 
+```bash
+sudo apt install rubygems
+```
+4. After that, run 
+```
+$ gem install jekyll bundler
+```
 
 #### Running the project
 1. Fork the [repository](https://github.com/colaboradados/colaboradados.github.io)
 2. Use the terminal to clone it with the following command:
-`$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git`
+```bash
+$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
+```
 3. Navigate to the project folder using the command line
-4. Using the terminal, run `$ bundle install` and `$ bundle exec jekyll serve`. 
+4. Using the terminal, run 
+```bash
+$ bundle install
+``` 
+and 
+```bash
+$ bundle exec jekyll serve
+```
 5. Open [http://localhost:4000/](http://localhost:4000/) in your browser. You'll see the website running in your machine.
 
 ### Mac
@@ -92,14 +126,25 @@ Pre-requisites:
 
 Just run 
 
-`$ gem install --user-install bundler jekyll`
+```bash
+$ gem install --user-install bundler jekyll
+```
 
 #### Running the project
-1. Fork the [repository](https://github.com/colaboradados/colaboradados.github.io).
+1. Fork the [repository](https://github.com/colaboradados/colaboradados.github.io)
 2. Use the terminal to clone it with the following command:
-`$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git`
-3. Navigate to the project folder using the command line.
-4. Using the terminal, run `$ bundle install` and `$ bundle exec jekyll serve`
+```bash
+$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
+```
+3. Navigate to the project folder using the command line
+4. Using the terminal, run 
+```bash
+$ bundle install
+``` 
+and 
+```bash
+$ bundle exec jekyll serve
+```
 5. Open [http://localhost:4000/](http://localhost:4000/) in your browser. You'll see the website running in your machine.
 
 ### Search Indexing on Algolia
