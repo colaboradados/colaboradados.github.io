@@ -243,7 +243,7 @@ title: 'Rio de Janeiro'
 
 ### QUATIS
 
-- **[Prefeitura de Quatis](transparencia.quatis.rj.gov.bcr)**: transparencia.quatis.rj.gov.bcr
+- **[Prefeitura de Quatis](http://transparencia.quatis.rj.gov.br/)**: http://transparencia.quatis.rj.gov.br/
 
 ### QUEIMADOS
 
