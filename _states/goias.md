@@ -10,7 +10,7 @@ http://adelandia.go.gov.br/transparencia/
 
 ### Anápolis
 
-- **[Portal da Transparência e Dados Abertos do Município de Anápolis](http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf)**: http://www.transparencia.anapolis.go.gov.br/transparencia/dadosAbertos.jsf
+- **[Portal da Transparência e Dados Abertos do Município de Anápolis](http://www.transparencia.anapolis.go.gov.br:8091/transparencia/)**: http://www.transparencia.anapolis.go.gov.br:8091/transparencia/
 
 ### Aparecida de Goiânia
 

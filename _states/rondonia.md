@@ -238,7 +238,6 @@ title: 'Rondônia'
 
 ### Seringueiras
 
-- **[Portal de Transparência da Câmara Municipal de Seringueiras](http://transparencia.camaradeseringueiras.ro.gov.br/)**: http://transparencia.camaradeseringueiras.ro.gov.br/
 - **[Portal de Transparência do Município de Seringueiras](http://transparencia.seringueiras.ro.gov.br/)**: http://transparencia.seringueiras.ro.gov.br/
 
 ### Teixeirópolis
@@ -248,7 +247,6 @@ title: 'Rondônia'
 
 ### Theobroma
 
-- **[Portal de Transparência da Câmara Municipal de Theobroma](http://transparencia.theobroma.ro.leg.br/)**: http://transparencia.theobroma.ro.leg.br/
 - **[Portal de Transparência do Município de Theobroma](http://transparencia.theobroma.ro.gov.br/portaltransparencia/)**: http://transparencia.theobroma.ro.gov.br/portaltransparencia/
 
 ### Urupá

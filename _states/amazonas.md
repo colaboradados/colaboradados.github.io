@@ -248,7 +248,7 @@ Se a cidade possuir um site à parte, este será colocado. Caso não possua, o s
 
 ### URUCARÁ
 
-- **[Prefeitura Municipal de Urucará](http://www.transparencia-am.com.br/URUCARA/PM/urucara.php)**: http://www.transparencia-am.com.br/URUCARA/PM/urucara.php
+- **[Prefeitura Municipal de Urucará](https://www.urucara.am.gov.br/portal-da-transparencia/)**: https://www.urucara.am.gov.br/portal-da-transparencia/
 
 ### URUCURITUBA
 

@@ -13,7 +13,7 @@ title: 'Rio Grande do Norte'
 
 ### Afonso Bezerra
 
--  **[Portal da Transparência do Município de Afonso Bezerra](http://afonsobezerra.rn.gov.br/transp/)**: http://afonsobezerra.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Afonso Bezerra](http://www.portaldatransparencia.gov.br/localidades/2400307-afonso-bezerra)**: http://www.portaldatransparencia.gov.br/localidades/2400307-afonso-bezerra
 
 ### Água Nova
 
@@ -69,7 +69,7 @@ title: 'Rio Grande do Norte'
 
 ### Baraúna
 
--  **[Portal da Transparência do Município de Baraúna](http://barauna.rn.gov.br/transp/)**: http://barauna.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Baraúna](http://www.portaltransparencia.gov.br/localidades/2401453-barauna)**: http://www.portaltransparencia.gov.br/localidades/2401453-barauna
 
 - **[Dados Abertos do Município de Baraúna](https://www.gove.digital/dados-abertos/#/barauna-rn/geral)**: https://www.gove.digital/dados-abertos/#/barauna-rn/geral
 
@@ -185,7 +185,7 @@ title: 'Rio Grande do Norte'
 
 ### Extremoz
 
--  **[Portal da Transparência do Município de Extremoz](http://extremoz.rn.gov.br/portal-da-transparencia/)**: http://extremoz.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência do Município de Extremoz](https://extremoz.rn.gov.br/transparencia/)**: https://extremoz.rn.gov.br/transparencia/
 
 - **[Dados Abertos do Município de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
 
@@ -529,7 +529,7 @@ title: 'Rio Grande do Norte'
 
 ### Santana do Matos
 
--  **[Portal da Transparência do Município de Santana do Matos](http://santanadomatos.rn.gov.br/transp/)**: http://santanadomatos.rn.gov.br/transp/
+-  **[Portal da Transparência do Município de Santana do Matos](http://www.portaldatransparencia.gov.br/localidades/2411403-santana-do-matos)**: http://www.portaldatransparencia.gov.br/localidades/2411403-santana-do-matos
 
 ### Santana do Seridó
 
@@ -567,10 +567,6 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de São José de Mipibu](http://177.135.190.90:8080/transparencia/)**: http://177.135.190.90:8080/transparencia/
 
-### São José do Campestre
-
--  **[Portal da Transparência do Município de São José do Campestre](https://www.saojosedocampestrern.com/transparencia)**: https://www.saojosedocampestrern.com/transparencia
-
 ### São José do Seridó
 
 -  **[Portal da Transparência do Município de São José do Seridó](http://lemarq.com.br/transparencia/rnp132/)**: http://lemarq.com.br/transparencia/rnp132/
@@ -589,7 +585,7 @@ title: 'Rio Grande do Norte'
 
 ### São Pedro
 
--  **[Portal da Transparência do Município de São Pedro](http://transparenciabr.sytes.net/PMSAOPEDRORN/)**: http://transparenciabr.sytes.net/PMSAOPEDRORN/
+-  **[Portal da Transparência do Município de São Pedro](http://www.portaltransparencia.gov.br/localidades/2412708-sao-pedro)**: http://www.portaltransparencia.gov.br/localidades/2412708-sao-pedro
 
 ### São Rafael
 
