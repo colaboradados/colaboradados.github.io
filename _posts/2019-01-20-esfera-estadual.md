@@ -31,7 +31,7 @@ tags:
 
 ### RONDÔNIA
 
-- **[Diário Oficial do Estado de Rondônia](http://www.diof.ro.gov.br/data/uploads/)**: http://www.diof.ro.gov.br/data/uploads/
+- **[Diário Oficial do Estado de Rondônia](http://www.diof.ro.gov.br/)**: http://www.diof.ro.gov.br/
 - **[Governo do Estado de Rondônia](http://www.transparencia.ro.gov.br/)**: http://www.transparencia.ro.gov.br/
 
 ### RORAIMA
