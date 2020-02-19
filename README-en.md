@@ -3,7 +3,7 @@
 
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
-This repository refers to our website and collaborative database. Access it here [**aqui**](https://colaboradados.github.io).
+This repository refers to our website and collaborative database. Access it here [**here**](https://colaboradados.github.io).
 
 ---
 
