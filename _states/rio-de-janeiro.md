@@ -141,7 +141,7 @@ title: 'Rio de Janeiro'
 
 ### JAPERI
 
-- **[Prefeitura de Japeri](http://www.japeri.rj.gov.br/novatransparencia/)**: http://www.japeri.rj.gov.br/novatransparencia/
+- **[Prefeitura de Japeri](http://siapegov.japeri.rj.gov.br/portal-transparencia/home)**: http://siapegov.japeri.rj.gov.br/portal-transparencia/home
 
 ### LAJE DO MURIAÉ
 
@@ -243,7 +243,7 @@ title: 'Rio de Janeiro'
 
 ### QUATIS
 
-- **[Prefeitura de Quatis](transparencia.quatis.rj.gov.bcr)**: transparencia.quatis.rj.gov.bcr
+- **[Prefeitura de Quatis](http://transparencia.quatis.rj.gov.br/)**: http://transparencia.quatis.rj.gov.br/
 
 ### QUEIMADOS
 

@@ -33,7 +33,7 @@ title: 'São Paulo'
 
 ### Itanhaém
 
--   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portal_transparencia/)**: http://www2.itanhaem.sp.gov.br/portal_transparencia/
+-   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portaltransparencia1/)**: http://www2.itanhaem.sp.gov.br/portaltransparencia1/
 
 ### Jacareí
 
@@ -79,11 +79,11 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 ### Ribeirão Preto
 
-- **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php)**: http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php
+- **[Portal da Transparência do Município de Ribeirão Preto](https://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia)**: https://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia
 
 ### Santa Isabel
 
--   **[Portal da Transparência do Município de Santa Isabel](https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/)**: https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/
+-   **[Portal da Transparência do Município de Santa Isabel](https://apps.santaisabel.sp.gov.br/transparencia/)**: https://apps.santaisabel.sp.gov.br/transparencia/
 
 ### Santo André
 

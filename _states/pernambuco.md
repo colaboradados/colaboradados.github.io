@@ -100,7 +100,7 @@ title: 'Pernambuco'
 
 ### OLINDA
 
-- **[Portal da Transparência do Município de Olinda](http://transparencia.olinda.pe.gov.br/pronimtb/)**: http://transparencia.olinda.pe.gov.br/pronimtb/
+- **[Portal da Transparência do Município de Olinda](http://54.233.201.15/pronimtb/)**: http://54.233.201.15/pronimtb/
 
 ### PAULISTA
 
