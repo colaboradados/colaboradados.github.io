@@ -3,6 +3,8 @@
 
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
+[**English Version**](README-en.md)
+
 Este repositório se refere ao nosso site e banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
 
 ---
