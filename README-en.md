@@ -1,5 +1,5 @@
 # Colaboradados
-### A COLLABORATIVE EFFORT OF TRANSPARENCY AND OPEN DATA IN BRAZIL.
+### THE COLLABORATIVE VEHICLE ABOUT TRANSPARENCY AND OPEN DATE IN BRAZIL.
 
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
