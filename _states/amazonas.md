@@ -6,250 +6,250 @@ title: 'Amazonas'
 O Estado do Amazonas agregou a transparência de seus municípios em um único **[Portal de Acesso à Informação e Transparência dos Municípios do Estado do Amazonas](https://transparenciamunicipalaam.org.br/)**. Alguns municípios fecharam os seus sites e usam apenas o site agregador. Outros ainda possuem sites autônomos.  
 Se a cidade possuir um site à parte, este será colocado. Caso não possua, o site agregador estará no lugar. Alguns municípios não estão no site agregador. Por conta disso, nós do **Colaboradados** vamos listar todos os municípios nesta sessão, dando prioridade para os sites únicos de cada cidade.
 
-### ALVARÃES
+### Alvarães
 
 - **[Prefeitura Municipal de Alvarães](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### AMATURÁ
+### Amaturá
 
 - **[Prefeitura Municipal de Amaturá](http://www.amatura.am.gov.br/109/Transparencia/)**: http://www.amatura.am.gov.br/109/Transparencia/
 
-### ANAMÃ
+### Anamã
 
 - **[Prefeitura Municipal de Anamã](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### ANORI
+### Anori
 
 - **[Prefeitura Municipal de Anori](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### APUÍ
+### Apuí
 
 - **[Prefeitura Municipal de Apuí](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### ATALAIA DO NORTE
+### Atalaia Do Norte
 
 - **[Prefeitura Municipal de Atalaia do Norte](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### AUTAZES
+### Autazes
 
 - **[Prefeitura Municipal de Autazes](http://servicos.autazes.am.gov.br/portaltransparencia/)**: http://servicos.autazes.am.gov.br/portaltransparencia/
 
-### BARCELOS
+### Barcelos
 
 - **[Prefeitura Municipal de Barcelos](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BARREIRINHA
+### Barreirinha
 
 - **[Prefeitura Municipal de Barreirinha](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BENJAMIN CONSTANT
+### Benjamin Constant
 
 - **[Prefeitura Municipal de Benjamin Constant](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BERURI
+### Beruri
 
 - **[Prefeitura Municipal de Beruri](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BOA VISTA DO RAMOS
+### Boa Vista Do Ramos
 
 - **[Prefeitura Municipal de Boa Vista do Ramos](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BOCA DO ACRE
+### Boca Do Acre
 
 - **[Prefeitura Municipal de Boca do Acre](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### BORBA
+### Borba
 
 - **[Prefeitura Municipal de Borba](http://www.transparencia-am.com.br/BORBA/PREVI/borba.php)**: http://www.transparencia-am.com.br/BORBA/PREVI/borba.php
 
-### CAAPIRANGA
+### Caapiranga
 
 - **[Prefeitura Municipal de Caapiranga](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### CANUTAMA
+### Canutama
 
 - **[Prefeitura Municipal de Canutama](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### CARAUARI
+### Carauari
 
 - **[Prefeitura Municipal de Carauari](http://www.transparencia-am.com.br/CARAUARI/PM/carauari.html)**: http://www.transparencia-am.com.br/CARAUARI/PM/carauari.html
 
-### CAREIRO
+### Careiro
 
 - **[Prefeitura Municipal de Careiro](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### CAREIRO DA VÁRZEA
+### Careiro Da Várzea
 
 - **[Prefeitura Municipal de Careiro da Várzea](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### COARI
+### Coari
 
 - **[Prefeitura Municipal de Coari](http://coari.am.gov.br/transparencia/)**: http://coari.am.gov.br/transparencia/
 
-### CODAJÁS
+### Codajás
 
 - **[Prefeitura Municipal de Codajás](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### EIRUNEPÉ
+### Eirunepé
 
 - **[Prefeitura Municipal de Eirunepé](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### ENVIRA
+### Envira
 
 - **[Prefeitura Municipal de Envira](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### FONTE BOA
+### Fonte Boa
 
 - **[Prefeitura Municipal de Fonte Boa](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### GUAJARÁ
+### Guajará
 
 - **[Prefeitura Municipal de Guajará](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### HUMAITÁ
+### Humaitá
 
 - **[Prefeitura Municipal de Humaitá](https://e-gov.betha.com.br/transparencia/01037-006/recursos.faces)**: https://e-gov.betha.com.br/transparencia/01037-006/recursos.faces
 
-### IPIXUNA
+### Ipixuna
 
 - **[Prefeitura Municipal de Ipixuna](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### IRANDUBA
+### Iranduba
 
 - **[Prefeitura Municipal de Iranduba](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### ITACOATIARA
+### Itacoatiara
 
 - **[Prefeitura Municipal de Itacoatiara](http://perseusdata.com/PMitacoatiara/)**: http://perseusdata.com/PMitacoatiara/
 
-### ITAMARATI
+### Itamarati
 
 - **[Prefeitura Municipal de Itamarati](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### ITAPIRANGA
+### Itapiranga
 
 - **[Prefeitura Municipal de Itapiranga](https://servicos.dattasystem.com.br/am/pm_itapiranga/)**: https://servicos.dattasystem.com.br/am/pm_itapiranga/
 
-### JAPURÁ
+### Japurá
 
 - **[Prefeitura Municipal de Japurá](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### JURUÁ
+### Juruá
 
 - **[Prefeitura Municipal de Juruá](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### JUTAÍ
+### Jutaí
 
 - **[Prefeitura Municipal de Jutaí](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### LÁBREA
+### Lábrea
 
 - **[Prefeitura Municipal de Lábrea](http://transparencia-labrea.org/)**: http://transparencia-labrea.org/
 
-### MANACAPURU
+### Manacapuru
 
 - **[Prefeitura Municipal de Manacapuru](http://transparencia.manacapuru.am.gov.br/)**: http://transparencia.manacapuru.am.gov.br/
 
-### MANAQUIRI
+### Manaquiri
 
 - **[Prefeitura Municipal de Manaquiri](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### MANAUS
+### Manaus
 
 - **[Prefeitura Municipal de Manaus](https://transparencia.manaus.am.gov.br/transparencia/v2/#/home)**: https://transparencia.manaus.am.gov.br/transparencia/v2/#/home
 
-### MANICORÉ
+### Manicoré
 
 - **[Prefeitura Municipal de Manicoré](http://perseusdata.com/PMmanicore/)**: http://perseusdata.com/PMmanicore/
 
-### MARAÃ
+### Maraã
 
 - **[Prefeitura Municipal de Maraã](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### MAUÉS
+### Maués
 
 - **[Prefeitura Municipal de Maués](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### NHAMUNDÁ
+### Nhamundá
 
 - **[Prefeitura Municipal de Nhamundá](http://perseusdata.com/PMnhamunda/)**: http://perseusdata.com/PMnhamunda/
 
-### NOVA OLINDA DO NORTE
+### Nova Olinda Do Norte
 
 - **[Prefeitura Municipal de Nova Olinda do Norte](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### NOVO AIRÃO
+### Novo Airão
 
 - **[Prefeitura Municipal de Novo Airão](http://perseusdata.com/PMnovoairao/)**: http://perseusdata.com/PMnovoairao/
 
-### NOVO ARIPUANÃ
+### Novo Aripuanã
 
 - **[Prefeitura Municipal de Novo Aripuanã](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### PARINTINS
+### Parintins
 
 - **[Prefeitura Municipal de Parintins](https://transparencia.parintins.am.gov.br/)**: https://transparencia.parintins.am.gov.br/
 
-### PAUINI
+### Pauini
 
 - **[Prefeitura Municipal de Pauini](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### PRESIDENTE FIGUEIREDO
+### Presidente Figueiredo
 
 - **[Prefeitura Municipal de Presidente Figueiredo](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### RIO PRETO DA EVA
+### Rio Preto Da Eva
 
 - **[Prefeitura Municipal de Rio Preto da Eva](http://riopretodaeva.portaldatransparencia.org/)**: http://riopretodaeva.portaldatransparencia.org/
 
-### SANTA ISABEL DO RIO NEGRO
+### Santa Isabel Do Rio Negro
 
 - **[Prefeitura Municipal de Santa Izabel do Rio Negro](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### SANTO ANTÔNIO DO IÇÁ
+### Santo Antônio Do Içá
 
 - **[Prefeitura Municipal de Santo Antônio do Içá](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### SÃO GABRIEL DA CACHOEIRA
+### São Gabriel Da Cachoeira
 
 - **[Prefeitura Municipal de São Gabriel da Cachoeira](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### SÃO PAULO DE OLIVENÇA
+### São Paulo De Olivença
 
 - **[Prefeitura Municipal de São Paulo de Olivença](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### SÃO SEBASTIÃO DO UATUMÃ
+### São Sebastião Do Uatumã
 
 - **[Prefeitura Municipal de São Sebastião do Uatumã](http://www.transparencia-am.com.br/SAOSEBASTIAODOUATUMA/PM/saosebastiaodouatuma.php)**: http://www.transparencia-am.com.br/SAOSEBASTIAODOUATUMA/PM/saosebastiaodouatuma.php
 
-### SILVES
+### Silves
 
 - **[Prefeitura Municipal de Silves](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### TABATINGA
+### Tabatinga
 
 - **[Prefeitura Municipal de Tabatinga](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### TAPAUÁ
+### Tapauá
 
 - **[Prefeitura Municipal de Tapauá](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### TEFÉ
+### Tefé
 
 - **[Prefeitura Municipal de Tefé](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### TONANTINS
+### Tonantins
 
 - **[Prefeitura Municipal de Tonantins](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### UARINI
+### Uarini
 
 - **[Prefeitura Municipal de Uarini](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
 
-### URUCARÁ
+### Urucará
 
 - **[Prefeitura Municipal de Urucará](https://www.urucara.am.gov.br/portal-da-transparencia/)**: https://www.urucara.am.gov.br/portal-da-transparencia/
 
-### URUCURITUBA
+### Urucurituba
 
 - **[Prefeitura Municipal de Urucurituba](https://transparenciamunicipalaam.org.br/)**: https://transparenciamunicipalaam.org.br/
