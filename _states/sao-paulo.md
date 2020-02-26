@@ -41,13 +41,13 @@ title: 'São Paulo'
 
 ### Guarujá
 
-- **[Portal da Transparência do Município de Guarujá](http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index)**: http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index
+- **[Portal da Transparência do Município de Guarujá](http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?414)**: http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?414
 
 ### Guarulhos
 
-- **[Portal da Transparência do Município de Guarulhos](http://portaltransparencia.guarulhos.sp.gov.br/content/dados-abertos)**: http://portaltransparencia.guarulhos.sp.gov.br/content/dados-abertos
+- **[Portal da Transparência do Município de Guarulhos](http://portaltransparencia.guarulhos.sp.gov.br/)**: http://portaltransparencia.guarulhos.sp.gov.br/
 
-_Observação:_ Esse portal de transparência deveria disponibilizar DAG conforme indicado no portal, porém não apresentava possibilidade de consulta a todos os conjuntos de dados disponíveis, nem link para download. Apenas apresentava um formulário para download de arquivos. No entanto, os arquivos fornecidos pelo portal não possuíam extensão ou indicação do formato do arquivo.
+_Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, deveria disponibilizar DAG conforme indicado no portal, porém não apresentava possibilidade de consulta a todos os conjuntos de dados disponíveis, nem link para download. Apenas apresentava um formulário para download de arquivos. No entanto, os arquivos fornecidos pelo portal não possuíam extensão ou indicação do formato do arquivo.
 
 ### Itaquaquecetuba
 

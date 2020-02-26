@@ -40,12 +40,12 @@ title: 'Rondônia'
 
 ### Costa Marques
 
-- **[Portal de Transparência da Câmara Municipal de Costa Marques](http://138.121.27.59:8080/portaltransparencia/)**: http://138.121.27.59:8080/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de Costa Marques](http://transparencia.costamarques.ro.leg.br/)**: http://transparencia.costamarques.ro.leg.br/
 - **[Portal de Transparência do Município de Costa Marques](http://transparencia.costamarques.ro.gov.br/)**: http://transparencia.costamarques.ro.gov.br/
 
 ### Espigão D'Oeste (ou Espigão do Oeste)
 
-- **[Portal de Transparência da Câmara Municipal de Espigão D'Oeste](http://177.129.125.89/portaltransparencia/)**: http://177.129.125.89/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de Espigão D'Oeste](https://transparencia.espigaodoeste.ro.leg.br/)**: https://transparencia.espigaodoeste.ro.leg.br/
 - **[Portal de Transparência do Município de Espigão D'Oeste](http://transparencia.espigaodooeste.ro.gov.br/transparencia/)**: http://transparencia.espigaodooeste.ro.gov.br/transparencia/
 
 ### Guajará-Mirim
@@ -55,8 +55,8 @@ title: 'Rondônia'
 
 ### Jaru
 
-- **[Portal de Transparência da Câmara Municipal de Jaru - Arquivo](http://177.203.133.115/portaltransparencia//)**: http://177.203.133.115/portaltransparencia/ <sup>1</sup>
-- **[Portal de Transparência da Câmara Municipal de Jaru](http://177.203.133.115:5659/transparencia/)**: http://177.203.133.115:5659/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Jaru - Arquivo](177.203.133.115/portaltransparencia//)**: http://177.203.133.115/portaltransparencia/ <sup>1</sup>
+- **[Portal de Transparência da Câmara Municipal de Jaru](http://191.37.217.10:8079/transparencia/)**: http://191.37.217.10:8079/transparencia/
 - **[Portal de Transparência do Município de Jaru](http://transparencia.jaru.ro.gov.br/transparencia/)**: http://transparencia.jaru.ro.gov.br/transparencia/
 
 <sup>1</sup>: Arquivo do Portal de Transparência, que possui dados de transparência até 10 de abril de 2018
@@ -64,7 +64,7 @@ title: 'Rondônia'
 ### Ji-Paraná
 
 - **[Portal de Transparência da Câmara Municipal de Ji-Paraná](http://transparencia.jiparana.ro.leg.br/transparencia/)**: http://transparencia.jiparana.ro.leg.br/transparencia/
-- **[Portal de Transparência do Município de Ji-Paraná](http://transparencia.ji-parana.ro.gov.br/transparencia/)**: http://transparencia.ji-parana.ro.gov.br/transparencia/
+- **[Portal de Transparência do Município de Ji-Paraná](http://transparencia.ji-parana.ro.gov.br:5659/transparencia/)**: http://transparencia.ji-parana.ro.gov.br:5659/transparencia/
 
 ### Machadinho D'Oeste
 
@@ -78,7 +78,7 @@ title: 'Rondônia'
 
 ### Ouro Preto do Oeste
 
-- **[Portal de Transparência da Câmara Municipal de Ouro Preto do Oeste](http://179.253.49.222:5659/transparencia/)**: http://179.253.49.222:5659/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Ouro Preto do Oeste](http://177.6.225.98:9159/transparencia/)**: http://177.6.225.98:9159/transparencia/
 - **[Portal de Transparência do Município de Ouro Preto Do Oeste](http://transparencia.ouropretodooeste.ro.gov.br/transparencia/)**: http://transparencia.ouropretodooeste.ro.gov.br/transparencia/
 
 ### Pimenta Bueno
@@ -89,7 +89,7 @@ title: 'Rondônia'
 ### Presidente Médici
 
 - **[Portal de Transparência da Câmara Municipal de Presidente Médici](http://transparencia.camaramedici.ro.gov.br/)**: http://transparencia.camaramedici.ro.gov.br/
-- **[Portal de Transparência do Município de Presidente Médici](http://www.transparencia.presidentemedici.ro.gov.br/transparencia/)**: http://www.transparencia.presidentemedici.ro.gov.br/transparencia/
+- **[Portal de Transparência do Município de Presidente Médici](http://131.161.35.20:5659/transparencia/)**: http://131.161.35.20:5659/transparencia/
 
 ### Porto Velho
 
@@ -98,7 +98,7 @@ title: 'Rondônia'
 
 ### Rio Crespo
 
-- **[Portal de Transparência da Câmara Municipal de Rio Crespo](http://transparencia.camarariocrespo.ro.gov.br/)**: http://transparencia.camarariocrespo.ro.gov.br/
+- **[Portal de Transparência da Câmara Municipal de Rio Crespo](https://transparencia.riocrespo.ro.leg.br/)**: https://transparencia.riocrespo.ro.leg.br/
 - **[Portal de Transparência do Município de Rio Crespo](http://transparencia.riocrespo.ro.gov.br/portaltransparencia/)**: http://transparencia.riocrespo.ro.gov.br/portaltransparencia/
 
 ### Rolim de Moura
@@ -123,7 +123,7 @@ title: 'Rondônia'
 
 ### Nova Mamoré
 
-- **[Portal de Transparência da Câmara Municipal de Nova Mamoré](http://transparencia.novamamore.ro.leg.br/transparencia/index.php)**: http://transparencia.novamamore.ro.leg.br/transparencia/index.php
+- **[Portal de Transparência da Câmara Municipal de Nova Mamoré](http://transparencia.novamamore.ro.leg.br:8079/transparencia/)**: http://transparencia.novamamore.ro.leg.br:8079/transparencia/
 - **[Portal de Transparência do Município de Nova Mamoré](http://transparencia.novamamore.ro.gov.br/)**: http://transparencia.novamamore.ro.gov.br/
 
 ### Alvorada D'Oeste
@@ -148,12 +148,12 @@ title: 'Rondônia'
 
 ### Novo Horizonte do Oeste
 
-- **[Portal de Transparência da Câmara Municipal de Novo Horizonte do Oeste](http://179.252.90.133:5659/transparencia/)**: http://179.252.90.133:5659/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Novo Horizonte do Oeste](http://transparencia.novohorizontedooeste.ro.leg.br:5659/transparencia/)**: http://transparencia.novohorizontedooeste.ro.leg.br:5659/transparencia/
 - **[Portal de Transparência do Município de Novo Horizonte do Oeste](http://transparencia.novohorizonte.ro.gov.br:5659/transparencia/)**: http://transparencia.novohorizonte.ro.gov.br:5659/transparencia/
 
 ### Cacaulândia
 
-- **[Portal de Transparência da Câmara Municipal de Cacaulândia](http://transparencia.camaradecacaulandia.ro.gov.br/transparencia/)**: http://transparencia.camaradecacaulandia.ro.gov.br/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Cacaulândia](http://transparencia.camaradecacaulandia.ro.gov.br/)**: http://transparencia.camaradecacaulandia.ro.gov.br/
 - **[Portal de Transparência do Município de Cacaulândia](http://transparencia.cacaulandia.ro.gov.br/transparencia/)**: http://transparencia.cacaulandia.ro.gov.br/transparencia/
 
 ### Campo Novo de Rondônia
@@ -163,12 +163,12 @@ title: 'Rondônia'
 
 ### Candeias do Jamari
 
-- **[Portal de Transparência da Câmara Municipal de Candeias do Jamari](http://177.3.248.228:5659/transparencia/)**: http://177.3.248.228:5659/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Candeias do Jamari](http://177.3.248.228:8079/transparencia)**: http://177.3.248.228:8079/transparencia
 - **[Portal de Transparência do Município de Candeias do Jamari](http://transparencia.candeiasdojamari.ro.gov.br/)**: http://transparencia.candeiasdojamari.ro.gov.br/
 
 ### Castanheiras
 
-- **[Portal de Transparência da Câmara Municipal de Castanheiras](http://177.0.35.253/portaltransparencia/)**: http://177.0.35.253/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de Castanheiras](http://transparencia.castanheiras.ro.leg.br/)**: http://transparencia.castanheiras.ro.leg.br/
 - **[Portal de Transparência do Município de Castanheiras](http://transparencia.castanheiras.ro.gov.br/portaltransparencia/)**: http://transparencia.castanheiras.ro.gov.br/portaltransparencia/
 
 ### Chupinguaia
@@ -193,7 +193,7 @@ title: 'Rondônia'
 
 ### Ministro Andreazza
 
-- **[Portal de Transparência da Câmara Municipal de Ministro Andreazza](http://138.122.143.85:8088/portaltransparencia/)**: http://138.122.143.85:8088/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de Ministro Andreazza](http://transparencia.ministroandreazza.ro.leg.br/)**: http://transparencia.ministroandreazza.ro.leg.br/
 - **[Portal de Transparência do Município de Ministro Andreazza](http://transparencia.ministroandreazza.ro.gov.br/portaltransparencia/)**: http://transparencia.ministroandreazza.ro.gov.br/portaltransparencia/
 
 ### Mirante da Serra
@@ -213,7 +213,7 @@ title: 'Rondônia'
 
 ### Parecis
 
-- **[Portal de Transparência da Câmara Municipal de Parecis](http://www.transparencia.parecis.ro.leg.br/transparencia/)**: http://www.transparencia.parecis.ro.leg.br/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Parecis](http://45.233.222.132:8079/transparencia/)**: http://45.233.222.132:8079/transparencia/
 - **[Portal de Transparência do Município de Parecis](http://transparencia.parecis.ro.gov.br/)**: http://transparencia.parecis.ro.gov.br/
 
 ### Pimenteiras do Oeste
@@ -251,7 +251,7 @@ title: 'Rondônia'
 
 ### Urupá
 
-- **[Portal de Transparência da Câmara Municipal de Urupá](http://transparencia.camaradeurupa.ro.gov.br/)**: http://transparencia.camaradeurupa.ro.gov.br/
+- **[Portal de Transparência da Câmara Municipal de Urupá](https://177.222.210.6/transparencia/)**: https://177.222.210.6/transparencia/
 - **[Portal de Transparência do Município de Urupá](http://transparencia.urupa.ro.gov.br/portaltransparencia/)**: http://transparencia.urupa.ro.gov.br/portaltransparencia/
 
 ### Vale do Anari
