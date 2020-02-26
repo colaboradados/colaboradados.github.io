@@ -81,7 +81,7 @@ tags:
 
 ### PIAUÍ
 
-- **[Diário Oficial do Estado do Piauí](hhttp://www.diariooficial.pi.gov.br/diarios.php)**: http://www.diariooficial.pi.gov.br/
+- **[Diário Oficial do Estado do Piauí](http://www.diariooficial.pi.gov.br/diarios.php)**: http://www.diariooficial.pi.gov.br/
 - **[Governo do Estado do Piauí](http://transparencia.pi.gov.br/)**: http://transparencia.pi.gov.br
 
 ### RIO GRANDE DO NORTE

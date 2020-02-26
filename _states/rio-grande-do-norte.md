@@ -31,7 +31,7 @@ title: 'Rio Grande do Norte'
 
 ### Alto do Rodrigues
 
--  **[Portal da Transparência do Município de Alto do Rodrigues](http://transparencia.altodorodrigues.rn.gov.br/)**: http://transparencia.altodorodrigues.rn.gov.br/
+-  **[Portal da Transparência do Município de Alto do Rodrigues](http://170.79.153.44:5659/transparencia/)**: http://170.79.153.44:5659/transparencia/
 
 ### Angicos
 
@@ -55,7 +55,7 @@ title: 'Rio Grande do Norte'
 
 ### Arêz
 
--  **[Portal da Transparência do Município de Arêz](http://191.241.43.227:8080/transparencia/)**: http://191.241.43.227:8080/transparencia/
+-  **[Portal da Transparência do Município de Arêz](http://www.transparenciaicone.com.br/arezrn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/arezrn/portaldatransparencia/
 
 ### Assú
 
@@ -157,7 +157,7 @@ title: 'Rio Grande do Norte'
 
 ### Cruzeta
 
--  **[Portal da Transparência do Município de Cruzeta](http://177.107.104.26:8080/transparencia/)**: http://177.107.104.26:8080/transparencia/
+-  **[Portal da Transparência do Município de Cruzeta](http://177.107.104.26:8080/transparencia/despesas.aspx)**: http://177.107.104.26:8080/transparencia/despesas.aspx
 
 ### Currais Novos
 
@@ -433,7 +433,7 @@ title: 'Rio Grande do Norte'
 
 ### Passa e Fica
 
--  **[Portal da Transparência do Município de Passa e Fica](http://45.71.123.124:8079/transparencia/)**: http://45.71.123.124:8079/transparencia/
+-  **[Portal da Transparência do Município de Passa e Fica](http://transparenciapf.controletic.com.br/)**: http://transparenciapf.controletic.com.br/
 
 ### Passagem
 
@@ -465,7 +465,7 @@ title: 'Rio Grande do Norte'
 
 ### Pendências
 
--  **[Portal da Transparência do Município de Pendências](http://138.36.5.70:3370/transparencia/)**: http://138.36.5.70:3370/transparencia/
+-  **[Portal da Transparência do Município de Pendências](138.36.5.70:3370/transparencia/)**: 138.36.5.70:3370/transparencia/
 
 ### Pilões
 
@@ -473,7 +473,7 @@ title: 'Rio Grande do Norte'
 
 ### Poço Branco
 
--  **[Portal da Transparência do Município de Poço Branco](http://138.185.165.239/transparencia/)**: http://138.185.165.239/transparencia/
+-  **[Portal da Transparência do Município de Poço Branco](http://138.185.165.239/transparencia/despesas.aspx)**: http://138.185.165.239/transparencia/despesas.aspx
 
 ### Portalegre
 
@@ -565,7 +565,7 @@ title: 'Rio Grande do Norte'
 
 ### São José de Mipibu
 
--  **[Portal da Transparência do Município de São José de Mipibu](http://177.135.190.90:8080/transparencia/)**: http://177.135.190.90:8080/transparencia/
+-  **[Portal da Transparência do Município de São José de Mipibu](http://177.135.190.90:8080/transparencia)**: http://177.135.190.90:8080/transparencia
 
 ### São José do Seridó
 
@@ -649,7 +649,7 @@ title: 'Rio Grande do Norte'
 
 ### Tangará
 
--  **[Portal da Transparência do Município de Tangará](http://transparencia.tangara.rn.gov.br/)**: http://transparencia.tangara.rn.gov.br/
+-  **[Portal da Transparência do Município de Tangará](https://www.governotransparente.com.br/6885490?clean=false)**: https://www.governotransparente.com.br/6885490?clean=false
 
 ### Tenente Ananias
 
@@ -685,7 +685,7 @@ title: 'Rio Grande do Norte'
 
 ### Upanema
 
--  **[Portal da Transparência do Município de Upanema](http://168.232.150.251:8070/transparencia/)**: http://168.232.150.251:8070/transparencia/
+-  **[Portal da Transparência do Município de Upanema](http://168.232.150.251:8070/transparencia/despesas.aspx)**: http://168.232.150.251:8070/transparencia/despesas.aspx
 
 ### Várzea
 
