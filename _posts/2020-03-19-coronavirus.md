@@ -7,12 +7,3 @@ img: coronavirus
 tags:
 ---
 
-## - Bases
-
-
-
-## - Códigos
-
-
-
-## - Projetos
