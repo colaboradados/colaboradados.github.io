@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title:  "Coronavírus"
@@ -8,7 +7,7 @@ img: coronavirus
 tags: 
 ---
 
-    
+
 ## - Sites Governamentais
     
 [http://www.saopaulo.sp.gov.br/coronavirus/](Governo do Estado de São Paulo)
