@@ -36,7 +36,7 @@ tags: coronavirus
 
 - **[Instituto para a Redução de Riscos e Desastres de Pernambuco](https://www.irrd.org/covid-19/)**: https://www.irrd.org/covid-19/
 
-Mundial
+### Mundial
 
 - **[ViriHealth – Canada's Coronavirus COVID-19 Tracker](https://virihealth.com/)**: https://virihealth.com/
 
