@@ -4,67 +4,102 @@ title:  "Coronavírus"
 date:   2020-03-19 12:00:00 -0400
 categories: jekyll update
 img: coronavirus
-tags: 
+tags: coronavirus
 ---
 
 
-## - Sites Governamentais
-    
-[http://www.saopaulo.sp.gov.br/coronavirus/](Governo do Estado de São Paulo)
-[http://www.saude.pa.gov.br/coronavirus/](Secretaria de Saúde Pública do Pará)
-[https://saude.es.gov.br/Noticias](Secretaria de Estado da Saúde do Espírito Santo)
-[https://ourworldindata.org/coronavirus](Global Change Data Lab)
-[http://www.saude.al.gov.br/coronavirus/](Secretaria de Estado da Saúde de Alagoas)
-[http://agenciaalagoas.al.gov.br/coronavirus](Agência Alagoas, Governo do Estado de Alagoas)
-[www.saude.am.gov.br/painel/corona/](Secretaria de Estado de Saúde do Amazonas)
-[https://www.gov.uk/government/organisations/department-of-health-and-social-care](Governo britânico)
-[https://covid19api.com/](Coronavirus COVID19 API)
-[https://saude.rs.gov.br/coronavirus](Secretaria de Saúde do Estado do Rio Grande do Sul)
-[https://www.reddit.com/r/coronabr/](Reddit com informações moderadas a todo momento)
-[https://www.irrd.org/covid-19/](Instituto para a Redução de Riscos e Desastres de Pernambuco )
-[https://covidtrack.net/](CovidTrack.net)
-[https://covidly.com/](Múltiplas fontes)
-[https://virihealth.com/](ViriHealth – Canada's Coronavirus COVID-19 Tracker)
-[http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=223456&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA](Secretaria de Saúde Publica do Estado do Rio Grande do Norte)
-[https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Overvaagningsdata](Sundhedsstyrelsen (Ministério da saúde dinamarquês))
-[http://portal.saude.pi.gov.br/2020/inf_saude/epidemiologia/covid-19/covid-19.asp](Secretaria de Saúde do Estado do Piauí)
+## - SITES GOVERNAMENTAIS
 
+### Brasil
+
+- **[Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/)**: http://plataforma.saude.gov.br/novocoronavirus/
+
+- **[Governo do Estado de São Paulo](http://www.saopaulo.sp.gov.br/coronavirus/)**: http://www.saopaulo.sp.gov.br/coronavirus/
+
+- **[Secretaria de Saúde Pública do Pará](http://www.saude.pa.gov.br/coronavirus/)**: http://www.saude.pa.gov.br/coronavirus/
+
+- **[Secretaria de Saúde do Espírito Santo](https://saude.es.gov.br/Noticias)**: https://saude.es.gov.br/Noticias
+
+- **[Secretaria de Saúde de Alagoas](http://www.saude.al.gov.br/coronavirus/)**: http://www.saude.al.gov.br/coronavirus/
+
+- **[Agência Alagoas, Governo do Estado de Alagoas](http://agenciaalagoas.al.gov.br/coronavirus)**: http://agenciaalagoas.al.gov.br/coronavirus
+
+- **[Secretaria de Saúde do Amazonas](www.saude.am.gov.br/painel/corona/)**: www.saude.am.gov.br/painel/corona/
+
+- **[Secretaria de Saúde do Estado do Rio Grande do Sul](https://saude.rs.gov.br/coronavirus)**: https://saude.rs.gov.br/coronavirus
+
+- **[Centro de Informações Estratégicas de Vigilância em Saúde de Pernambuco](https://www.cievspe.com/novo-coronavirus-2019-ncov)**: https://www.cievspe.com/novo-coronavirus-2019-ncov
+
+- **[Secretaria de Saúde do Estado do Piauí](http://portal.saude.pi.gov.br/2020/inf_saude/epidemiologia/covid-19/covid-19.asp)**: http://portal.saude.pi.gov.br/2020/inf_saude/epidemiologia/covid-19/covid-19.asp
+
+- **[Secretaria de Saúde do Estado do Rio Grande do Norte](http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=223456&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA)**: http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=223456&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA
+
+- **[Instituto para a Redução de Riscos e Desastres de Pernambuco](https://www.irrd.org/covid-19/)**: https://www.irrd.org/covid-19/
+
+Mundial
+
+- **[ViriHealth – Canada's Coronavirus COVID-19 Tracker](https://virihealth.com/)**: https://virihealth.com/
+
+- **[Sundhedsstyrelsen (Ministério da saúde dinamarquês](https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Overvaagningsdata)**: https://www.sst.dk/da/Viden/Smitsomme-sygdomme/Smitsomme-sygdomme-A-AA/Coronavirus/Spoergsmaal-og-svar/Overvaagningsdata
+
+- **[Governo britânico](https://www.gov.uk/government/organisations/department-of-health-and-social-care)**: https://www.gov.uk/government/organisations/department-of-health-and-social-care
+
+- **[Global Change Data Lab](https://ourworldindata.org/coronavirus)**: https://ourworldindata.org/coronavirus
+
+- **[CovidTrack](https://covidtrack.net/)**: https://covidtrack.net/
+
+- **[Múltiplas fontes](https://covidly.com/)**: https://covidly.com/
+
+## - Relatórios Epidemiológicos
+
+- **[Secretaria de Vigilância em Saúde do Brasil](https://www.saude.gov.br/boletins-epidemiologicos)**: https://www.saude.gov.br/boletins-epidemiologicos
     
+- **[Secretaria de Estado de Saúde de Minas Gerais](https://www.saude.mg.gov.br/component/search/?all=%22Informe+Epidemiol%C3%B3gico+Coronav%C3%ADrus%22&area=all)**: https://www.saude.mg.gov.br/component/search/?all=%22Informe+Epidemiol%C3%B3gico+Coronav%C3%ADrus%22&area=all
+
+- **[Universidade Federal de Viçosa](https://labs.wesleycota.com/sarscov2/br/)**: https://labs.wesleycota.com/sarscov2/br/
+
+- **[Secretaria de Saúde do Estado da Bahia](http://www.saude.ba.gov.br/temasdesaude/coronavirus/#duvidas)**: http://www.saude.ba.gov.br/temasdesaude/coronavirus/#duvidas 
+
+- **[Secretaria de Saúde do Estado do Distrito Federal](http://www.saude.df.gov.br/boletins-medicos-coronavirus/)**: http://www.saude.df.gov.br/boletins-medicos-coronavirus/
+
+- **[Secretaria de Saúde do Estado do Rio de Janeiro](https://coronavirus.rj.gov.br/boletins/)**: https://coronavirus.rj.gov.br/boletins/
+
+- **[Secretaria de Saúde do Estado do Paraná](http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=3507)**: http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=3507
+
+- **[Secretaria de Saúde do Estado de Santa Catarina](http://www.saude.sc.gov.br/coronavirus/boletins.html)**: http://www.saude.sc.gov.br/coronavirus/boletins.html
+
+- **[Secretaria de Saúde do Estado do Ceará](https://www.saude.ce.gov.br/download/boletins/)**: https://www.saude.ce.gov.br/download/boletins/
+
 ## - Bases
     
-[https://www.cievspe.com/novo-coronavirus-2019-ncov](Centro de Informações Estratégicas de Vigilância em Saúde de Pernambuco)
-[http://plataforma.saude.gov.br/novocoronavirus/](Ministério da Saúde)
-[https://covidtracking.com/](The COVID Tracking Project)
+- **[The COVID Tracking Project](https://covidtracking.com/)**: https://covidtracking.com/
+- **[Brasil.io](https://brasil.io/dataset/covid19/boletim)**: https://brasil.io/dataset/covid19/boletim
+- **[Brasil.io](https://brasil.io/dataset/covid19/caso)**: https://brasil.io/dataset/covid19/caso
 
-    
 ## - Repositórios de Códigos
     
-[https://github.com/CSSEGISandData/COVID-19](Johns Hopkins University )
-[https://github.com/rodrilima/corona-analytic-api](GitHub - rodrilima/corona-analytic-api: API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world)
-[https://liibre.github.io/coronabr/](Download de dados do coronavírus • coronabr)
-[https://paternogbc.github.io/covid19br/index.html](Corona Virus (covid-19) Data for Brasil • covid19br)
-[https://covid19br.github.io](Observatório COVID-19 BR)
-[https://brasil.io/dataset/covid19/boletim](Brasil.io)
-[https://brasil.io/dataset/covid19/caso](Brasil.io)
-[Mapeamento SBI Imuno: Grupos Brasileiros de Pesquisa Imunológica em Covid-19  ](Sociedade Brasileira de Imunologia )
+- **[Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)**: https://github.com/CSSEGISandData/COVID-19
 
-    
-## - Relatórios Epidemiológicos
-    
-[https://www.saude.mg.gov.br/component/search/?all=%22Informe+Epidemiol%C3%B3gico+Coronav%C3%ADrus%22&area=all](https://docs.google.com/spreadsheets/d/1JALlvOAolTQXad38ffSVHe0-TfjgBYDSpbQqQBIjRyE/edit#gid=0)
-[http://www.saude.ba.gov.br/temasdesaude/coronavirus/#duvidas](Secretaria de Saúde do Estado da Bahia)
-[http://www.saude.df.gov.br/boletins-medicos-coronavirus/](Secretaria de Saúde do Estado do Distrito Federal)
-[https://coronavirus.rj.gov.br/boletins/](Secretaria de Saúde do Estado do Rio de Janeiro)
-[http://www.saude.pr.gov.br/modules/conteudo/conteudo.php?conteudo=3507](Secretaria de Saúde do Estado do Paraná)
-[http://www.saude.sc.gov.br/coronavirus/boletins.html](Secretaria de Saúde do Estado de Santa Catarina)
-[https://www.saude.gov.br/boletins-epidemiologicos](Secretaria de Vigilância em Saúde do Brasil)
-[https://www.saude.ce.gov.br/download/boletins/](Secretaria de Saúde do Estado do Ceará)
-[https://labs.wesleycota.com/sarscov2/br/](Universidade Federal de Viçosa)
+- **[GitHub - rodrilima/corona-analytic-api: API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world](https://github.com/rodrilima/corona-analytic-api)**: https://github.com/rodrilima/corona-analytic-api
 
-    
+- **[Download de dados do coronavírus • coronabr](https://liibre.github.io/coronabr/)**: https://liibre.github.io/coronabr/
+
+- **[Corona Virus (covid-19) Data for Brasil - Covid19br](https://paternogbc.github.io/covid19br/index.html)**: https://paternogbc.github.io/covid19br/index.html
+
+- **[Observatório COVID-19 BR](https://covid19br.github.io)**: https://covid19br.github.io
+
+- **[Coronavirus COVID19 API](https://covid19api.com/)**: https://covid19api.com/
+        
 ## - Visualizações e Mapas
     
-[https://apps.crowdtangle.com/public-hub/covid19](CrowdTangle)
-[https://spgsc.maps.arcgis.com/apps/opsdashboard/index.html#/e9dd667200b54291b9255a22a716a0d0](Secretaria de Estado do Planejamento - Corona em Santa Catarina)
-[https://resources-covid19canada.hub.arcgis.com/](COVID-19 Canada)
-[https://covid19.data.eti.br](Dados recolhidos de api pública que provê dados da Johns Hopkins University )
+- **[CrowdTangle](https://apps.crowdtangle.com/public-hub/covid19)**: https://apps.crowdtangle.com/public-hub/covid19
+
+- **[Secretaria de Estado do Planejamento - Corona em Santa Catarina](https://spgsc.maps.arcgis.com/apps/opsdashboard/index.html#/e9dd667200b54291b9255a22a716a0d0)**: https://spgsc.maps.arcgis.com/apps/opsdashboard/index.html#/e9dd667200b54291b9255a22a716a0d0
+
+- **[COVID-19 Canada](https://resources-covid19canada.hub.arcgis.com/)**: https://resources-covid19canada.hub.arcgis.com/
+
+- **[Dados recolhidos de api pública que provê dados da Johns Hopkins University](https://covid19.data.eti.br)**: https://covid19.data.eti.br
+
+## - Outros
+
+- **[Reddit com informações moderadas a todo momento](https://www.reddit.com/r/coronabr/)**: https://www.reddit.com/r/coronabr/
