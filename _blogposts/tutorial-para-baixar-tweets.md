@@ -38,9 +38,7 @@ Em username vamos colocar a arroba do Eduardo Cunha: `@DepEduardoCunha`. Em file
 
 E aí, a mágica acontece e você verá seu computador trabalhando para baixar os dados para você, como na imagem abaixo.
 
-![Print screen do raspador funcionando]({{ site.url }}{{ site.baseurl }}/images/blog/tutorial-para-baixar-tweets/print_raspa.jpg?style=centerme)
-
-![](print_raspa.png)
+![Print screen do raspador funcionando]({{ site.url }}{{ site.baseurl }}/images/blog/tutorial-para-baixar-tweets/print_raspa.png?style=centerme)
 
 Agora, é só abrir o csv baixado e conferir os dados. 
 
