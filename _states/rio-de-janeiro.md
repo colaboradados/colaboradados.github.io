@@ -3,372 +3,374 @@ layout: default
 title: 'Rio de Janeiro'
 ---
 
-### ANGRA DOS REIS
+### Angra Dos Reis
 
 - **[Prefeitura de Angra dos Reis](http://www.angra.rj.gov.br/secretaria.asp?indexsigla=transp)**: http://www.angra.rj.gov.br/secretaria.asp?indexsigla=transp
 
-### APERIBÉ
+### Aperibé
 
 - **[Prefeitura de Aperibé](http://www.aperibe.rj.gov.br/portal)**: http://www.aperibe.rj.gov.br/portal
 
-### ARARUAMA
+### Araruama
 
 - **[Prefeitura de Araruama](https://www.araruama.rj.gov.br/transparencia/)**: https://www.araruama.rj.gov.br/transparencia/
 
-### AREAL
+### Areal
 
 - **[Prefeitura de Areal](http://areal.rj.gov.br/portal-da-transparencia-2/)**: http://areal.rj.gov.br/portal-da-transparencia-2/
 
-### ARMAÇÃO DOS BÚZIOS
+### Armação Dos Búzios
 
-- **[Prefeitura de Armação dos Búzios](http://www.buzios.rj.gov.br/transparencia/Default)**: http://www.buzios.rj.gov.br/transparencia/Default
+- **[Prefeitura de Armação dos Búzios](http://transparencia.buzios.rj.gov.br/)**: http://transparencia.buzios.rj.gov.br/
 
-### ARRAIAL DO CABO
+### Arraial Do Cabo
 
 - **[Prefeitura de Arraial do Cabo](http://186.237.32.90:2018/contaspublicas/)**: http://186.237.32.90:2018/contaspublicas/
 
-### BARRA DO PIRAÍ
+### Barra Do Piraí
 
 - **[Prefeitura de Barra do Piraí](http://transparencia.portalbarradopirai.com.br/index.php/pt/)**: http://transparencia.portalbarradopirai.com.br/index.php/pt/
 
-### BARRA MANSA
+### Barra Mansa
 
 - **[Prefeitura de Barra Mansa](http://www.barramansa.rj.gov.br/transparencia/index.php/en/)**: http://www.barramansa.rj.gov.br/transparencia/index.php/en/
 
-### BELFORD ROXO
+### Belford Roxo
 
 - **[Prefeitura de Belford Roxo](http://transparencia.prefeituradebelfordroxo.rj.gov.br/)**: http://transparencia.prefeituradebelfordroxo.rj.gov.br/
 
-### BOM JARDIM
+### Bom Jardim
 
 - **[Prefeitura de Bom Jardim](http://www.bomjardim.rj.gov.br/e-sic/)**: http://www.bomjardim.rj.gov.br/e-sic/
 
-### BOM JESUS DO ITABAPOANA
+### Bom Jesus Do Itabapoana
 
 - **[Prefeitura de Bom Jesus do Itabapoana](http://transparencia.bomjesus.rj.gov.br:8079/transparencia)**: http://transparencia.bomjesus.rj.gov.br:8079/transparencia
 
-### CABO FRIO
+### Cabo Frio
 
 - **[Prefeitura de Cabo Frio](http://cabofrio.rj.gov.br/transparencia/)**: http://cabofrio.rj.gov.br/transparencia/
 
-### CACHOEIRAS DE MACACU
+### Cachoeiras De Macacu
 
 - **[Prefeitura de Cachoeiras de Macacu](https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=NmwYKTAEBjQ=)**: https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=NmwYKTAEBjQ=
 
-### CAMBUCI
+### Cambuci
 
 - **[Prefeitura de Cambuci](http://prefeituradecambuci.rj.gov.br/transparencia/)**: http://prefeituradecambuci.rj.gov.br/transparencia/
 
-### CAMPOS DOS GOYTACAZES
+### Campos Dos Goytacazes
 
 - **[Prefeitura de Campos dos Goytacazes](https://transparencia.campos.rj.gov.br/home)**: https://transparencia.campos.rj.gov.br/home
 
-### CANTAGALO
+### Cantagalo
 
 - **[Prefeitura de Cantagalo](https://www.cantagalo.rj.gov.br/transparencia)**: https://www.cantagalo.rj.gov.br/transparencia
 
-### CARAPEBUS
+### Carapebus
 
 - **[Prefeitura de Carapebus](http://pt.carapebus.rj.gov.br/)**: http://pt.carapebus.rj.gov.br/
 
-### CARDOSO MOREIRA
+### Cardoso Moreira
 
 - **[Prefeitura de Cardoso Moreira](http://transparencia.cardosomoreira.rj.gov.br:8079/transparencia/)**: http://transparencia.cardosomoreira.rj.gov.br:8079/transparencia/
 
-### CARMO
+### Carmo
 
 - **[Prefeitura de Carmo](http://www.carmo.rj.gov.br/transparencia)**: http://www.carmo.rj.gov.br/transparencia
 
-### CASIMIRO DE ABREU
+### Casimiro De Abreu
 
 - **[Prefeitura de Casimiro de Abreu](http://transparencia.casimirodeabreu.rj.gov.br/)**: http://transparencia.casimirodeabreu.rj.gov.br/
 
-### COMENDADOR LEVY GASPARIAN
+### Comendador Levy Gasparian
 
 - **[Prefeitura de Comendador Levy Gasparian](http://pt.levygasparian.rj.gov.br/)**: http://pt.levygasparian.rj.gov.br/
 
-### CONCEIÇÃO DE MACABU
+### Conceição De Macabu
 
 - **[Prefeitura de Conceição de Macabu](http://pt.conceicaodemacabu.rj.gov.br/)**: http://pt.conceicaodemacabu.rj.gov.br/
 
-### CORDEIRO
+### Cordeiro
 
 - **[Prefeitura de Cordeiro](http://www.cordeiro.rj.gov.br/portal)**: http://www.cordeiro.rj.gov.br/portal
 
-### DUAS BARRAS
+### Duas Barras
 
 - **[Prefeitura de Duas Barras](http://www.duasbarras.rj.gov.br/portal)**: http://www.duasbarras.rj.gov.br/portal
 
-### DUQUE DE CAXIAS
+### Duque De Caxias
 
 - **[Prefeitura de Duque de Caxias](http://transparencia.duquedecaxias.rj.gov.br/)**: http://transparencia.duquedecaxias.rj.gov.br/
 
-### ENGENHEIRO PAULO DE FRONTIN
+### Engenheiro Paulo De Frontin
 
 - **[Prefeitura de Engenheiro Paulo de Frontin](https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=LM2jR8s96JlZWH5V0U0nBOKj-tSyQHef)**: https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=LM2jR8s96JlZWH5V0U0nBOKj-tSyQHef
 
-### GUAPIMIRIM
+### Guapimirim
 
 - **[Prefeitura de Guapimirim](http://guapimirim.rj.gov.br/transparencia/)**: http://guapimirim.rj.gov.br/transparencia/
 
-### IGUABA GRANDE
+### Iguaba Grande
 
 - **[Prefeitura de Iguaba Grande](http://digital.iguaba.rj.gov.br/)**: http://digital.iguaba.rj.gov.br/
 
-### ITABORAÍ
+### Itaboraí
 
 - **[Prefeitura de Itaboraí](https://www.itaborai.rj.gov.br/cidade-transparente/)**: https://www.itaborai.rj.gov.br/cidade-transparente/
 
-### ITAGUAÍ
+### Itaguaí
 
 - **[Prefeitura de Itaguaí](http://transparencia.itaguai.rj.gov.br/)**: http://transparencia.itaguai.rj.gov.br/
 
-### ITALVA
+### Italva
 
 - **[Prefeitura de Italva](http://transparencia.italva.rj.gov.br/pronimtb/index.asp)**: http://transparencia.italva.rj.gov.br/pronimtb/index.asp
 
-### ITAOCARA
+### Itaocara
 
 - **[Prefeitura de Itaocara](http://itaocara.rj.gov.br/transparencia/)**: http://itaocara.rj.gov.br/transparencia/
 
-### ITAPERUNA
+### Itaperuna
 
-- **[Prefeitura de Itaperuna](http://177.223.12.122:81/pronimtb/)**: http://177.223.12.122:81/pronimtb/
+- **[Prefeitura de Itaperuna](http://186.208.242.228:81/pronimtb/)**: http://186.208.242.228:81/pronimtb/
 
-### ITATIAIA
+### Itatiaia
 
 - **[Prefeitura de Itatiaia](https://itatiaia.rj.gov.br/acesso-a-informacao)**: https://itatiaia.rj.gov.br/acesso-a-informacao
 
-### JAPERI
+### Japeri
 
-- **[Prefeitura de Japeri](http://www.japeri.rj.gov.br/novatransparencia/)**: http://www.japeri.rj.gov.br/novatransparencia/
+- **[Prefeitura de Japeri](http://siapegov.japeri.rj.gov.br/portal-transparencia/home)**: http://siapegov.japeri.rj.gov.br/portal-transparencia/home
 
-### LAJE DO MURIAÉ
+### Laje Do Muriaé
 
 - **[Prefeitura de Laje do Muriaé](http://laje.rj.gov.br/transparencia/)**: http://laje.rj.gov.br/transparencia/
 
-### MACAÉ
+### Macaé
 
 - **[Prefeitura de Macaé](http://sistemas.macae.rj.gov.br:84/transparencia/)**: http://sistemas.macae.rj.gov.br:84/transparencia/
 
-### MACUCO
+### Macuco
 
 - **[Prefeitura de Macuco](http://prefeituramacuco.rj.gov.br/prefpop/index.html)**: http://prefeituramacuco.rj.gov.br/prefpop/index.html
 
-### MAGÉ
+### Magé
 
 - **[Prefeitura de Magé](http://transparencia.mage.rj.gov.br/)**: http://transparencia.mage.rj.gov.br/
 
-### MANGARATIBA
+### Mangaratiba
 
 - **[Prefeitura de Mangaratiba](https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=WppxBH47Kza1Cw1lEux3UylrmoIL_iuG)**: https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=WppxBH47Kza1Cw1lEux3UylrmoIL_iuG
 
-### MARICÁ
+### Maricá
 
 - **[Prefeitura de Maricá](http://ecidadeonline.marica.rj.gov.br/e-cidade_transparencia_inte/)**: http://ecidadeonline.marica.rj.gov.br/e-cidade_transparencia_inte/
 
-### MENDES
+### Mendes
 
 - **[Prefeitura de Mendes](http://www.mendes.rj.gov.br/234)**: http://www.mendes.rj.gov.br/234
 
-### MESQUITA
+### Mesquita
 
 - **[Prefeitura de Mesquita](http://transparencia.mesquita.rj.gov.br/)**: http://transparencia.mesquita.rj.gov.br/
 
-### MIGUEL PEREIRA
+### Miguel Pereira
 
 - **[Prefeitura de Miguel Pereira](http://transparencia.pmmp.rj.gov.br/)**: http://transparencia.pmmp.rj.gov.br/
 
-### MIRACEMA
+### Miracema
 
 - **[Prefeitura de Miracema](http://miracema.rj.gov.br/transparencia/)**: http://miracema.rj.gov.br/transparencia/
 
-### NATIVIDADE
+### Natividade
 
 - **[Prefeitura de Natividade](http://179.109.158.34:8079/transparencia/)**: http://179.109.158.34:8079/transparencia/
 
-### NILÓPOLIS
+### Nilópolis
 
 - **[Prefeitura de Nilópolis](http://nilopolis.rj.gov.br/site/transparencia/)**: http://nilopolis.rj.gov.br/site/transparencia/
 
-### NITERÓI
+### Niterói
 
+- **[Geoportal Civitas](https://geo.niteroi.rj.gov.br/civitasgeoportal/)**: https://geo.niteroi.rj.gov.br/civitasgeoportal/
+- **[Observatório de Indicadores](http://observa.niteroi.rj.gov.br/)**: http://observa.niteroi.rj.gov.br/
 - **[Prefeitura de Niterói](http://portais.niteroi.rj.gov.br/portal-da-transparencia/)**: http://portais.niteroi.rj.gov.br/portal-da-transparencia/
 
-### NOVA FRIBURGO
+### Nova Friburgo
 
 - **[Prefeitura de Nova Friburgo](http://transparencia.pmnf.rj.gov.br/)**: http://transparencia.pmnf.rj.gov.br/
 
-### NOVA IGUAÇU
+### Nova Iguaçu
 
-- **[Prefeitura de Nova Iguaçu](http://dstec01.cloudapp.net/esiclivre/)**: http://dstec01.cloudapp.net/esiclivre/
+- **[Prefeitura de Nova Iguaçu](http://receita.novaiguacu.rj.gov.br:8484/portal-transparencia/home)**: http://receita.novaiguacu.rj.gov.br:8484/portal-transparencia/home
 
-### PARACAMBI
+### Paracambi
 
 - **[Prefeitura de Paracambi](https://paracambi.ccanet.com.br/transparencia)**: https://paracambi.ccanet.com.br/transparencia
 
-### PARAÍBA DO SUL
+### Paraíba Do Sul
 
 - **[Prefeitura de Paraíba do Sul](http://paraibadosul.rj.gov.br/transparencia)**: http://paraibadosul.rj.gov.br/transparencia
 
-### PARATY
+### Paraty
 
 - **[Prefeitura de Paraty](http://pmparaty.web2382.uni5.net/blogtransparencia/index.aspx)**: http://pmparaty.web2382.uni5.net/blogtransparencia/index.aspx
 
-### PATY DO ALFERES
+### Paty Do Alferes
 
-- **[Prefeitura de Paty do Alferes](http://200.199.78.2/e-cidade_transparencia/)**: http://200.199.78.2/e-cidade_transparencia/
+- **[Prefeitura de Paty do Alferes](http://177.155.184.58/e-cidade_transparencia/)**: http://177.155.184.58/e-cidade_transparencia/
 
-### PETRÓPOLIS
+### Petrópolis
 
 - **[Prefeitura de Petrópolis](http://www.petropolis.rj.gov.br/pmp/index.php/transparencia-servico/home-transparencia.html)**: http://www.petropolis.rj.gov.br/pmp/index.php/transparencia-servico/home-transparencia.html
 
-### PINHEIRAL
+### Pinheiral
 
 - **[Prefeitura de Pinheiral](http://www.pinheiral.rj.gov.br/PortalTransparencia/)**: http://www.pinheiral.rj.gov.br/PortalTransparencia/
 
-### PIRAÍ
+### Piraí
 
 - **[Prefeitura de Piraí](https://transparencia.pirai.rj.gov.br/)**: https://transparencia.pirai.rj.gov.br/
 
-### PORCIÚNCULA
+### Porciúncula
 
 - **[Prefeitura de Porciúncula](http://transparencia.porciuncula.rj.gov.br:8079/transparencia)**: http://transparencia.porciuncula.rj.gov.br:8079/transparencia
 
-### PORTO REAL
+### Porto Real
 
 - **[Prefeitura de Porto Real](http://s2.asp.srv.br/etransparencia.pm.portoreal.rj/servlet/portal)**: http://s2.asp.srv.br/etransparencia.pm.portoreal.rj/servlet/portal
 
-### QUATIS
+### Quatis
 
-- **[Prefeitura de Quatis](transparencia.quatis.rj.gov.bcr)**: transparencia.quatis.rj.gov.bcr
+- **[Prefeitura de Quatis](http://transparencia.quatis.rj.gov.br/)**: http://transparencia.quatis.rj.gov.br/
 
-### QUEIMADOS
+### Queimados
 
-- **[Prefeitura de Queimados](http://semad.queimados.rj.gov.br/)**: http://semad.queimados.rj.gov.br/
+- **[Prefeitura de Queimados](https://www.queimados.rj.gov.br/portal/transparencia)**: https://www.queimados.rj.gov.br/portal/transparencia
 
-### QUISSAMÃ
+### Quissamã
 
 - **[Prefeitura de Quissamã](http://transparencia.quissama.rj.gov.br/contaspublicas/)**: http://transparencia.quissama.rj.gov.br/contaspublicas/
 
-### RESENDE
+### Resende
 
 - **[Prefeitura de Resende](http://resende.rj.gov.br/blogtransparencia/page/index.asp)**: http://resende.rj.gov.br/blogtransparencia/page/index.asp
 
-### RIO BONITO
+### Rio Bonito
 
 - **[Prefeitura de Rio Bonito](https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=ZNMCq9WbIVc=)**: https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=ZNMCq9WbIVc=
 
-### RIO CLARO
+### Rio Claro
 
 - **[Prefeitura de Rio Claro](https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=vmkUEqRPbWusgJfn2UjAO_5-6qALcbpz)**: https://e-gov.betha.com.br/transparencia/01037-004/recursos.faces?mun=vmkUEqRPbWusgJfn2UjAO_5-6qALcbpz
 
-### RIO DAS FLÔRES
+### Rio Das Flôres
 
 - **[Prefeitura de Rio das Flôres](http://transparenciapmrf.primaxonline.com.br/)**: http://transparenciapmrf.primaxonline.com.br/
 
-### RIO DAS OSTRAS
+### Rio Das Ostras
 
 - **[Prefeitura de Rio das Ostras](https://www.riodasostras.rj.gov.br/transparencia/)**: https://www.riodasostras.rj.gov.br/transparencia/
 
-### RIO DE JANEIRO
+### Rio De Janeiro
 
 - **[Prefeitura do Rio de Janeiro](http://prefeitura.rio/web/transparenciacarioca)**: http://prefeitura.rio/web/transparenciacarioca
 - **[DATA.Rio](http://www.data.rio/)**: http://www.data.rio/
 
-### SANTA MARIA MADALENA
+### Santa Maria Madalena
 
 - **[Prefeitura de Santa Maria Madalena](https://www.pmsmm.rj.gov.br/portal_transparencia)**: https://www.pmsmm.rj.gov.br/portal_transparencia
 
-### SANTO ANTÔNIO DE PÁDUA
+### Santo Antônio De Pádua
 
 - **[Prefeitura de Santo Antônio de Pádua](http://santoantoniodepadua.rj.gov.br/transparencia/)**: http://santoantoniodepadua.rj.gov.br/transparencia/
 
-### SÃO FIDÉLIS
+### São Fidélis
 
 - **[Prefeitura de São Fidélis](http://177.66.89.34:8079/Transparencia/)**: http://177.66.89.34:8079/Transparencia/
 
-### SÃO FRANCISCO DE ITABAPOANA
+### São Francisco De Itabapoana
 
-- **[Prefeitura de São Francisco de Itabapoana](http://www.pmsfi.rj.gov.br/portal-da-transparencia/)**: http://www.pmsfi.rj.gov.br/portal-da-transparencia/
+- **[Prefeitura de São Francisco de Itabapoana](https://www.pmsfi.rj.gov.br/portal-da-transparencia/)**: https://www.pmsfi.rj.gov.br/portal-da-transparencia/
 
-### SÃO GONÇALO
+### São Gonçalo
 
 - **[Portal da Transparência da Prefeitura de São Gonçalo](https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo)**: https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo
 - **[Prefeitura de São Gonçalo](http://www.pmsg.rj.gov.br/transparencia/)**: http://www.pmsg.rj.gov.br/transparencia/
 
-### SÃO JOÃO DA BARRA
+### São João Da Barra
 
 - **[Prefeitura de São João da Barra](https://saojoaodabarra-rj.portaltp.com.br/consultas/institucional/arquivo.aspx)**: https://saojoaodabarra-rj.portaltp.com.br/consultas/institucional/arquivo.aspx
 
-### SÃO JOÃO DE MERITI
+### São João De Meriti
 
 - **[Prefeitura de São João de Meriti](http://transparencia.meriti.rj.gov.br/?serv=28)**: http://transparencia.meriti.rj.gov.br/?serv=28
 
-### SAO JOSÉ DE UBÁ
+### Sao José De Ubá
 
 - **[Prefeitura de Sao José de Ubá](http://pt.saojosedeuba.rj.gov.br/pronimtb/)**: http://pt.saojosedeuba.rj.gov.br/pronimtb/
 
-### SÃO JOSÉ DO VALE DO RIO PRETO
+### São José Do Vale Do Rio Preto
 
 - **[Prefeitura de São José do Vale do Rio Preto](https://e-gov.betha.com.br/transparencia/01037-005/recursos.faces)**: https://e-gov.betha.com.br/transparencia/01037-005/recursos.faces
 
-### SÃO PEDRO DA ALDEIA
+### São Pedro Da Aldeia
 
 - **[Prefeitura de São Pedro da Aldeia](http://transparencia.pmspa.rj.gov.br/)**: http://transparencia.pmspa.rj.gov.br/
 
-### SÃO SEBASTIÃO DO ALTO
+### São Sebastião Do Alto
 
 - **[Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/portal-da-transparencia/)**: http://ssalto.rj.gov.br/portal-da-transparencia/
 
-### SAPUCAIA
+### Sapucaia
 
 - **[Prefeitura de Sapucaia](http://sapucaia.rj.gov.br/servicos/index.html)**: http://sapucaia.rj.gov.br/servicos/index.html
 
-### SAQUAREMA
+### Saquarema
 
 - **[Prefeitura de Saquarema](http://transparencia.saquarema.rj.gov.br/)**: http://transparencia.saquarema.rj.gov.br/
 
-### SEROPÉDICA
+### Seropédica
 
 - **[Prefeitura de Seropédica](http://transparencia.seropedica.rj.gov.br/)**: http://transparencia.seropedica.rj.gov.br/
 
-### SILVA JARDIM
+### Silva Jardim
 
 - **[Prefeitura de Silva Jardim](http://cidadao.silvajardim.rj.gov.br/pronimtb/index.asp)**: http://cidadao.silvajardim.rj.gov.br/pronimtb/index.asp
 
-### SUMIDOURO
+### Sumidouro
 
 - **[Prefeitura de Sumidouro](http://www.sumidouro.rj.gov.br/menu-transparencia/)**: http://www.sumidouro.rj.gov.br/menu-transparencia/
 
-### TANGUÁ
+### Tanguá
 
 - **[Prefeitura de Tanguá](https://tangua.rj.gov.br/transparencia/)**: https://tangua.rj.gov.br/transparencia/
 
-### TERESÓPOLIS
+### Teresópolis
 
 - **[Prefeitura de Teresópolis](https://teresopolis.rj.gov.br/transparencia/)**: https://teresopolis.rj.gov.br/transparencia/
 
-### TRAJANO DE MORAES
+### Trajano De Moraes
 
 - **[Prefeitura de Trajano de Moraes](https://trajanotransparente.rj.gov.br/)**: https://trajanotransparente.rj.gov.br/
 
-### TRÊS RIOS
+### Três Rios
 
 - **[Prefeitura de Três Rios](http://transparencia-pmtr.sgpsystems.com.br/)**: http://transparencia-pmtr.sgpsystems.com.br/
 
-### VALENÇA
+### Valença
 
 - **[Prefeitura de Valença](http://www.valenca.rj.gov.br/transparencia/)**: http://www.valenca.rj.gov.br/transparencia/
 
-### VARRE-SAI
+### Varre-Sai
 
 - **[Prefeitura de Varre-Sai](http://transparencia.varresai.rj.gov.br:8090/pronimtb/)**: http://transparencia.varresai.rj.gov.br:8090/pronimtb/
 
-### VASSOURAS
+### Vassouras
 
-- **[Prefeitura de Vassouras](http://186.226.210.213/pronimtb/)**: http://186.226.210.213/pronimtb/
+- **[Prefeitura de Vassouras](https://www.vassouras.rj.gov.br/transparencia)**: https://www.vassouras.rj.gov.br/transparencia
 
-### VOLTA REDONDA
+### Volta Redonda
 
 - **[Prefeitura de Volta Redonda](http://www.voltaredonda.rj.gov.br/transparencia/)**: http://www.voltaredonda.rj.gov.br/transparencia/

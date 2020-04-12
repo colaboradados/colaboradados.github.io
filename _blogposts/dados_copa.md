@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: posts
 title: "Resgatando os dados do Portal da Copa do Mundo de 2014"
 author: João Ernane
+date: 06/09/2019
 tags: dados da copa 2014, transparencia, lai
 ---
 
@@ -31,7 +32,7 @@ Dentre as várias funcionalidades desta ferramenta, como fazer download e realiz
 
 Para tanto, basta instalar a ferramenta e configurar por meio do comando `ia configure`, utilizando as credenciais criadas no momento do registro da conta de usuário, repetindo o e-mail e a senha.
 
-Para upload, a sintaxe esperada é um pouco diferente, segundo a [documentação oficial](https://archive.org/services/docs/api/internetarchive/cli.html#upload): 
+Para upload, a sintaxe esperada é um pouco diferente, segundo a [documentação oficial](https://archive.org/services/docs/api/internetarchive/cli.html#upload):
 
 `$ ia upload <identifier> file1 file2 --metadata="mediatype:texts" --metadata="blah:arg"`
 
@@ -53,7 +54,7 @@ Para tanto, precisamos preparar uma série de arquivos `.csv` com cabeçalhos e 
 | Portal-Copa-2014_anexos  |anexos/Portal da Copa anexo/**1**   | Arquivos do Portal da Copa 2014 adquiridos pela equipe do Colaboradados via Lei de Acesso à Informação em Maio-Junho/2019 |
 | Portal-Copa-2014_anexos  |anexos/Portal da Copa anexo/**2**   | Arquivos do Portal da Copa 2014 adquiridos pela equipe do Colaboradados via Lei de Acesso à Informação em Maio-Junho/2019
 | Portal-Copa-2014_anexos  |anexos/Portal da Copa anexo/**3**   | Arquivos do Portal da Copa 2014 adquiridos pela equipe do Colaboradados via Lei de Acesso à Informação em Maio-Junho/2019
-| ...  | ... | ... | 
+| ...  | ... | ... |
 | Portal-Copa-2014_anexos  |anexos/Portal da Copa anexo/***enésima pasta*** | Arquivos do Portal da Copa 2014 adquiridos pela equipe do Colaboradados via Lei de Acesso à Informação em Maio-Junho/2019
 
 Ao apontar o caminho das pastas, o programa `ia` automaticamente realiza o upload dos arquivos dentro destas, sem a necessidade de apontar o caminho destes individualmente.

@@ -31,7 +31,7 @@ tags:
 
 ### RONDÔNIA
 
-- **[Diário Oficial do Estado de Rondônia](http://www.diof.ro.gov.br/data/uploads/)**: http://www.diof.ro.gov.br/data/uploads/
+- **[Diário Oficial do Estado de Rondônia](http://www.diof.ro.gov.br/)**: http://www.diof.ro.gov.br/
 - **[Governo do Estado de Rondônia](http://www.transparencia.ro.gov.br/)**: http://www.transparencia.ro.gov.br/
 
 ### RORAIMA
@@ -54,7 +54,7 @@ tags:
 
 ### BAHIA
 
-- **[Diário Oficial do Estado da Bahia](hhttp://diarios.egba.ba.gov.br/html/_DODia/DO_frm0.html)**: http://diarios.egba.ba.gov.br
+- **[Diário Oficial do Estado da Bahia](http://diarios.egba.ba.gov.br/html/_DODia/DO_frm0.html)**: http://diarios.egba.ba.gov.br
 - **[Governo do Estado da Bahia](http://www.transparencia.ba.gov.br/)**: http://www.transparencia.ba.gov.br/
 
 ### CEARÁ
@@ -81,7 +81,7 @@ tags:
 
 ### PIAUÍ
 
-- **[Diário Oficial do Estado do Piauí](hhttp://www.diariooficial.pi.gov.br/diarios.php)**: http://www.diariooficial.pi.gov.br/
+- **[Diário Oficial do Estado do Piauí](http://www.diariooficial.pi.gov.br/diarios.php)**: http://www.diariooficial.pi.gov.br/
 - **[Governo do Estado do Piauí](http://transparencia.pi.gov.br/)**: http://transparencia.pi.gov.br
 
 ### RIO GRANDE DO NORTE
@@ -140,6 +140,7 @@ tags:
 - **[Diário Oficial do Estado do Rio de Janeiro](http://www.ioerj.com.br/portal/modules/content/index.php?id=21)**: http://www.ioerj.com.br
 - **[Governo do Estado do Rio de Janeiro](http://www.transparencia.rj.gov.br/)**: http://www.transparencia.rj.gov.br
 - **[MP em Mapas (Ministério Público do Estado do Rio de Janeiro)](http://apps.mprj.mp.br/sistema/cadg/)**: http://apps.mprj.mp.br/sistema/cadg/
+- **[ISPDados (Dados Abertos do Instituto de Segurança Pública)](http://www.ispdados.rj.gov.br/)**: http://www.ispdados.rj.gov.br/
 
 ## REGIÃO SUL
 
@@ -152,6 +153,7 @@ tags:
 
 - **[Diário Oficial do Estado do Rio Grande do Sul](https://www.diariooficial.rs.gov.br/)**: https://www.diariooficial.rs.gov.br/
 - **[Governo do Estado do Rio Grande do Sul](http://www.transparencia.rs.gov.br/)**: http://www.transparencia.rs.gov.br/
+- **[Secretária de Saúde do Estado do Rio Grande do Sul](http://bipublico.saude.rs.gov.br/index.htm)**: http://bipublico.saude.rs.gov.br/index.htm
 
 ### SANTA CATARINA
 

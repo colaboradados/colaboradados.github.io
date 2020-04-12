@@ -5,7 +5,7 @@ title: 'Paraíba'
 
 ### Cajazeiras
 
-- **[Portal da Transparência do Município de Cajazeiras](https://cajazeiras.pb.gov.br/transparencia/)**: https://cajazeiras.pb.gov.br/transparencia/
+- **[Portal da Transparência do Município de Cajazeiras](http://www.cajazeiras.pb.gov.br/transparencia.php)**: http://www.cajazeiras.pb.gov.br/transparencia.php
 
 ### Campina Grande
 
@@ -29,7 +29,6 @@ title: 'Paraíba'
 
 - **[Portal da Transparência da Câmara Municipal de João Pessoa](https://transparencia.elmartecnologia.com.br/?e=101095)**: https://transparencia.elmartecnologia.com.br/?e=101095
 - **[Portal da Transparência do Município de João Pessoa](https://transparencia.joaopessoa.pb.gov.br/#/)**: https://transparencia.joaopessoa.pb.gov.br/#/
-- **[Semanário Oficial da Câmara Municipal de João Pessoa](https://cmjp.pb.gov.br/diario-oficial/)**: https://cmjp.pb.gov.br/diario-oficial/
 - **[Semanário Oficial do Município de João Pessoa](http://www.joaopessoa.pb.gov.br/semanariooficial/)**: http://www.joaopessoa.pb.gov.br/semanariooficial/
 
 ### Mamanguape

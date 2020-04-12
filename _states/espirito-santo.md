@@ -5,7 +5,7 @@ title: 'Espírito Santo'
 
 ### Aracruz
 
-- **[Portal da Transparência do Município de Aracruz](http://aracruz-es.portaltp.com.br/)**: http://aracruz-es.portaltp.com.br/
+- **[Portal da Transparência do Município de Aracruz](http://www.aracruz.es.gov.br/portaltransparencia/index.php)**: http://www.aracruz.es.gov.br/portaltransparencia/index.php
 
 ### Cariacica
 
@@ -25,7 +25,7 @@ title: 'Espírito Santo'
 
 ### Vila Velha
 
-- **[Portal da Transparência do Município de Vila Velha](http://www.vilavelha.es.gov.br/transparencia/)**: http://www.vilavelha.es.gov.br/transparencia/
+- **[Portal da Transparência do Município de Vila Velha](http://transparencia.vilavelha.es.gov.br/transparenciaWeb/)**: http://transparencia.vilavelha.es.gov.br/transparenciaWeb/
 
 ### Vitória
 

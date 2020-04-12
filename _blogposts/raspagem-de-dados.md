@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: posts
 title: Raspagem de dados
 author: Ana Paula Mendes
+date: 05/09/2019
 tags: raspagem de dados, raspagem, dados, análise, scraping, web scraping
 ---
 

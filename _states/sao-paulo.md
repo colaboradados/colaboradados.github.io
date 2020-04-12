@@ -33,7 +33,7 @@ title: 'São Paulo'
 
 ### Itanhaém
 
--   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portal_transparencia/)**: http://www2.itanhaem.sp.gov.br/portal_transparencia/
+-   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portaltransparencia1/)**: http://www2.itanhaem.sp.gov.br/portaltransparencia1/
 
 ### Jacareí
 
@@ -41,13 +41,13 @@ title: 'São Paulo'
 
 ### Guarujá
 
-- **[Portal da Transparência do Município de Guarujá](http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index)**: http://guaruja.prodataweb.inf.br:4555/sig/app.html#/transparencia/index
+- **[Portal da Transparência do Município de Guarujá](http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?414)**: http://leideacesso.etransparencia.com.br/guaruja.prefeitura.sp/TDAPortalClient.aspx?414
 
 ### Guarulhos
 
-- **[Portal da Transparência do Município de Guarulhos](http://portaltransparencia.guarulhos.sp.gov.br/content/dados-abertos)**: http://portaltransparencia.guarulhos.sp.gov.br/content/dados-abertos
+- **[Portal da Transparência do Município de Guarulhos](http://portaltransparencia.guarulhos.sp.gov.br/)**: http://portaltransparencia.guarulhos.sp.gov.br/
 
-_Observação:_ Esse portal de transparência deveria disponibilizar DAG conforme indicado no portal, porém não apresentava possibilidade de consulta a todos os conjuntos de dados disponíveis, nem link para download. Apenas apresentava um formulário para download de arquivos. No entanto, os arquivos fornecidos pelo portal não possuíam extensão ou indicação do formato do arquivo.
+_Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, deveria disponibilizar DAG conforme indicado no portal, porém não apresentava possibilidade de consulta a todos os conjuntos de dados disponíveis, nem link para download. Apenas apresentava um formulário para download de arquivos. No entanto, os arquivos fornecidos pelo portal não possuíam extensão ou indicação do formato do arquivo.
 
 ### Itaquaquecetuba
 
@@ -79,11 +79,11 @@ _Observação:_ Esse portal de transparência deveria disponibilizar DAG conform
 
 ### Ribeirão Preto
 
-- **[Portal da Transparência do Município de Ribeirão Preto](http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php)**: http://www.ribeiraopreto.sp.gov.br/transparencia/i30principal.php
+- **[Portal da Transparência do Município de Ribeirão Preto](https://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia)**: https://www.ribeiraopreto.sp.gov.br/portal/transparencia/portal-da-transparencia
 
 ### Santa Isabel
 
--   **[Portal da Transparência do Município de Santa Isabel](https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/)**: https://santaisabel.sp.gov.br/pmsiportal/portal-da-transparencia/
+-   **[Portal da Transparência do Município de Santa Isabel](https://apps.santaisabel.sp.gov.br/transparencia/)**: https://apps.santaisabel.sp.gov.br/transparencia/
 
 ### Santo André
 
