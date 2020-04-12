@@ -53,7 +53,6 @@ Pré-requisitos:
 - [**Ruby**](https://rubyinstaller.org/)
 - [**RubyGems**](https://rubygems.org/pages/download)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
->>>>>>> upstream/dev
 - [**GitBash**](https://gitforwindows.org/)
 
 Baixe as ferramentas nos links acima e siga os formatos padrões de instalação.
