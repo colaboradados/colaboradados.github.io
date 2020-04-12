@@ -16,7 +16,7 @@ Neste episódio descubra o que leva uma pessoa que considerava "de humanas" a pe
 
 ### Escute agora!
 
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-012---Interrogando-Dados-ebaptu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-013---Porque-aprender-estatstica-ecm7s1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
