@@ -60,11 +60,14 @@ Ao fim,  abra o GitBash e instale o jekyll e o Bundler com o comando:
 ```
 $ gem install jekyll bundler
 ```
+
 #### Rodando o projeto
 
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io)
+para o seu Github.
 1. No Gitbash, clone o repositório digitando:
     ```
-    $ git clone https://github.com/colaboradados/colaboradados.github.io.git
+    $ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
     ```
 1. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador:
     ```
@@ -76,7 +79,8 @@ $ gem install jekyll bundler
     
     $ bundle exec jekyll serve
     ```
-1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo você conseguirá ver o site rodando localmente em seu computador.
+1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo
+você conseguirá ver o site rodando localmente em seu computador.
 
 ### Linux Debian-based
 
@@ -84,28 +88,38 @@ $ gem install jekyll bundler
 
 Pré-requisitos:
 
-- [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
+- [**Ruby**](https://www.ruby-lang.org/en/downloads/)
+- [**RubyGems**](https://rubygems.org/pages/download)
+- [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a lista de pacotes digite:
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a
+lista de pacotes digite:
 
     ```
     $ sudo apt update
     ```
 
-2. Após a atualização da lista de repositórios, instale o Ruby e dependências que são requeridas para rodar o projeto digitando:
+1. Após a atualização da lista de repositórios, instale o Ruby e dependências
+que são requeridas para rodar o projeto digitando:
 
     ```
     $ sudo apt install ruby-full build-essential zlib1g-dev
     ``` 
 
-3. Após a instalação do Ruby, digite:
+1. Instale o RubyGem com o comando:
+
+    ```
+    $ sudo apt install rubygems
+    ```
+
+1. Após a instalação do RubyGem. Digite:
 
     ```
     $ gem install jekyll bundler
     ```
 
-4. Instale também o Git, digite:
+1. Instale também o Git. Digite:
 
     ```
     $ sudo apt install git
@@ -113,19 +127,22 @@ Pré-requisitos:
 
 #### Rodando o projeto
 
-1. Clone o repositório digitando no Gitbash:
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io)
+para o seu Github.
+
+1. Clone o repositório para o seu computador digitando no Gitbash:
 
     ```
-    $ git clone https://github.com/colaboradados/colaboradados.github.io.git
+    $ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
     ```
 
-2. Vá até a pasta onde você clonou o repositório em seu computador: 
+1. Vá até a pasta onde você clonou o repositório em seu computador: 
 
     ```
     $ cd colaboradados.github.io
     ```
 
-3. Instale as dependências e em seguinda execute o servidor:
+1. Instale as dependências e em seguinda execute o servidor:
 
     ```
     $ bundle install
@@ -133,7 +150,8 @@ Pré-requisitos:
     $ bundle exec jekyll serve
     ```
 
-4. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo você conseguirá ver o site rodando localmente em seu computador.
+1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo
+você conseguirá ver o site rodando localmente em seu computador.
 
 ### Mac
 
