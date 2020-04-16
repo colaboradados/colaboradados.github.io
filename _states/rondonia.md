@@ -247,7 +247,7 @@ title: 'Rondônia'
 
 ### Theobroma
 
-- **[Portal de Transparência do Município de Theobroma](http://transparencia.theobroma.ro.gov.br/portaltransparencia/)**: http://transparencia.theobroma.ro.gov.br/portaltransparencia/
+- **[Portal de Transparência do Município de Theobroma](http://177.203.133.116:8079/transparencia/)**: http://177.203.133.116:8079/transparencia/
 
 ### Urupá
 
