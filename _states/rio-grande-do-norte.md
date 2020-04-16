@@ -377,6 +377,8 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Monte Alegre](https://montealegre.rn.gov.br/transparencia/)**: https://montealegre.rn.gov.br/transparencia/
 
+-  **[Portal da Transparência da Câmara Municipal de Monte Alegre](http://www.governotransparente.com.br/6766590/)**: http://www.governotransparente.com.br/6766590
+
 ### Monte das Gameleiras
 
 -  **[Portal da Transparência do Município de Monte das Gameleiras](http://montedasgameleiras.rn.gov.br/transparencia-municipal/)**: http://montedasgameleiras.rn.gov.br/transparencia-municipal/
