@@ -168,7 +168,7 @@ title: 'Rondônia'
 
 ### Ouro Preto do Oeste
 
-- **[Portal de Transparência da Câmara Municipal de Ouro Preto do Oeste](http://177.6.225.98:9159/transparencia/)**: http://177.6.225.98:9159/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Ouro Preto do Oeste](http://201.216.108.218:9159/transparencia/)**: http://201.216.108.218:9159/transparencia/
 - **[Portal de Transparência do Município de Ouro Preto Do Oeste](http://transparencia.ouropretodooeste.ro.gov.br/transparencia/)**: http://transparencia.ouropretodooeste.ro.gov.br/transparencia/
 
 ### Parecis
@@ -218,7 +218,7 @@ title: 'Rondônia'
 
 ### São Felipe D'Oeste
 
-- **[Portal de Transparência da Câmara Municipal de São Felipe D'Oeste](http://45.233.222.15/portaltransparencia/)**: http://45.233.222.15/portaltransparencia/
+- **[Portal de Transparência da Câmara Municipal de São Felipe D'Oeste](http://transparencia.saofelipedoeste.ro.leg.br/)**: http://transparencia.saofelipedoeste.ro.leg.br/
 - **[Portal de Transparência do Município de São Felipe D'Oeste](http://transparencia.saofelipe.ro.gov.br/portaltransparencia/)**: http://transparencia.saofelipe.ro.gov.br/portaltransparencia/
 
 ### São Francisco do Guaporé
@@ -246,7 +246,7 @@ title: 'Rondônia'
 
 ### Urupá
 
-- **[Portal de Transparência da Câmara Municipal de Urupá](https://177.222.210.6/transparencia/)**: https://177.222.210.6/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Urupá](https://urupa.ro.leg.br/transparencia/)**: https://urupa.ro.leg.br/transparencia/
 - **[Portal de Transparência do Município de Urupá](http://transparencia.urupa.ro.gov.br/portaltransparencia/)**: http://transparencia.urupa.ro.gov.br/portaltransparencia/
 
 ### Vale do Anari
