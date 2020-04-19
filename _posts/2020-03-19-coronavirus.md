@@ -16,7 +16,11 @@ tags: coronavirus
 
 - **[Governo do Estado de São Paulo](http://www.saopaulo.sp.gov.br/coronavirus/)**: http://www.saopaulo.sp.gov.br/coronavirus/
 
+- **[Governo do Estado de Santa Catarina](http://www.coronavirus.sc.gov.br/)**: http://www.coronavirus.sc.gov.br/
+
 - **[Secretaria de Saúde Pública do Pará](http://www.saude.pa.gov.br/coronavirus/)**: http://www.saude.pa.gov.br/coronavirus/
+
+- **[Secretaria de Saúde de Minas Gerais](https://www.saude.mg.gov.br/coronavirus)**: https://www.saude.mg.gov.br/coronavirus/
 
 - **[Secretaria de Saúde do Espírito Santo](https://saude.es.gov.br/Noticias)**: https://saude.es.gov.br/Noticias
 
