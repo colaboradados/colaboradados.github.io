@@ -115,11 +115,8 @@ title: 'Rondônia'
 
 ### Jaru
 
-- **[Portal de Transparência da Câmara Municipal de Jaru - Arquivo](177.203.133.115/portaltransparencia//)**: http://177.203.133.115/portaltransparencia/ <sup>1</sup>
 - **[Portal de Transparência da Câmara Municipal de Jaru](http://191.37.217.10:8079/transparencia/)**: http://191.37.217.10:8079/transparencia/
 - **[Portal de Transparência do Município de Jaru](http://transparencia.jaru.ro.gov.br/transparencia/)**: http://transparencia.jaru.ro.gov.br/transparencia/
-
-<sup>1</sup>: Arquivo do Portal de Transparência, que possui dados de transparência até 10 de abril de 2018
 
 ### Ji-Paraná
 
