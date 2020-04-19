@@ -55,17 +55,32 @@ Pré-requisitos:
 - [**Jekyll**](https://jekyllrb.com/docs/installation/windows/)
 - [**GitBash**](https://gitforwindows.org/)
 
-Siga os formatos padrões de instalação.
-Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `gem install jekyll bundler`.
+Baixe as ferramentas nos links acima e siga os formatos padrões de instalação.
+Ao fim,  abra o GitBash e instale o jekyll e o Bundler com o comando:
+```
+$ gem install jekyll bundler
+```
 
 #### Rodando o projeto
 
-1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io) para o seu Github.
-2. Clone o repositório digitando `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git` no Gitbash.
-3. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador.
-4. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no GitBash.  
-   Caso não tenha dado nenhum erro, siga para a etapa **5**.
-5. Abra o link em seu navegador [http://localhost:4000/](http://localhost:4000/). Você verá o site rodando localmente em seu computador.
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io)
+para o seu Github.
+1. No Gitbash, clone o repositório digitando:
+    ```
+    $ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
+    ```
+1. Pela linha de comando, vá até a pasta onde você clonou o repositório em seu computador:
+    ```
+    $ cd colaboradados.github.io
+    ```
+1. Instale as dependências e execute o sevidor:
+     ```
+    $ bundle install
+    
+    $ bundle exec jekyll serve
+    ```
+1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo
+você conseguirá ver o site rodando localmente em seu computador.
 
 ### Linux Debian-based
 
@@ -73,24 +88,70 @@ Ao fim, não se esqueça de abrir o GitBash instalar o Bundler com o comando `ge
 
 Pré-requisitos:
 
-- [**Ruby**](https://jekyllrb.com/docs/installation/ubuntu/)
+- [**Ruby**](https://www.ruby-lang.org/en/downloads/)
 - [**RubyGems**](https://rubygems.org/pages/download)
 - [**Jekyll**](https://jekyllrb.com/docs/installation/ubuntu/)
 - [**Git**](https://git-scm.com/download/linux)
 
-1. Abra o terminal do Linux e digite `$ sudo apt-get update` para atualizar a lista de repositórios.
-2. Depois de atualizar a lista de repositórios digite `$ sudo apt-get install ruby-full build-essential zlib1g-dev` para instalar o Ruby e dependências necessárias para rodar o projeto.
-3. Instale o RubyGem com o comando `sudo apt install rubygems`.
-4. Após a instalação do Ruby e RubyGems, digite `$ gem install jekyll bundler`
+1. Abra o terminal do [**Ubuntu**](https://www.ubuntu.com/) e para atualizar a
+lista de pacotes digite:
+
+    ```
+    $ sudo apt update
+    ```
+
+1. Após a atualização da lista de repositórios, instale o Ruby e dependências
+que são requeridas para rodar o projeto digitando:
+
+    ```
+    $ sudo apt install ruby-full build-essential zlib1g-dev
+    ``` 
+
+1. Instale o RubyGem com o comando:
+
+    ```
+    $ sudo apt install rubygems
+    ```
+
+1. Após a instalação do RubyGem. Digite:
+
+    ```
+    $ gem install jekyll bundler
+    ```
+
+1. Instale também o Git. Digite:
+
+    ```
+    $ sudo apt install git
+    ```
 
 #### Rodando o projeto
 
-1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io) para o seu Github.
-2. Clone o repositório digitando `$ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git` no Terminal.
-3. Vá até a pasta onde você clonou o repositório em seu computador.
-4. Digite `$ bundle install` e depois `$ bundle exec jekyll serve` no Terminal.
-Caso não tenha dado nenhum erro, siga para a etapa **5**.
-5. Abra o link em seu navegador [http://localhost:4000/](http://localhost:4000/). Você verá o site rodando localmente em seu computador.
+1. Fork o [repositório](https://github.com/colaboradados/colaboradados.github.io)
+para o seu Github.
+
+1. Clone o repositório para o seu computador digitando no Gitbash:
+
+    ```
+    $ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
+    ```
+
+1. Vá até a pasta onde você clonou o repositório em seu computador: 
+
+    ```
+    $ cd colaboradados.github.io
+    ```
+
+1. Instale as dependências e em seguinda execute o servidor:
+
+    ```
+    $ bundle install
+
+    $ bundle exec jekyll serve
+    ```
+
+1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo der certo
+você conseguirá ver o site rodando localmente em seu computador.
 
 ### Mac
 

@@ -40,6 +40,11 @@ title: 'Minas Gerais'
 
 - **[Portal da Transparência do Município de Mato Verde](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MatoVerde)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MatoVerde
 
+### Mercês
+
+- **[Portal da Transparência do Município de Mercês](http://merces.mg.gov.br/portal/)**:
+http://merces.mg.gov.br/portal/
+
 ### Monte Azul
 
 - **[Portal da Transparência do Município de Monte Azul](http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MonteAzul)**: http://cidadesmg.com.br/portaltransparencia/faces/user/portal.xhtml?Param=MonteAzul
@@ -47,15 +52,6 @@ title: 'Minas Gerais'
 ### Montes Claros
 
 - **[Portal da Transparência do Município de Montes Claros](http://sis.montesclaros.mg.gov.br/transparencia)**: http://sis.montesclaros.mg.gov.br/transparencia
-
-### Porteirinha
-
-**[Portal da Transparência do Município de Porteirinha](http://lai.memory.com.br/pagina-inicial)**: http://lai.memory.com.br/pagina-inicial
-
-### Serranópolis de Minas
-
-**[Portal da Transparência do Município de Serranópolis de Minas](http://lai.memory.com.br/pagina-inicial)**:
-http://lai.memory.com.br/pagina-inicial
 
 ### Riacho dos Machados
 
@@ -72,3 +68,4 @@ http://lai.memory.com.br/pagina-inicial
 ### Uberlândia
 
 - **[Portal da Transparência do Município de Uberlândia](http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879)**: http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879
+
