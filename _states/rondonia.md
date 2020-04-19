@@ -110,7 +110,7 @@ title: 'Rondônia'
 
 ### Itapuã do Oeste
 
-- **[Portal de Transparência da Câmara Municipal de Itapuã do Oeste](http://transparencia.camaradeitapuadooeste.ro.gov.br:5659/transparencia/)**: http://transparencia.camaradeitapuadooeste.ro.gov.br:5659/transparencia/
+- **[Portal de Transparência da Câmara Municipal de Itapuã do Oeste](http://www.transparencia.itapuadooeste.ro.leg.br:8079/transparencia/)**: http://www.transparencia.itapuadooeste.ro.leg.br:8079/transparencia/
 - **[Portal de Transparência do Município de Itapuã do Oeste](http://transparencia.itapuadooeste.ro.gov.br/transparencia/)**: http://transparencia.itapuadooeste.ro.gov.br/transparencia/
 
 ### Jaru
