@@ -28,7 +28,7 @@ tags: coronavirus
 
 - **[Agência Alagoas, Governo do Estado de Alagoas](http://agenciaalagoas.al.gov.br/coronavirus)**: http://agenciaalagoas.al.gov.br/coronavirus
 
-- **[Secretaria de Saúde do Amazonas](www.saude.am.gov.br/painel/corona/)**: www.saude.am.gov.br/painel/corona/
+- **[Secretaria de Saúde do Amazonas](http://www.saude.am.gov.br/painel/corona/)**: http://www.saude.am.gov.br/painel/corona/
 
 - **[Secretaria de Saúde do Estado do Rio Grande do Sul](https://saude.rs.gov.br/coronavirus)**: https://saude.rs.gov.br/coronavirus
 
