@@ -126,7 +126,7 @@ tags:
 
 ### MINAS GERAIS
 
-- **[Diário Oficial do Estado de Minas Gerais](http://www.iof.mg.gov.br/index.php?/ultima-edicao.html)**: http://www.iof.mg.gov.br/
+- **[Diário Oficial do Estado de Minas Gerais](https://www.jornalminasgerais.mg.gov.br/)**: https://www.jornalminasgerais.mg.gov.br/
 - **[Governo do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/)**: http://www.transparencia.mg.gov.br/
 
 ### SÃO PAULO

@@ -16,7 +16,7 @@ Estrutura padrão:
 
 E ficaria assim:
 
-`- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos`
+`- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://dados.agricultura.gov.br/)**: http://dados.agricultura.gov.br/`
 
 4. Apesar do Ministério da Agricultura, Pecuária e Abastecimento ser da esfera federal, dentro do documento `2019-01-21-esfera-federal.md` existe uma subcategoria neste caso por ministérios, como ainda não existe, iremos criar um título de nivel 2 usando duas vezes o `#` :
 
@@ -27,7 +27,7 @@ O resultado final do nosso commit seria:
 ```
 ## Ministério da Agricultura, Pecuária e Abastecimento
 
-- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos
+- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://dados.agricultura.gov.br/)**: http://dados.agricultura.gov.br/
 
 ```
 

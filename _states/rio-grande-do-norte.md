@@ -13,7 +13,7 @@ title: 'Rio Grande do Norte'
 
 ### Afonso Bezerra
 
--  **[Portal da Transparência do Município de Afonso Bezerra](http://www.portaldatransparencia.gov.br/localidades/2400307-afonso-bezerra)**: http://www.portaldatransparencia.gov.br/localidades/2400307-afonso-bezerra
+-  **[Portal da Transparência do Município de Afonso Bezerra](http://170.254.243.26/)**: http://170.254.243.26/
 
 ### Água Nova
 
@@ -359,7 +359,7 @@ title: 'Rio Grande do Norte'
 
 ### Martins
 
--  **[Portal da Transparência do Município de Martins](http://transparenciabr.sytes.net/RNPMMARTINS/)**: http://transparenciabr.sytes.net/RNPMMARTINS/
+-  **[Portal da Transparência do Município de Martins](https://silveiramartins.rs.gov.br/transparencia/portal-da-transparencia)**: https://silveiramartins.rs.gov.br/transparencia/portal-da-transparencia
 
 ### Maxaranguape
 
@@ -443,7 +443,7 @@ title: 'Rio Grande do Norte'
 
 ### Patu
 
--  **[Portal da Transparência da Câmara Municipal de Patu](http://www.cmpatu.rn.gov.br/transparencia)**: http://www.cmpatu.rn.gov.br/transparencia
+-  **[Portal da Transparência da Câmara Municipal de Patu](http://portaldatransparencia.publicsoft.com.br/sistemas/ContabilidadePublica/)**: http://portaldatransparencia.publicsoft.com.br/sistemas/ContabilidadePublica/
 
 ### Pau dos Ferros
 
@@ -451,7 +451,7 @@ title: 'Rio Grande do Norte'
 
 ### Pedra Grande
 
--  **[Portal da Transparência do Município de Pedra Grande](http://transparenciabr.sytes.net/RNPMPEDRAGRANDE/)**: http://transparenciabr.sytes.net/RNPMPEDRAGRANDE/
+-  **[Portal da Transparência do Município de Pedra Grande](http://www.pedragrande.rn.gov.br/transparencia/)**: http://www.pedragrande.rn.gov.br/transparencia/
 
 ### Pedra Preta
 
@@ -463,7 +463,7 @@ title: 'Rio Grande do Norte'
 
 ### Pedro Velho
 
--  **[Portal da Transparência do Município de Pedro Velho](http://pedrovelho.rn.gov.br/transparencia-municipal/)**: http://pedrovelho.rn.gov.br/transparencia-municipal/
+-  **[Portal da Transparência do Município de Pedro Velho](https://pedrovelho.rn.gov.br/transparente/)**: https://pedrovelho.rn.gov.br/transparente/
 
 ### Pendências
 
@@ -655,7 +655,7 @@ title: 'Rio Grande do Norte'
 
 ### Tenente Ananias
 
--  **[Portal da Transparência do Município de Tenente Ananias](http://tenenteananias.rn.gov.br/portal-da-transparencia/)**: http://tenenteananias.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência do Município de Tenente Ananias](http://transparencia.tenenteananias.rn.gov.br/)**: http://transparencia.tenenteananias.rn.gov.br/
 
 ### Tenente Laurentino Cruz
 

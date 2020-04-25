@@ -136,7 +136,7 @@ title: 'Rondônia'
 ### Mirante da Serra
 
 - **[Portal de Transparência da Câmara Municipal de Mirante da Serra](http://transparencia.mirantedaserra.ro.leg.br/transparencia/)**: http://transparencia.mirantedaserra.ro.leg.br/transparencia/
-- **[Portal de Transparência do Município de Mirante da Serra](http://transparencia.mirantedaserra.ro.gov.br/)**: http://transparencia.mirantedaserra.ro.gov.br/
+- **[Portal de Transparência do Município de Mirante da Serra](https://camaraserra.atende.net/?pg=transparencia#!/)**: https://camaraserra.atende.net/?pg=transparencia#!/
 
 ### Monte Negro
 
