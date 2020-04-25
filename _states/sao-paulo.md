@@ -51,7 +51,7 @@ _Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, 
 
 ### Itaquaquecetuba
 
-- **[Portal da Transparência do Município de Itaquaquecetuba](http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/Portal/)**: http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/Portal/
+- **[Portal da Transparência do Município de Itaquaquecetuba](http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/TDAPortalClient.aspx?414)**: http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/TDAPortalClient.aspx?414
 
 ### Jundiaí
 

@@ -20,7 +20,7 @@ tags:
 
 ## Ministério da Agricultura, Pecuária e Abastecimento
 
-- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos)**: http://www.agricultura.gov.br/acesso-a-informacao/dadosabertos
+- **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://dados.agricultura.gov.br/)**: http://dados.agricultura.gov.br/
 
 ## MINISTÉRIO DA CIDADANIA
 

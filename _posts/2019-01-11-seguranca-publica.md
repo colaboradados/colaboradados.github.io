@@ -9,7 +9,7 @@ tags:
 
 ## IPEA - FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA
 
-- **[Atlas da Violência:](http://www.ipea.gov.br/atlasviolencia/)**: http://www.ipea.gov.br/atlasviolencia/
+- **[Atlas da Violência:](https://www.ipea.gov.br/portal/index.php?option=com_alphacontent&view=alphacontent&Itemid=432&search=atlas+da+viol%C3%AAncia)**: https://www.ipea.gov.br/portal/index.php?option=com_alphacontent&view=alphacontent&Itemid=432&search=atlas+da+viol%C3%AAncia
 
 ## PORTAL BRASILEIRO DE DADOS ABERTOS
 

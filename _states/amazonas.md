@@ -72,7 +72,7 @@ Se a cidade possuir um site à parte, este será colocado. Caso não possua, o s
 
 ### Carauari
 
-- **[Prefeitura Municipal de Carauari](http://www.transparencia-am.com.br/CARAUARI/PM/carauari.html)**: http://www.transparencia-am.com.br/CARAUARI/PM/carauari.html
+- **[Prefeitura Municipal de Carauari](http://www.carauari.am.gov.br/transparencia/)**: http://www.carauari.am.gov.br/transparencia/
 
 ### Careiro
 

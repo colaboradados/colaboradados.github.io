@@ -14,6 +14,8 @@ tags: coronavirus
 
 - **[Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/)**: http://plataforma.saude.gov.br/novocoronavirus/
 
+- **[Ipea - Estudos sobre o novo coronavírus](https://www.ipea.gov.br/coronavirus/)**: https://www.ipea.gov.br/coronavirus/
+
 - **[Governo do Estado de São Paulo](http://www.saopaulo.sp.gov.br/coronavirus/)**: http://www.saopaulo.sp.gov.br/coronavirus/
 
 - **[Governo do Estado de Santa Catarina](http://www.coronavirus.sc.gov.br/)**: http://www.coronavirus.sc.gov.br/
