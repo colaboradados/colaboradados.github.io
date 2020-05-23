@@ -11,9 +11,9 @@ Este repositório se refere ao nosso site e banco colaborativo de bases de dados
 
 ## Stack
 
-- [Ruby](https://www.ruby-lang.org/en/) a linguagem de programação necessária para o Jekyll.
-- [Jekyll](https://jekyllrb.com/) para geração de páginas estáticas.
-- [SCSS](https://sass-lang.com/) para estilos.
+- [**Ruby**](https://www.ruby-lang.org/en/) a linguagem de programação necessária para o Jekyll.
+- [**Jekyll**](https://jekyllrb.com/) para geração de páginas estáticas.
+- [**SCSS**](https://sass-lang.com/) para estilos.
 
 ---
 

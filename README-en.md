@@ -9,7 +9,7 @@ This repository contains our website and collaborative database that you can acc
 
 ## Stack
 
-- [**Ruby**]([https://www.ruby-lang.org/en/]): a necessary programming language for Jekyll.
+- [**Ruby**](https://www.ruby-lang.org/en/): a necessary programming language for Jekyll.
 - [**Jekyll**](https://jekyllrb.com/): static pages generator.
 - [**SCSS**](https://sass-lang.com/): for styling.
 
