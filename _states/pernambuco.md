@@ -94,6 +94,98 @@ title: 'Pernambuco'
 
 - **[Portal da Transparência do Município de Caruaru](http://caruarupe.transparencianomunicipio.com.br/)**: http://caruarupe.transparencianomunicipio.com.br/
 
+### Catende
+
+- **[Portal da Transparência do Município de Catende](https://catende.pe.tenosoftsistemas.com.br/portal/v81/p_index/p_index.php)**: https://catende.pe.tenosoftsistemas.com.br/portal/v81/p_index/p_index.php
+
+### Cedro
+
+- **[Portal da Transparência do Município de Cedro](https://www.cedro.pe.gov.br/acessoainformacao.php)**: https://www.cedro.pe.gov.br/acessoainformacao.php
+
+### Chã Grande
+
+- **[Portal da Transparência do Município de Chã Grande](http://transparencia.chagrande.pe.gov.br/)**: http://transparencia.chagrande.pe.gov.br/
+
+### Condado
+
+- **[Portal da Transparência do Município de Condado](http://condado.pe.gov.br/?page_id=22402)**: http://condado.pe.gov.br/?page_id=22402
+
+### Correntes
+
+- **[Portal da Transparência do Município de Correntes](https://correntes.pe.tenosoftsistemas.com.br/portal/v81/p_index/p_index.php)**: https://correntes.pe.tenosoftsistemas.com.br/portal/v81/p_index/p_index.php
+
+### Cortês
+
+- **[Portal da Transparência do Município de Cortês](http://transparencia.cortes.pe.gov.br/)**: http://transparencia.cortes.pe.gov.br/
+
+### Cumaru
+
+- **[Portal da Transparência do Município de Cumaru](http://netuse.inf.br/cumarupm/portaltransparencia/)**: http://netuse.inf.br/cumarupm/portaltransparencia/
+
+### Custódia
+
+- **[Portal da Transparência do Município de Custódia](http://www.custodia.pe.gov.br/transparencia)**: http://www.custodia.pe.gov.br/transparencia
+
+### Dormentes
+
+- **[Portal da Transparência do Município de Dormentes](https://dormentes.pe.gov.br/transparencia/)**: https://dormentes.pe.gov.br/transparencia/
+
+### Escada
+
+- **[Portal da Transparência do Município de Escada](http://transparencia.escada.pe.gov.br/)**: http://transparencia.escada.pe.gov.br/
+
+### Exu
+
+- **[Portal da Transparência do Município de Exu](http://exu.pe.gov.br/site/transparencia/)**: http://exu.pe.gov.br/site/transparencia/
+
+### Feira Nova
+
+- **[Portal da Transparência do Município de Feira Nova](http://feiranova.pe.gov.br/transparencia/)**: http://feiranova.pe.gov.br/transparencia/
+
+### Ferreiros
+
+- **[Portal da Transparência do Município de Ferreiros](https://www.ferreiros.pe.gov.br/portal_transparencia.html)**: https://www.ferreiros.pe.gov.br/portal_transparencia.html
+
+### Flores
+
+- **[Portal da Transparência do Município de Flores](http://flores.pe.gov.br/transparencia/)**: http://flores.pe.gov.br/transparencia/
+
+### Floresta
+
+- **[Portal da Transparência do Município de Floresta](https://floresta.pe.gov.br/transparencia/)**: https://floresta.pe.gov.br/transparencia/
+
+### Frei Miguelinho
+
+- **[Portal da Transparência do Município de Frei Miguelinho](http://www.portaltransparencia.gov.br/localidades/2605806-frei-miguelinho)**: http://www.portaltransparencia.gov.br/localidades/2605806-frei-miguelinho
+
+### Gameleira
+
+- **[Portal da Transparência do Município de Gameleira](http://transparencia.gameleira.pe.gov.br/)**: http://transparencia.gameleira.pe.gov.br/
+
+### Garanhuns
+
+- **[Portal da Transparência do Município de Garanhuns](https://garanhuns.pe.gov.br/transparencia)**: https://garanhuns.pe.gov.br/transparencia
+
+### Glória do Goitá
+
+- **[Portal da Transparência do Município de Glória do Goitá](http://gloriadogoita.pe.gov.br/transparencia/)**: http://gloriadogoita.pe.gov.br/transparencia/
+
+### Goiana
+
+- **[Portal da Transparência do Município de Goiana](http://177.53.73.31:5658/transparencia/)**: http://177.53.73.31:5658/transparencia/
+
+### Granito
+
+- **[Portal da Transparência do Município de Granito](http://177.52.44.254:8079/Transparencia/)**: http://177.52.44.254:8079/Transparencia/
+
+### Iati
+
+- **[Portal da Transparência do Município de Iati](https://www.iati.pe.gov.br/transparencia)**: https://www.iati.pe.gov.br/transparencia
+
+### Ibimirim
+
+- **[Portal da Transparência do Município de Ibimirim](http://netuse.inf.br/ibimirim_j/portaltransparencia/)**: http://netuse.inf.br/ibimirim_j/portaltransparencia/
+
 ### JABOATÃO DOS GUARARAPES
 
 - **[Portal da Transparência do Município de Jaboatão dos Guararapes](https://portaldatransparencia.jaboatao.pe.gov.br/)**: https://portaldatransparencia.jaboatao.pe.gov.br/

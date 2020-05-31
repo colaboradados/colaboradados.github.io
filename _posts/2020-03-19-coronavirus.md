@@ -42,6 +42,8 @@ tags: coronavirus
 
 - **[Instituto para a Redução de Riscos e Desastres de Pernambuco](https://www.irrd.org/covid-19/)**: https://www.irrd.org/covid-19/
 
+- **[Pernambuco contra a Covid-19](https://www.pecontracoronavirus.pe.gov.br/)**: https://www.pecontracoronavirus.pe.gov.br/
+
 ### Mundial
 
 - **[ViriHealth – Canada's Coronavirus COVID-19 Tracker](https://virihealth.com/)**: https://virihealth.com/
@@ -105,6 +107,10 @@ tags: coronavirus
 - **[COVID-19 Canada](https://resources-covid19canada.hub.arcgis.com/)**: https://resources-covid19canada.hub.arcgis.com/
 
 - **[Dados recolhidos de api pública que provê dados da Johns Hopkins University](https://covid19.data.eti.br)**: https://covid19.data.eti.br
+
+- **[Covidzero](https://app.covidzero.com.br/)**: https://app.covidzero.com.br/
+
+- **[Bing Covid Tracker](https://bing.com/covid)**: https://bing.com/covid
 
 ## - Outros
 
