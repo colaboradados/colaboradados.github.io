@@ -44,3 +44,5 @@ collections:
     output: false
   reportagens:
     output: true
+
+exclude: ['vendor']
