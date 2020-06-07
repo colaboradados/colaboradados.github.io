@@ -1,1 +1,1 @@
-web: jekyll serve -P $PORT --no-watch --host 0.0.0.0
+web: bundle exec puma -t 8:32 -w 3 -p $PORT
