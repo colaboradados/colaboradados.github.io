@@ -28,3 +28,7 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 ![fotografia de Lucas Hiago]({{ site.url }}{{ site.baseurl }}/images/lucashiago.png?style=centerme)
 
 [Lucas Hiago](https://github.com/luchiago) é desenvolvedor back-end do **Colaboradados**. Bacharelando em Ciência da Computação na Universidade Federal do Piauí. Apaixonado pela linguagem Python e curioso em aprender novas stacks. Interessado em café e em data science. Atualmente trabalha como estagiário na CodeMiner42. Reside em Teresina, capital do Piauí.
+
+![fotografia de Lourrany Meneses]({{ site.url }}{{ site.baseurl }}/images/lourranymeneses.png?style=centerme)
+
+[Lourrany Meneses]() é bacharelanda em Comunicação Social - Jornalismo na Universidade Federal do Piauí e apaixonada pela arte de empreender. Bailarina, professora e cofundadora do próprio negócio de dança. Gosta de produzir conteúdo e é interessada em jornalismo de dados. Viu no Colaboradados um caminho para evoluir no âmbito jornalístico. Reside em Teresina, capital do Piauí.
