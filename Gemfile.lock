@@ -98,9 +98,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.6)
+  jekyll
   jekyll-algolia
   jekyll-gist
+  kramdown
   puma
   rack-jekyll
   rake

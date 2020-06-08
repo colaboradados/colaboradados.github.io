@@ -44,3 +44,6 @@ collections:
     output: false
   reportagens:
     output: true
+
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
