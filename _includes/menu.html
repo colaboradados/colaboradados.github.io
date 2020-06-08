@@ -4,15 +4,16 @@
 	<ul>
 
 		{% for page in site.pages %}
-		{% if page.path == "index.html" %}
-		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" && "README-en.md" }}">{{ page.title }}</a></li>
-		{% endif %} {% endfor %}
+			{% if page.path == "index.html" %}
+			<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+			{% endif %}
+		{% endfor %}
 
 		{% for page in site.pages %}
-
-		{% if page.title %}
-		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" && "Colaboradados" }}</a></li>
-		{% endif %} {% endfor %}
+			{% if page.title %}
+			<li><a href="{{ page.url | prepend: site.baseurl | remove: "README-en.md" }}">{{ page.title | remove: "Home" }}</a></li>
+			{% endif %}
+		{% endfor %}
 
 		<li class="button-newsletter">
 			<a href="{{ site.newsletter_url }}" class="button">Assinar Newsletter</a>
