@@ -4,7 +4,9 @@
 	<ul>
 
 		{% for page in site.pages %}
-			<li><a href="{{ page.url | prepend: site.baseurl | remove: "/english/README-en.html" }}">{{ page.title | remove: "Colaboradados" }}</a></li>
+			{% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl | remove: "/english/README-en.html" }}">{{ page.title | remove: "Colaboradados" }}</a></li>
+			{% endif %}
 		{% endfor %}
 
 		<li class="button-newsletter">
