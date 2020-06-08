@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Colaboradados
+title: Página Inicial
 ---
 
 {% include tiles.html %}
