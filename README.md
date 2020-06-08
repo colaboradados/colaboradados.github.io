@@ -3,7 +3,7 @@
 
 <a href="https://colaboradados.github.io"> <img src="images/colaboradados.png" width="200"></a>
 
-[**English Version**](README-en.md)
+[**English Version**](english/README-en.md)
 
 Este repositório se refere ao nosso site e banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.github.io).
 
@@ -76,7 +76,7 @@ para o seu Github.
 1. Instale as dependências e execute o sevidor:
      ```
     $ bundle install
-    
+
     $ bundle exec jekyll serve
     ```
 1. Abra o seu navegador e digite `http://localhost:4000/`. Se tudo deu certo
@@ -105,7 +105,7 @@ que são requeridas para rodar o projeto digitando:
 
     ```
     $ sudo apt install ruby-full build-essential zlib1g-dev
-    ``` 
+    ```
 
 1. Instale o RubyGem com o comando:
 
@@ -136,7 +136,7 @@ para o seu Github.
     $ git clone https://github.com/<seu_usuario>/colaboradados.github.io.git
     ```
 
-1. Vá até a pasta onde você clonou o repositório em seu computador: 
+1. Vá até a pasta onde você clonou o repositório em seu computador:
 
     ```
     $ cd colaboradados.github.io
