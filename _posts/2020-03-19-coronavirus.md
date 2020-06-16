@@ -72,7 +72,7 @@ tags: coronavirus
 | 22 | Piauí | Site Principal | Governo do Estado do Piauí | [http://coronavirus.pi.gov.br/](http://coronavirus.pi.gov.br/) |
 | 22 | Piauí | Site Principal | Governo do Estado do Piauí | [http://portal.saude.pi.gov.br/2020/inf_saude/epidemiologia/covid-19/covid-19.asp](http://portal.saude.pi.gov.br/2020/inf_saude/epidemiologia/covid-19/covid-19.asp) |
 | 33 | Rio de Janeiro | Site Principal | Governo do Estado do Rio de Janeiro | [https://coronavirus.rj.gov.br/](https://coronavirus.rj.gov.br/) |
-| 24 | Rio Grande do Norte | Painel | Governo do Estado do Rio Grande do Norte | [http://ti.saude.rs.gov.br/covid19/](http://ti.saude.rs.gov.br/covid19/) |
+| 24 | Rio Grande do Sul | Painel | Governo do Estado do Rio Grande do Sul | [http://ti.saude.rs.gov.br/covid19/](http://ti.saude.rs.gov.br/covid19/) |
 | 24 | Rio Grande do Norte | Boletim epidemiológico | Governo do Estado do Rio Grande do Norte | [http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=223456&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA](http://www.saude.rn.gov.br/Conteudo.asp?TRAN=ITEM&TARG=223456&ACT=&PAGE=&PARM=&LBL=MAT%C9RIA) |
 | 43 | Rio Grande do Sul | Boletim epidemiológico | Governo do Estado do Rio Grande do Sul | [https://coronavirus.rs.gov.br/informe-epidemiologico](https://coronavirus.rs.gov.br/informe-epidemiologico) |
 | 43 | Rio Grande do Sul | Painel | Governo do Estado do Rio Grande do Sul | [https://covid.saude.rs.gov.br/](https://covid.saude.rs.gov.br/) |
