@@ -185,7 +185,7 @@ title: 'Rio Grande do Norte'
 
 ### Extremoz
 
--  **[Portal da Transparência do Município de Extremoz](https://extremoz.rn.gov.br/transparencia/)**: https://extremoz.rn.gov.br/transparencia/
+-  **[Portal da Transparência do Município de Extremoz](https://extremoz.rn.gov.br/portal-da-transparencia/)**: https://extremoz.rn.gov.br/portal-da-transparencia/
 
 - **[Dados Abertos do Município de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
 
@@ -545,7 +545,7 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de São Bento do Norte](http://www.transparenciaicone.com.br/saobentodonortern/portaldatransparencia/)**: http://www.transparenciaicone.com.br/saobentodonortern/portaldatransparencia/
 
-### São Bento do Trairí 
+### São Bento do Trairí
 
 -  **[Portal da Transparência do Município de São Bento do Trairí](http://topdown.servehttp.com:8080/transparencia/pmsaobentotrairi/)**: http://topdown.servehttp.com:8080/transparencia/pmsaobentotrairi/
 
@@ -708,4 +708,3 @@ title: 'Rio Grande do Norte'
 ### Vila Flor
 
 -  **[Portal da Transparência do Município de Vila Flor](http://www.governotransparente.com.br/6909488)**: http://www.governotransparente.com.br/6909488
-
