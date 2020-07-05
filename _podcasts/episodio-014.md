@@ -31,7 +31,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 ### Contato dos participantes deste episódio:
 
 - Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- Renata Hirota: [@msoares](https://twitter.com/msoares))
+- Marcelo Soares: [@msoares](https://twitter.com/msoares)
 
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
