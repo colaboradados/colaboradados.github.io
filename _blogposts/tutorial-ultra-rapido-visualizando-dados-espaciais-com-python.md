@@ -6,8 +6,6 @@ date: 06/06/2020
 tags: python, dados espaciais, visualização
 ---
 
-#  Tutorial Ultra Rápido: Visualizando dados espaciais com Python
-
 ## Objetivo deste tutorial
 
 Demonstrar de forma simples e rápida o processo de criação de mapas em python. Como exemplo prático, são utilizados dados sobre casos confirmados da COVID-19 no Brasil.
