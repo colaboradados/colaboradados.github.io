@@ -28,8 +28,8 @@ title: 'Paraíba'
 ### João Pessoa
 
 - **[Portal da Transparência da Câmara Municipal de João Pessoa](https://transparencia.elmartecnologia.com.br/?e=101095)**: https://transparencia.elmartecnologia.com.br/?e=101095
-- **[Portal da Transparência do Município de João Pessoa](https://transparencia.joaopessoa.pb.gov.br/#/)**: https://transparencia.joaopessoa.pb.gov.br/#/
-- **[Semanário Oficial do Município de João Pessoa](http://www.joaopessoa.pb.gov.br/semanariooficial/)**: http://www.joaopessoa.pb.gov.br/semanariooficial/
+- **[Portal da Transparência do Município de João Pessoa](https://transparencia.joaopessoa.pb.gov.br/#/)**: https://transparencia.joaopessoa.pb.gov.br/
+- **[Semanário Oficial do Município de João Pessoa](http://www.joaopessoa.pb.gov.br/semanariooficial/)**: http://antigo.joaopessoa.pb.gov.br/semanariooficial/
 
 ### Mamanguape
 
