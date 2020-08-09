@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Episódio Zero"
-description: "Teaser do que está por vir."
+title:  "Episódio 000"
+description: "Conheça o Coluna7"
 ---
 # Episódio zero: Teaser do Coluna7
 O teaser do **Coluna7** vai ter dar uma ideia deste projeto encapsulado no **Colaboradados**.

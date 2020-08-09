@@ -1,10 +1,10 @@
 ---
 layout: default
 title:  "Episódio #012"
-description: "Interrogando Dados"
+description: "Interrogando dados"
 ---
 
-# Episódio #012 - Interrogando Dados
+# Episódio #012 - Interrogando dados
 
 Saudações, artistas de ideias!
 
@@ -19,7 +19,7 @@ Ah, e nesse episódio temos uma grande surpresa para vocês: confiram a nossa pa
 Utilizando o cupom **colaboradados**, os nossos ouvintes recebem 30% de desconto na inscrição para o evento. E tem mais: vamos sortear 2 ingressos com 100% de desconto em nossas redes sociais.
 
 ### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-012---Interrogando-Dados-ebaptu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-012---Interrogando-dados-ebaptu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 

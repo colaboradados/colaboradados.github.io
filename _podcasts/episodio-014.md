@@ -1,10 +1,10 @@
 ---
 layout: default
 title:  "Episódio #014A"
-description: "Especial COVID-19: Jornalismo na Pandemia"
+description: "Especial Covid-19: O jornalismo na pandemia"
 ---
 
-# Episódio #014 - Especial COVID-19: Jornalismo na Pandemia
+# Episódio #014 - Especial Covid-19: O jornalismo na pandemia
 
 Olá, sedentos por informação de qualidade!
 
@@ -16,7 +16,7 @@ Excelente contador de histórias, dono de um repertório de conhecimento invejá
 
 ### Escute agora!
 
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-014A---Especial-COVID-19-Jornalismo-na-Pandemia-ednfna" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-014---Especial-Covid-19-O-jornalismo-na-pandemia-ednfna" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
