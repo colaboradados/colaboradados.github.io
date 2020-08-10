@@ -3,13 +3,13 @@ layout: default
 title:  "Episódio #001"
 description: "O começo"
 ---
-# Episódio #001 - O começo
+# Episódio #001: O começo
 
 Saudações, internautas!
 
 Neste primeiro episódio do seu podcast brasileiro de jornalismo de dados, conheça a equipe do projeto Colaboradados e entenda (quase simultaneamente com o resto da equipe) de onde surgiu a vontade de criarmos a plataforma, quem somos, o que fazemos nos poucos momentos fora da internet e o que cada um espera nesta longa jornada que temos pela frente.
 
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episodio-001---O-comeo-e3db0n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-001-O-comeo-e3db0n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
