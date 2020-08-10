@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "Episódio #004"
-description: "LAI Sem Sigilo com Fiquem Sabendo"
+description: "LAI sem sigilo"
 ---
-# Episódio #004 - LAI Sem Sigilo com Fiquem Sabendo
+# Episódio #004 - LAI sem sigilo
 
 Oláááá pessoas, tudo bem?
 
@@ -21,7 +21,7 @@ Não percam mais tempo, preparem seus fones de ouvidos e venham com a gente!
 
 
 ### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-004---LAI-Sem-Sigilo-com-Fiquem-Sabendo-e493qp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-004---LAI-sem-sigilo-e493qp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 

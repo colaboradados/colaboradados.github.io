@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "Episódio #003"
-description: "Entrevista com Fernando Masanori"
+description: "Ensinando programação para jornalistas"
 ---
-# Episódio #003 - Entrevista com Fernando Masanori
+# Episódio #003 - Ensinando programação para jornalistas
 
 Saudações, internautas!
 
@@ -14,7 +14,7 @@ Se no último episódio contamos qual a visão do profissional de jornalismo nes
 Preparem seus fones de ouvidos e vem com a gente!
 
 ### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-003---Entrevista-com-Fernando-Masanori-e3v225" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-003---Ensinando-programao-para-jornalistas-e3v225" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "Episódio #010"
-description: "O Poder das Comunidades"
+description: " poder das comunidades"
 ---
-# Episódio #010 - O Poder das Comunidades
+# Episódio #010 - O poder das comunidades
 
 Saudações, terráqueos!
 
@@ -15,7 +15,7 @@ Cheguem juntinho com a gente na comunidade do **Colaboradados** e escutem este e
 
 
 ### Escute agora!
-<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-010---O-Poder-das-Comunidades-e9cs7j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/coluna7/embed/episodes/Episdio-010---O-poder-das-comunidades-e9cs7j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o feed RSS no seu aplicativo preferido!
 
