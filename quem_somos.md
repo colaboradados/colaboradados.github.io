@@ -13,10 +13,6 @@ Somos um grupo de amigos que resolveu, por meio da programação, investigar, mo
 
 [João Ernane](https://twitter.com/o_jovemadulto) é diretor de inovação e cofundador do **Colaboradados** e editor do podcast **Coluna7**. Formado em Direito pela Universidade Federal de Uberlândia e pós-graduando em Business Intelligence & Analytics pela PUC-MG, encontrou-se desde cedo atraído pela tecnologia. Tentando fazer desta uma aliada no combate contra a desinformação, viu no **Colaboradados** uma oportunidade de produzir e, principalmente, utilizar as técnicas científicas no âmbito jurídico. Atualmente vive em Minas Gerais.
 
-![fotografia de Ana Paula]({{ site.url }}{{ site.baseurl }}/images/ana.png?style=centerme)
-
-[Ana Paula Mendes](https://anapaulamendes.github.io/) é líder técnica e desenvolvedora do **Colaboradados**. Bacharelanda em Ciência da Computação na Universidade Federal do Piauí. Técnica em Desenvolvimento de Software pelo Instituto Federal do Piauí. Apaixonada por computação desde a infância, aos 10 anos de idade fez seu primeiro curso de Linux. Trabalha remotamente como desenvolvedora full-stack na [Quiploy](https://www.quiploy.com/). É aluna de iniciação científica no laboratório de Inteligência Artificial do Departamento de Computação da UFPI. Foi bolsista do Instituto Anita Borg na Grace Hopper Celebration 2019, a maior conferência do mundo de mulheres na tecnologia. Entusiasta open source, de comunidades e mentora de programação para mulheres. Reside em Teresina, capital do Piauí.
-
 ![fotografia de Bruno Morassutti]({{ site.url }}{{ site.baseurl }}/images/bruno.png?style=centerme)
 
 [Bruno Morassutti](https://twitter.com/555112299jedi) é o consultor de assuntos de transparência governamental do **Colaboradados**. Entusiasta em transparência e dados abertos. É advogado, especialista em Direito Público e Processo Civil e mestre em Direito pela PUCRS. Se interessa muito por tecnologia e atualmente cursa sistemas de informação na PUCRS. É viciado em fazer pedidos de acesso à informação. Reside em Porto Alegre.
