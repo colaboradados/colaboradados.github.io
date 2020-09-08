@@ -36,7 +36,7 @@ Ou então [clique aqui](https://anchor.fm/s/951cc10/podcast/rss) para assinar o 
 ### Contato dos participantes deste episódio:
 
 - Judite Cypreste: [@juditecypreste](https://www.twitter.com/juditecypreste)
-- Renato Coutinho: renato.coutinho (arroba) gmail (ponto) com
+- Renato Coutinho: renato.coutinho@gmail.com
 
 ### Não se esqueçam de nos acompanhar nas redes sociais:
 
