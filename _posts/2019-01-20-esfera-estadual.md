@@ -12,7 +12,7 @@ tags:
 ### ACRE
 
 - **[Diário Oficial do Estado do Acre](http://www.diario.ac.gov.br/)**: http://www.diario.ac.gov.br/
-- **[Governo do Estado do Acre](http://transparencia.ac.gov.br/acessoainformacao/index.php)**: http://transparencia.ac.gov.br
+- **[Governo do Estado do Acre](http://transparencia.ac.gov.br/#/dashboard)**: http://transparencia.ac.gov.br/#/dashboard
 
 ### AMAPÁ
 
@@ -21,7 +21,7 @@ tags:
 
 ### AMAZONAS
 
-- **[Diário Oficial do Estado do Amazonas](http://diario.imprensaoficial.am.gov.br/diariooficial/consultaPublica.do)**: http://diario.imprensaoficial.am.gov.br
+- **[Diário Oficial do Estado do Amazonas](https://diario.imprensaoficial.am.gov.br/)**: https://diario.imprensaoficial.am.gov.br/
 - **[Governo do Estado do Amazonas](http://www.transparencia.am.gov.br/)**: http://www.transparencia.am.gov.br/
 
 ### PARÁ

@@ -297,7 +297,7 @@ title: 'Rio de Janeiro'
 ### São Gonçalo
 
 - **[Portal da Transparência da Prefeitura de São Gonçalo](https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo)**: https://portal.pmsg.rj.gov.br/pmsaogoncalo/websis/siapegov/portal/index.php?cliente=pmsaogoncalo
-- **[Prefeitura de São Gonçalo](http://www.pmsg.rj.gov.br/transparencia/)**: http://www.pmsg.rj.gov.br/transparencia/
+- **[Prefeitura de São Gonçalo](https://servicos.pmsg.rj.gov.br/transparencia/)**: https://servicos.pmsg.rj.gov.br/transparencia/
 
 ### São João Da Barra
 

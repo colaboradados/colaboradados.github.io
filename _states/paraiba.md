@@ -15,7 +15,7 @@ title: 'Paraíba'
 
 ### Guarabira
 
-- **[Portal da Transparência do Município de Guarabira](http://www.guarabira.pb.gov.br/portaldatransparencia/)**: http://www.guarabira.pb.gov.br/portaldatransparencia/
+- **[Portal da Transparência do Município de Guarabira](https://pmguarabira.wixsite.com/pmguarabira/contact)**: https://pmguarabira.wixsite.com/pmguarabira/contact
 
 ### Ingá
 

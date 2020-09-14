@@ -7,11 +7,11 @@ img: esfera-federal
 tags:
 ---
 
-## CÂMARA DOS DEPUTADOS
+## Câmara Dos Deputados
 
 - **[Transparência Câmara dos Deputados](http://www2.camara.leg.br/transparencia)**: http://www2.camara.leg.br/transparencia
 
-## GOVERNO FEDERAL
+## Governo Federal
 
 - **[Diário Oficial da União](http://www.in.gov.br/web/guest/inicio)**: http://www.in.gov.br/web/guest/inicio
 - **[Portal Brasileiro de Dados Abertos](http://dados.gov.br/)**: http://dados.gov.br/
@@ -22,7 +22,7 @@ tags:
 
 - **[Dados Abertos Ministério da Agricultura, Pecuária e Abastecimento](http://dados.agricultura.gov.br/)**: http://dados.agricultura.gov.br/
 
-## MINISTÉRIO DA CIDADANIA
+## Ministério Da Cidadania
 
 - **[Microdados de pesquisas realizadas pela Secretaria de Avaliação e Gestão da Informação do MDSA](https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php)**: https://aplicacoes.mds.gov.br/sagi/pesquisas/pes-metadados.php
 
@@ -30,7 +30,7 @@ tags:
 
 - **[Dados Abertos Ministério da Defesa](https://www.defesa.gov.br/dados-abertos)**: https://www.defesa.gov.br/dados-abertos
 
-## MINISTÉRIO DA ECONOMIA
+## MInistério Da Economia
 
 ### Instituto de Pesquisa Econômica Aplicada - IPEA
 
@@ -57,11 +57,11 @@ tags:
 
 - **[Dados Abertos Ministério do Turismo](http://dados.turismo.gov.br/)**: http://dados.turismo.gov.br/
 
-## SENADO FEDERAL
+## Senado Federal
 
 - **[Transparência Senado Federal](https://www12.senado.leg.br/transparencia/)**: https://www12.senado.leg.br/transparencia/
 
-## TRIBUNAL SUPERIOR ELEITORAL
+## Tribunal Superior Eleitoral
 
 - **[Dados eleitorais](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)**: http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
 - **[Divulgação de Candidaturas e Contas Eleitorais](http://divulgacandcontas.tse.jus.br/divulga/#/)** http://divulgacandcontas.tse.jus.br/divulga/#/
