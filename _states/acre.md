@@ -5,7 +5,7 @@ title: 'Acre'
 
 ### Acrelândia
 
-- **[Portal da Transparência da Prefeitura do Município de Acrelândia](https://www.acrelandia.ac.gov.br/novo-portal-transparencia)**: https://www.acrelandia.ac.gov.br/novo-portal-transparencia
+- **[Portal da Transparência da Prefeitura do Município de Acrelândia](https://www.acrelandia.ac.gov.br/transparencia)**: https://www.acrelandia.ac.gov.br/transparencia
 - **[Portal da Transparência da Câmara Municipal de Acrelândia](http://www.sisintec.com.br/cma/informacao/externo/)**: http://www.sisintec.com.br/cma/informacao/menu_externo/
 
 ### Assis Brasil
@@ -33,12 +33,12 @@ title: 'Acre'
 
 ### Epitaciolândia
 
-- **[Portal da Transparência da Prefeitura do Município de Epitaciolândia](https://www.epitaciolandia.ac.gov.br/novo-portal-transparencia)**: https://www.epitaciolandia.ac.gov.br/novo-portal-transparencia
+- **[Portal da Transparência da Prefeitura do Município de Epitaciolândia](https://www.epitaciolandia.ac.gov.br/transparencia)**: https://www.epitaciolandia.ac.gov.br/transparencia
 - **[Portal da Transparência da Câmara Municipal de Epitaciolândia](https://e-gov.betha.com.br/transparencia/01037-011/recursos.faces?mun=O5CpgMQ6eZh7AXzLGuIGXQ==)**: https://e-gov.betha.com.br/transparencia/01037-011/recursos.faces?mun=O5CpgMQ6eZh7AXzLGuIGXQ==
 
 ### Feijó
 
-- **[Portal da Transparência da Prefeitura do Município de Feijó](https://www.feijo.ac.gov.br/transparencia-inicial)**: https://www.feijo.ac.gov.br/transparencia-inicial
+- **[Portal da Transparência da Prefeitura do Município de Feijó](https://www.feijo.ac.gov.br/transparencia)**: https://www.feijo.ac.gov.br/transparencia
 - **[Portal da Transparência da Câmara Municipal de Feijó](http://www.sisintec.com.br/cmfj/informacao/externo/)**: http://www.sisintec.com.br/cmfj/informacao/externo/
 
 ### Jordão
@@ -67,7 +67,7 @@ title: 'Acre'
 
 ### Porto Acre
 
-- **[Portal da Transparência da Prefeitura do Município de Porto Acre](https://www.portoacre.ac.gov.br/portal-de-transparencia)**: https://www.portoacre.ac.gov.br/portal-de-transparencia
+- **[Portal da Transparência da Prefeitura do Município de Porto Acre](https://www.portoacre.ac.gov.br/)**: https://www.portoacre.ac.gov.br/
 - **[Portal da Transparência da Câmara Municipal de Porto Acre](http://www.sisintec.com.br/cmpa/informacao/externo/)**: http://www.sisintec.com.br/cmpa/informacao/externo/
 
 ### Porto Walter
@@ -103,11 +103,11 @@ title: 'Acre'
 
 ### Tarauacá
 
-- **[Portal da Transparência da Prefeitura do Município de Tarauacá](https://www.tarauaca.ac.gov.br/portal-da-transparencia)**: https://www.tarauaca.ac.gov.br/portal-da-transparencia
+- **[Portal da Transparência da Prefeitura do Município de Tarauacá](https://www.tarauaca.ac.gov.br/transparencia)**: https://www.tarauaca.ac.gov.br/transparencia
 - **[Portal da Transparência da Câmara Municipal de Tarauacá](https://www.tarauaca.ac.leg.br/transparencia)**: https://www.tarauaca.ac.leg.br/transparencia
 
 ### Xapuri
 
-- **[Portal da Transparência da Prefeitura do Município de Xapuri](https://www.xapuri.ac.gov.br/portal-transparencia)**: https://www.xapuri.ac.gov.br/portal-transparencia
+- **[Portal da Transparência da Prefeitura do Município de Xapuri](https://www.xapuri.ac.gov.br/transparencia)**: https://www.xapuri.ac.gov.br/transparencia
 - **[Portal da Transparência da Câmara Municipal de Xapuri](https://e-gov.betha.com.br/transparencia/01037-041/recursos.faces?mun=bZMj6GKdC0cTc-UBzwMJ1Q==)**:https://e-gov.betha.com.br/transparencia/01037-041/recursos.faces?mun=bZMj6GKdC0cTc-UBzwMJ1Q==
 

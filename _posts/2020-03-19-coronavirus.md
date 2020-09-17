@@ -54,7 +54,7 @@ tags: coronavirus
 | 31 | Minas Gerais | Transparência de Contas | Governo do Estado de Minas Gerais | [http://www.transparencia.mg.gov.br/covid-19](http://www.transparencia.mg.gov.br/covid-19) |
 | 31 | Minas Gerais | Base de dados | Governo do Estado de Minas Gerais | [http://www.transparencia.dadosabertos.mg.gov.br/organization/secretaria-de-estado-de-saude](http://www.transparencia.dadosabertos.mg.gov.br/organization/secretaria-de-estado-de-saude) |
 | 31 | Minas Gerais | Boletim epidemiológico | Governo do Estado de Minas Gerais | [https://www.saude.mg.gov.br/coronavirus/boletim](https://www.saude.mg.gov.br/coronavirus/boletim) |
-| 15 | Pará | Site Principal | Secretaria de Saúde Pública do Pará | [http://www.saude.pa.gov.br/coronavirus/](http://www.saude.pa.gov.br/coronavirus/) |
+| 15 | Pará | Site Principal | Secretaria de Saúde Pública do Pará | [https://www.covid-19.pa.gov.br/#/](https://www.covid-19.pa.gov.br/#/) |
 | 15 | Pará | Transparência de Contas | Governo do Estado do Pará | [https://transparenciacovid19.pa.gov.br/](https://transparenciacovid19.pa.gov.br/) |
 | 15 | Pará | Outros recursos | Governo do Estado do Pará | [https://www.covid-19.pa.gov.br/retomapara/](https://www.covid-19.pa.gov.br/retomapara/) |
 | 15 | Pará | Informe epidemiológico | Secretaria de Saúde Pública do Pará | [http://www.saude.pa.gov.br/category/nota-informativa-covid-19/](http://www.saude.pa.gov.br/category/nota-informativa-covid-19/) |
