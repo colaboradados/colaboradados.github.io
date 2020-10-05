@@ -17,7 +17,7 @@ title: 'Alagoas'
 ### Arapiraca
 
 - **[Portal da Transparência do Município de Arapiraca](https://transparencia.arapiraca.al.gov.br/)**: https://transparencia.arapiraca.al.gov.br/
-**[Portal da Transparência da Câmara Municipal de Arapiraca](https://www.arapiraca.al.leg.br/portal2-2/)**: https://www.arapiraca.al.leg.br/portal2-2/
+- **[Portal da Transparência da Câmara Municipal de Arapiraca](https://www.arapiraca.al.leg.br/portal2-2/)**: https://www.arapiraca.al.leg.br/portal2-2/
 
 ### Atalaia
 
