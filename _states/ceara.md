@@ -25,7 +25,7 @@ title: 'Ceará'
 
 ### Alcântaras
 
-- **[Portal da Transparência do Município de Alcântaras](http://www.portaldatransparencia.gov.br/localidades/2300507-alcantaras?ano=2020)**: http://www.portaldatransparencia.gov.br/localidades/2300507-alcantaras?ano=2020
+- **[Portal da Transparência do Município de Alcântaras](http://www.portaldatransparencia.gov.br/localidades/2300507-alcantaras)**: http://www.portaldatransparencia.gov.br/localidades/2300507-alcantaras
 
 ### Altaneira
 
