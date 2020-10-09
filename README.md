@@ -116,7 +116,7 @@ que são requeridas para rodar o projeto digitando:
 1. Após a instalação do RubyGem. Digite:
 
     ```
-    $ gem install jekyll bundler
+    $ sudo gem install jekyll bundler
     ```
 
 1. Instale também o Git. Digite:
