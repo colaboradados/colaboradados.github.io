@@ -161,7 +161,7 @@ title: 'Rio Grande do Norte'
 
 ### Currais Novos
 
--  **[Portal da Transparência do Município de Currais Novos](http://prefeituracurraisnovos.com.br/transparencia/)**: http://prefeituracurraisnovos.com.br/transparencia/
+-  **[Portal da Transparência do Município de Currais Novos](https://www.curraisnovos.rn.gov.br/transparencia/)**: https://www.curraisnovos.rn.gov.br/transparencia/
 
 ### Doutor Severiano
 
