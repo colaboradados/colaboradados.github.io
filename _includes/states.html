@@ -3,8 +3,9 @@
   <article class="style1">
     <span class="image">
       <img
+        class="regular-size"
         src="{{ site.url }}{{ site.baseurl }}/images/estados/{{state.image}}"
-        alt=""
+        alt="{{state.image}}"
       />
     </span>
     <a href="{{ state.url | prepend:site.baseurl | prepend:site.url }}">
