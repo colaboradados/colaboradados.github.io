@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Mato Grosso do Sul'
+title: "Mato Grosso do Sul"
+image: "mato-grosso-do-sul.png"
 ---
 
 ### Campo Grande

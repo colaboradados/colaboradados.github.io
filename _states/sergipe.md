@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Sergipe'
+title: "Sergipe"
+image: "sergipe.png"
 ---
 
 ### Aracaju

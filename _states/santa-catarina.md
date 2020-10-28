@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Santa Catarina'
+title: "Santa Catarina"
+image: "santa-catarina.png"
 ---
 
 ### Blumenau

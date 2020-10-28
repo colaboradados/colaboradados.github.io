@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Roraima'
+title: "Roraima"
+image: "roraima.png"
 ---
 
 ### Boa Vista
