@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Minas Gerais'
+title: "Minas Gerais"
+image: "minas-gerais.png"
 ---
 
 ### Belo Horizonte
@@ -43,7 +44,7 @@ title: 'Minas Gerais'
 ### Mercês
 
 - **[Portal da Transparência do Município de Mercês](http://merces.mg.gov.br/portal/)**:
-http://merces.mg.gov.br/portal/
+  http://merces.mg.gov.br/portal/
 
 ### Monte Azul
 
@@ -68,4 +69,3 @@ http://merces.mg.gov.br/portal/
 ### Uberlândia
 
 - **[Portal da Transparência do Município de Uberlândia](http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879)**: http://www.uberlandia.mg.gov.br/?pagina=transparencia&id=879
-

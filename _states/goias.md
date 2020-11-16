@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Goiás'
+title: "Goiás"
+image: "goias.png"
 ---
 
 ### Adelândia

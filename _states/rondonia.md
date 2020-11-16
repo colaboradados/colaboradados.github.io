@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Rondônia'
+title: "Rondônia"
+image: "rondonia.png"
 ---
 
 ### Alta Floresta D'Oeste

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Rio de Janeiro'
+title: "Rio de Janeiro"
+image: "rio-de-janeiro.png"
 ---
 
 ### Angra Dos Reis

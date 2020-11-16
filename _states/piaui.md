@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Piauí'
+title: "Piauí"
+image: "piaui.png"
 ---
 
 ### Boqueirão do Piauí

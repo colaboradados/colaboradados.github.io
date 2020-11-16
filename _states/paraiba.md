@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Paraíba'
+title: "Paraíba"
+image: "paraiba.png"
 ---
 
 ### Cajazeiras

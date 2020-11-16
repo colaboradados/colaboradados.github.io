@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Paraná'
+title: "Paraná"
+image: "parana.png"
 ---
 
 ### Cascavel

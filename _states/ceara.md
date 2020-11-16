@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Ceará'
+title: "Ceará"
+image: "ceara.png"
 ---
 
 ### Abaiara
@@ -67,7 +68,7 @@ title: 'Ceará'
 
 - **[Portal da Transparência do Município de Araripe](http://www.portaltransparencia.gov.br/localidades/2301307-araripe)**: http://www.portaltransparencia.gov.br/localidades/2301307-araripe
 
-### Aratuba 
+### Aratuba
 
 - **[Portal da Transparência do Município de Aratuba](https://www.aratuba.ce.gov.br/acessoainformacao.php)**: https://www.aratuba.ce.gov.br/acessoainformacao.php
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Maranhão'
+title: "Maranhão"
+image: "maranhao.png"
 ---
 
 ### Afonso Cunha

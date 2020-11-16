@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Amazonas'
+title: "Amazonas"
+image: "amazonas.png"
 ---
 
 O Estado do Amazonas agregou a transparência de seus municípios em um único **[Portal de Acesso à Informação e Transparência dos Municípios do Estado do Amazonas](https://transparenciamunicipalaam.org.br/)**. Alguns municípios fecharam os seus sites e usam apenas o site agregador. Outros ainda possuem sites autônomos.  
