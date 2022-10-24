@@ -161,7 +161,7 @@ title: 'Rio Grande do Norte'
 
 ### Currais Novos
 
--  **[Portal da Transparência do Município de Currais Novos](http://prefeituracurraisnovos.com.br/transparencia/)**: http://prefeituracurraisnovos.com.br/transparencia/
+-  **[Portal da Transparência do Município de Currais Novos](https://www.curraisnovos.rn.gov.br/transparencia/)**: https://www.curraisnovos.rn.gov.br/transparencia/
 
 ### Doutor Severiano
 
@@ -287,7 +287,7 @@ title: 'Rio Grande do Norte'
 
 ### João Câmara
 
--  **[Portal da Transparência do Município de João Câmara](http://topdown.servehttp.com:8080/Transparencia/pmjoaocamara/)**: http://topdown.servehttp.com:8080/Transparencia/pmjoaocamara/
+-  **[Portal da Transparência do Município de João Câmara](https://joaocamara.rn.gov.br/transparencia.php)**: https://joaocamara.rn.gov.br/transparencia.php
 
 ### João Dias
 
@@ -339,11 +339,12 @@ title: 'Rio Grande do Norte'
 
 ### Luís Gomes
 
--  **[Portal da Transparência do Município de Luís Gomes](https://luisgomes.rn.gov.br/elementor-6617/)**: https://luisgomes.rn.gov.br/elementor-6617/
+-  **[Portal da Transparência do Município de Luís Gomes de 2014 a 2019](https://transparencia.elmartecnologia.com.br/?e=880076&DefaultLayout=)**: https://transparencia.elmartecnologia.com.br/?e=880076&DefaultLayout=
+-  **[Portal da Transparência do Município de Luís Gomes a partir de 2020](http://cloud.publica.inf.br/clientes/luisgomes_pm/portaltransparencia/)**: http://cloud.publica.inf.br/clientes/luisgomes_pm/portaltransparencia/
 
 ### Macaíba
 
--  **[Portal da Transparência do Município de Macaíba](http://186.209.105.226/transparencia/portalMacaiba/index.html)**: http://186.209.105.226/transparencia/portalMacaiba/index.html
+-  **[Portal da Transparência do Município de Macaíba](186.209.105.226/transparencia/)**: 186.209.105.226/transparencia/
 
 ### Macau
 
@@ -467,7 +468,7 @@ title: 'Rio Grande do Norte'
 
 ### Pendências
 
--  **[Portal da Transparência do Município de Pendências](138.36.5.70:3370/transparencia/)**: 138.36.5.70:3370/transparencia/
+-  **[Portal da Transparência do Município de Pendências](http://170.79.153.143:3370/transparencia/despesas.aspx)**: http://170.79.153.143:3370/transparencia/despesas.aspx
 
 ### Pilões
 
@@ -563,12 +564,18 @@ title: 'Rio Grande do Norte'
 
 ### São João do Sabugi
 
--  **[Portal da Transparência do Município de São João do Sabugi](http://saojoaodosabugi.rn.gov.br/portal-da-transparencia/)**: http://saojoaodosabugi.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência do Município de São João do Sabugi - anos 2019 e 2020](https://transparencia.lemarq.inf.br/menu/?uf=rn&rnp=rnp129)**: https://transparencia.lemarq.inf.br/menu/?uf=rn&rnp=rnp129
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2018](http://lemarq.com.br/transparencia/2018/rnp129/)**: http://lemarq.com.br/transparencia/2018/rnp129/
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2017](http://lemarq.com.br/transparencia/2017/rnp129/)**: http://lemarq.com.br/transparencia/2017/rnp129/
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2016](http://lemarq.com.br/transparencia/2016/rnp129/)**: http://lemarq.com.br/transparencia/2016/rnp129/
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2015](http://lemarq.com.br/transparencia/rnp129/2015/)**: http://lemarq.com.br/transparencia/rnp129/2015/
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2014](http://lemarq.com.br/transparencia/rnp129/2014/)**: http://lemarq.com.br/transparencia/rnp129/2014/
+-  **[Portal da Transparência do Município de São João do Sabugi - ano 2013](http://lemarq.com.br/transparencia/rnp129/2013/)**: http://lemarq.com.br/transparencia/rnp129/2013/
 
 ### São José de Mipibu
 
--  **[Portal da Transparência do Município de São José de Mipibu](http://177.135.190.90:8080/transparencia)**: http://177.135.190.90:8080/transparencia
-
+-  **[Portal da Transparência do Município de São José de Mipibu](http://191.34.165.146:8080/transparencia/despesas.aspx)**: http://191.34.165.146:8080/transparencia/despesas.aspx
+-  **[Folha de Pessoal do Município de São José de Mipibu](http://www.saojosedemipibu.rn.gov.br/despesa-com-pessoal)**: http://www.saojosedemipibu.rn.gov.br/despesa-com-pessoal
 ### São José do Seridó
 
 -  **[Portal da Transparência do Município de São José do Seridó](http://lemarq.com.br/transparencia/rnp132/)**: http://lemarq.com.br/transparencia/rnp132/

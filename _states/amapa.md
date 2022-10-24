@@ -18,7 +18,7 @@ title: 'Amapá'
 
 ### Cutias
 
-- **[Portal da Transparência da Prefeitura do Município de Cutias](http://homologacao.cutias.ap.gov.br/contas)**: http://homologacao.cutias.ap.gov.br/contas
+- **[Portal da Transparência da Prefeitura do Município de Cutias](http://www.cutias.ap.gov.br/contas)**: http://www.cutias.ap.gov.br/contas
 - **[Portal da Transparência da Câmara Municipal de Cutias](https://www.cutias.ap.leg.br/transparencia)**: https://www.cutias.ap.leg.br/transparencia
 - **[Dados na plataforma Gove do Município Cutias](https://www.gove.digital/dados-abertos/#/cutias-ap/geral)**: https://www.gove.digital/dados-abertos/#/cutias-ap/geral
 

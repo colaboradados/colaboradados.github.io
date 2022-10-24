@@ -186,7 +186,7 @@ title: 'Rondônia'
 ### Porto Velho
 
 - **[Portal da Transparência da Câmara Municipal de Porto Velho](http://transparencia.portovelho.ro.leg.br/)**: http://transparencia.portovelho.ro.leg.br/
-- **[Portal da Transparência do Município de Porto Velho](http://transparencia.portovelho.ro.gov.br/Site/Principal/)**: http://transparencia.portovelho.ro.gov.br/Site/Principal/
+- **[Portal da Transparência do Município de Porto Velho](https://transparencia.portovelho.ro.gov.br/)**: https://transparencia.portovelho.ro.gov.br/
 
 ### Presidente Médici
 
