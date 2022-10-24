@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'São Paulo'
+title: "São Paulo"
+image: "sao-paulo.png"
 ---
 
 ### Bauru
@@ -13,7 +14,7 @@ title: 'São Paulo'
 
 ### Campos do Jordão
 
--   **[Portal da Transparência do Município de Campos do Jordão](http://camposdojordao.sp.gov.br/transparencia/)**: http://camposdojordao.sp.gov.br/transparencia/
+- **[Portal da Transparência do Município de Campos do Jordão](http://camposdojordao.sp.gov.br/transparencia/)**: http://camposdojordao.sp.gov.br/transparencia/
 
 ### Carapicuíba
 
@@ -29,15 +30,15 @@ title: 'São Paulo'
 
 ### Indaiatuba
 
--   **[Portal da Transparência do Município de Indaiatuba](https://www.indaiatuba.sp.gov.br/transparencia/)**: https://www.indaiatuba.sp.gov.br/transparencia/
+- **[Portal da Transparência do Município de Indaiatuba](https://www.indaiatuba.sp.gov.br/transparencia/)**: https://www.indaiatuba.sp.gov.br/transparencia/
 
 ### Itanhaém
 
--   **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portaltransparencia1/)**: http://www2.itanhaem.sp.gov.br/portaltransparencia1/
+- **[Portal da Transparência do Município de Itanhaém](http://www2.itanhaem.sp.gov.br/portaltransparencia1/)**: http://www2.itanhaem.sp.gov.br/portaltransparencia1/
 
 ### Jacareí
 
--   **[Portal da Transparência do Município de Jacareí](http://www.jacarei.sp.gov.br/transparencia-prefeitura/)**: http://www.jacarei.sp.gov.br/transparencia-prefeitura/
+- **[Portal da Transparência do Município de Jacareí](http://www.jacarei.sp.gov.br/transparencia-prefeitura/)**: http://www.jacarei.sp.gov.br/transparencia-prefeitura/
 
 ### Guarujá
 
@@ -59,7 +60,7 @@ _Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, 
 
 ### Lorena
 
--   **[Portal da Transparência do Município de Lorena](https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php)**: https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php
+- **[Portal da Transparência do Município de Lorena](https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php)**: https://siap.lorena.sp.gov.br/pmlorena/websis/portal_transparencia/financeiro/contas_publicas/index.php
 
 ### Mauá
 
@@ -83,7 +84,7 @@ _Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, 
 
 ### Santa Isabel
 
--   **[Portal da Transparência do Município de Santa Isabel](https://apps.santaisabel.sp.gov.br/transparencia/)**: https://apps.santaisabel.sp.gov.br/transparencia/
+- **[Portal da Transparência do Município de Santa Isabel](https://apps.santaisabel.sp.gov.br/transparencia/)**: https://apps.santaisabel.sp.gov.br/transparencia/
 
 ### Santo André
 
@@ -95,7 +96,7 @@ _Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, 
 
 ### São Bento do Sapucaí
 
--   **[Portal da Transparência do Município de São Bento do Sapucaí](https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0)**: https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0
+- **[Portal da Transparência do Município de São Bento do Sapucaí](https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0)**: https://saobentodosapucai.giap.com.br/apex/sbs/f?p=839:1:0
 
 ### São Bernardo do Campo
 
@@ -123,4 +124,4 @@ _Observação:_ Esse portal de transparência, em sua seção de Dados Abertos, 
 
 ### Taubaté
 
--   **[Portal da Transparência do Município de Taubaté](http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410)**: http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410
+- **[Portal da Transparência do Município de Taubaté](http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410)**: http://leideacesso.etransparencia.com.br/taubate.prefeitura.sp/Portal/desktop.html?410
