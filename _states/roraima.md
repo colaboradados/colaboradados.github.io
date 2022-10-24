@@ -65,7 +65,7 @@ title: 'Roraima'
 
 ### São João da Baliza
 
-- **[Portal da Transparência da Câmara Municipal do Município de São João da Baliza](saojoaodabaliza.rr.leg.br/transparencia)**: saojoaodabaliza.rr.leg.br/transparencia
+- **[Portal da Transparência da Câmara Municipal do Município de São João da Baliza](https://www.saojoaodabaliza.rr.leg.br/)**: https://www.saojoaodabaliza.rr.leg.br/
 - **[Portal de Transparência do Município de São João da Baliza](https://saojoaodabaliza.rr.gov.br/)**: https://saojoaodabaliza.rr.gov.br/
 
 ### São Luiz
