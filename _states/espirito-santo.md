@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Espírito Santo'
+title: "Espírito Santo"
+image: "espirito-santo.png"
 ---
 
 ### Aracruz

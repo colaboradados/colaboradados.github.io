@@ -1,4 +1,5 @@
 ---
 layout: default
-title: 'Tocantins'
+title: "Tocantins"
+image: "tocantins.png"
 ---

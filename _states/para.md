@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Pará'
+title: "Pará"
+image: "para.png"
 ---
 
 ### Ananindeua

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'Rio Grande do Sul'
+title: "Rio Grande do Sul"
+image: "rio-grande-do-sul.png"
 ---
 
 ### Campo Bom
