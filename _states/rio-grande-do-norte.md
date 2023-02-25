@@ -162,6 +162,9 @@ image: "rio-grande-do-norte.png"
 
 - **[Portal da Transparência do Município de Currais Novos](https://www.curraisnovos.rn.gov.br/transparencia/)**: https://www.curraisnovos.rn.gov.br/transparencia/
 
+-  **[Portal da Transparência da Câmara Municipal de Currais Novos](http://transparencia.curraisnovos.rn.leg.br/)**: http://transparencia.curraisnovos.rn.leg.br/
+
+
 ### Doutor Severiano
 
 - **[Portal da Transparência do Município de Doutor Severiano](http://transparenciaicone.com.br/doutorseverianorn/portaldatransparencia/)**: http://transparenciaicone.com.br/doutorseverianorn/portaldatransparencia/
